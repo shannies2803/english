@@ -1,0 +1,2008 @@
+{
+ "sets": [
+  {
+   "id": "secY1",
+   "letter": "Y1",
+   "title": "Plurals & nouns · more practice",
+   "level": "P3",
+   "mode": "auto",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Write the plural: knife → __________",
+     "a": [
+      "knives"
+     ],
+     "m": "knives",
+     "tip": "-fe becomes -ves."
+    },
+    {
+     "n": 2,
+     "q": "Write the plural: shelf → __________",
+     "a": [
+      "shelves"
+     ],
+     "m": "shelves",
+     "tip": ""
+    },
+    {
+     "n": 3,
+     "q": "Write the plural: story → __________",
+     "a": [
+      "stories"
+     ],
+     "m": "stories",
+     "tip": "Consonant + y becomes -ies."
+    },
+    {
+     "n": 4,
+     "q": "Write the plural: donkey → __________",
+     "a": [
+      "donkeys"
+     ],
+     "m": "donkeys",
+     "tip": "Vowel + y just adds -s."
+    },
+    {
+     "n": 5,
+     "q": "Write the plural: brush → __________",
+     "a": [
+      "brushes"
+     ],
+     "m": "brushes",
+     "tip": "-sh takes -es."
+    },
+    {
+     "n": 6,
+     "q": "Write the plural: fox → __________",
+     "a": [
+      "foxes"
+     ],
+     "m": "foxes",
+     "tip": ""
+    },
+    {
+     "n": 7,
+     "q": "Write the plural: hero → __________",
+     "a": [
+      "heroes"
+     ],
+     "m": "heroes",
+     "tip": "Consonant + o takes -es."
+    },
+    {
+     "n": 8,
+     "q": "Write the plural: video → __________",
+     "a": [
+      "videos"
+     ],
+     "m": "videos",
+     "tip": "Vowel + o just adds -s."
+    },
+    {
+     "n": 9,
+     "q": "Write the plural: goose → __________",
+     "a": [
+      "geese"
+     ],
+     "m": "geese",
+     "tip": ""
+    },
+    {
+     "n": 10,
+     "q": "Write the plural: ox → __________",
+     "a": [
+      "oxen"
+     ],
+     "m": "oxen",
+     "tip": "An unusual irregular plural."
+    },
+    {
+     "n": 11,
+     "q": "Write the plural: deer → __________",
+     "a": [
+      "deer"
+     ],
+     "m": "deer",
+     "tip": "No change."
+    },
+    {
+     "n": 12,
+     "q": "Write the plural: person → __________",
+     "a": [
+      "people",
+      "persons"
+     ],
+     "m": "people",
+     "tip": ""
+    },
+    {
+     "n": 13,
+     "q": "Write the plural: loaf → __________",
+     "a": [
+      "loaves"
+     ],
+     "m": "loaves",
+     "tip": ""
+    },
+    {
+     "n": 14,
+     "q": "Write the plural: chief → __________",
+     "a": [
+      "chiefs"
+     ],
+     "m": "chiefs",
+     "tip": "An exception — not 'chieves'."
+    },
+    {
+     "n": 15,
+     "q": "Write the plural: half → __________",
+     "a": [
+      "halves"
+     ],
+     "m": "halves",
+     "tip": ""
+    },
+    {
+     "n": 16,
+     "q": "A __________ of ants marched across the path.",
+     "a": [
+      "colony",
+      "army",
+      "swarm"
+     ],
+     "m": "colony",
+     "tip": "The collective noun for ants."
+    },
+    {
+     "n": 17,
+     "q": "We saw a __________ of lions resting in the shade.",
+     "a": [
+      "pride"
+     ],
+     "m": "pride",
+     "tip": ""
+    },
+    {
+     "n": 18,
+     "q": "Mother bought a __________ of grapes at the market.",
+     "a": [
+      "bunch"
+     ],
+     "m": "bunch",
+     "tip": ""
+    },
+    {
+     "n": 19,
+     "q": "A __________ of puppies was born last night.",
+     "a": [
+      "litter"
+     ],
+     "m": "litter",
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "The sailors on the ship are called the __________.",
+     "a": [
+      "crew"
+     ],
+     "m": "crew",
+     "tip": ""
+    },
+    {
+     "n": 21,
+     "q": "I need a piece of __________ (paper / papers) for my drawing.",
+     "a": [
+      "paper"
+     ],
+     "m": "paper",
+     "tip": "'Paper' is uncountable here."
+    },
+    {
+     "n": 22,
+     "q": "There is too much __________ (furniture / furnitures) in this room.",
+     "a": [
+      "furniture"
+     ],
+     "m": "furniture",
+     "tip": "Never add -s to 'furniture'."
+    },
+    {
+     "n": 23,
+     "q": "The __________ (girl's / girls') bags were left in the hall. There are many girls.",
+     "a": [
+      "girls'"
+     ],
+     "m": "girls'",
+     "tip": "Plural already ending in -s takes only an apostrophe."
+    },
+    {
+     "n": 24,
+     "q": "That is my __________ (brother's / brothers') bicycle. I have one brother.",
+     "a": [
+      "brother's"
+     ],
+     "m": "brother's",
+     "tip": ""
+    },
+    {
+     "n": 25,
+     "q": "The __________ (men's / mens') changing room is downstairs.",
+     "a": [
+      "men's"
+     ],
+     "m": "men's",
+     "tip": "Irregular plural takes 's."
+    }
+   ]
+  },
+  {
+   "id": "secY2",
+   "letter": "Y2",
+   "title": "Pronouns · more practice",
+   "level": "P3",
+   "mode": "auto",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Ali and __________ (me / I) walked to school together.",
+     "a": [
+      "I"
+     ],
+     "m": "I",
+     "tip": "Remove 'Ali and' and test it."
+    },
+    {
+     "n": 2,
+     "q": "Grandmother gave the sweets to Siti and __________ (me / I).",
+     "a": [
+      "me"
+     ],
+     "m": "me",
+     "tip": "After 'to', use 'me'."
+    },
+    {
+     "n": 3,
+     "q": "The dog wagged __________ (its / it's) tail happily.",
+     "a": [
+      "its"
+     ],
+     "m": "its",
+     "tip": "'Its' shows belonging."
+    },
+    {
+     "n": 4,
+     "q": "__________ (Its / It's) time for recess.",
+     "a": [
+      "It's"
+     ],
+     "m": "It's",
+     "tip": "'It's' means 'it is'."
+    },
+    {
+     "n": 5,
+     "q": "This umbrella is __________ (her / hers).",
+     "a": [
+      "hers"
+     ],
+     "m": "hers",
+     "tip": "No noun follows, so use the possessive pronoun."
+    },
+    {
+     "n": 6,
+     "q": "That is __________ (her / hers) umbrella.",
+     "a": [
+      "her"
+     ],
+     "m": "her",
+     "tip": "A noun follows, so use the possessive adjective."
+    },
+    {
+     "n": 7,
+     "q": "The children made the poster by __________ (theirselves / themselves).",
+     "a": [
+      "themselves"
+     ],
+     "m": "themselves",
+     "tip": "'Theirselves' is not a word."
+    },
+    {
+     "n": 8,
+     "q": "I hurt __________ while cutting the paper.",
+     "a": [
+      "myself"
+     ],
+     "m": "myself",
+     "tip": ""
+    },
+    {
+     "n": 9,
+     "q": "Everyone must bring __________ (their / his or her) own pencil.",
+     "a": [
+      "his or her",
+      "their"
+     ],
+     "m": "his or her",
+     "tip": "'Everyone' is singular; 'his or her' is safest in the exam."
+    },
+    {
+     "n": 10,
+     "q": "__________ (Who / Which) is your favourite teacher?",
+     "a": [
+      "Who"
+     ],
+     "m": "Who",
+     "tip": "'Who' is for people."
+    },
+    {
+     "n": 11,
+     "q": "The book __________ (who / which) I borrowed is very funny.",
+     "a": [
+      "which",
+      "that"
+     ],
+     "m": "which",
+     "tip": "'Which' is for things."
+    },
+    {
+     "n": 12,
+     "q": "We enjoyed __________ at the birthday party.",
+     "a": [
+      "ourselves"
+     ],
+     "m": "ourselves",
+     "tip": ""
+    },
+    {
+     "n": 13,
+     "q": "The prize was shared between Rahim and __________ (I / me).",
+     "a": [
+      "me"
+     ],
+     "m": "me",
+     "tip": "After 'between', use 'me'."
+    },
+    {
+     "n": 14,
+     "q": "My sister and __________ (me / I) are twins.",
+     "a": [
+      "I"
+     ],
+     "m": "I",
+     "tip": ""
+    },
+    {
+     "n": 15,
+     "q": "The cat licked __________ (herself / itself) clean.",
+     "a": [
+      "itself"
+     ],
+     "m": "itself",
+     "tip": "We usually use 'it' for an animal whose sex is unknown."
+    },
+    {
+     "n": 16,
+     "q": "Those shoes are __________ (their / theirs).",
+     "a": [
+      "theirs"
+     ],
+     "m": "theirs",
+     "tip": ""
+    },
+    {
+     "n": 17,
+     "q": "Somebody has left __________ water bottle behind.",
+     "a": [
+      "his",
+      "her",
+      "their",
+      "his or her"
+     ],
+     "m": "his or her",
+     "tip": ""
+    },
+    {
+     "n": 18,
+     "q": "The girl __________ (who / which) won the race is in my class.",
+     "a": [
+      "who",
+      "that"
+     ],
+     "m": "who",
+     "tip": ""
+    },
+    {
+     "n": 19,
+     "q": "Please give the letter to __________ (he / him).",
+     "a": [
+      "him"
+     ],
+     "m": "him",
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "__________ (We / Us) pupils enjoy Fridays.",
+     "a": [
+      "We"
+     ],
+     "m": "We",
+     "tip": "'We' is the subject of the sentence."
+    }
+   ]
+  },
+  {
+   "id": "secY3",
+   "letter": "Y3",
+   "title": "Simple tenses · more practice",
+   "level": "P3",
+   "mode": "auto",
+   "questions": [
+    {
+     "n": 1,
+     "q": "My father __________ (drive) to work every morning.",
+     "a": [
+      "drives"
+     ],
+     "m": "drives",
+     "tip": "Simple present for a routine."
+    },
+    {
+     "n": 2,
+     "q": "The baby __________ (sleep) right now.",
+     "a": [
+      "is sleeping"
+     ],
+     "m": "is sleeping",
+     "tip": "'Right now' signals the present continuous."
+    },
+    {
+     "n": 3,
+     "q": "We __________ (go) to the beach last Sunday.",
+     "a": [
+      "went"
+     ],
+     "m": "went",
+     "tip": "'Last Sunday' signals the simple past."
+    },
+    {
+     "n": 4,
+     "q": "She __________ (carry) the heavy bag upstairs yesterday.",
+     "a": [
+      "carried"
+     ],
+     "m": "carried",
+     "tip": "Consonant + y becomes -ied."
+    },
+    {
+     "n": 5,
+     "q": "Birds __________ (build) nests in spring.",
+     "a": [
+      "build"
+     ],
+     "m": "build",
+     "tip": "A general truth."
+    },
+    {
+     "n": 6,
+     "q": "Look! The kitten __________ (climb) the curtain.",
+     "a": [
+      "is climbing"
+     ],
+     "m": "is climbing",
+     "tip": "'Look!' signals something happening now."
+    },
+    {
+     "n": 7,
+     "q": "I __________ (not like) durian.",
+     "a": [
+      "do not like",
+      "don't like"
+     ],
+     "m": "do not like",
+     "tip": ""
+    },
+    {
+     "n": 8,
+     "q": "He __________ (catch) a big fish last weekend.",
+     "a": [
+      "caught"
+     ],
+     "m": "caught",
+     "tip": "'Catch' is irregular."
+    },
+    {
+     "n": 9,
+     "q": "My grandparents __________ (live) in Malacca.",
+     "a": [
+      "live"
+     ],
+     "m": "live",
+     "tip": "Plural subject, no -s."
+    },
+    {
+     "n": 10,
+     "q": "The sun __________ (set) in the west.",
+     "a": [
+      "sets"
+     ],
+     "m": "sets",
+     "tip": ""
+    },
+    {
+     "n": 11,
+     "q": "Tomorrow we __________ (visit) the Science Centre.",
+     "a": [
+      "will visit",
+      "are visiting",
+      "are going to visit"
+     ],
+     "m": "will visit",
+     "tip": ""
+    },
+    {
+     "n": 12,
+     "q": "She __________ (teach) us Mathematics last year.",
+     "a": [
+      "taught"
+     ],
+     "m": "taught",
+     "tip": ""
+    },
+    {
+     "n": 13,
+     "q": "The boys __________ (play) football in the field now.",
+     "a": [
+      "are playing"
+     ],
+     "m": "are playing",
+     "tip": ""
+    },
+    {
+     "n": 14,
+     "q": "I __________ (write) a letter to my cousin yesterday.",
+     "a": [
+      "wrote"
+     ],
+     "m": "wrote",
+     "tip": ""
+    },
+    {
+     "n": 15,
+     "q": "Water __________ (freeze) at zero degrees Celsius.",
+     "a": [
+      "freezes"
+     ],
+     "m": "freezes",
+     "tip": ""
+    },
+    {
+     "n": 16,
+     "q": "He __________ (stop) the car suddenly.",
+     "a": [
+      "stopped"
+     ],
+     "m": "stopped",
+     "tip": "One syllable, CVC — double the final consonant."
+    },
+    {
+     "n": 17,
+     "q": "My mother __________ (bake) a cake for my birthday last week.",
+     "a": [
+      "baked"
+     ],
+     "m": "baked",
+     "tip": ""
+    },
+    {
+     "n": 18,
+     "q": "They __________ (not come) to school yesterday.",
+     "a": [
+      "did not come",
+      "didn't come"
+     ],
+     "m": "did not come",
+     "tip": "After 'did not', use the base form."
+    },
+    {
+     "n": 19,
+     "q": "Listen! Someone __________ (knock) at the door.",
+     "a": [
+      "is knocking"
+     ],
+     "m": "is knocking",
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "We __________ (have) a test every Friday.",
+     "a": [
+      "have"
+     ],
+     "m": "have",
+     "tip": ""
+    },
+    {
+     "n": 21,
+     "q": "The old man __________ (fall) down the steps last night.",
+     "a": [
+      "fell"
+     ],
+     "m": "fell",
+     "tip": ""
+    },
+    {
+     "n": 22,
+     "q": "She __________ (buy) a new schoolbag yesterday.",
+     "a": [
+      "bought"
+     ],
+     "m": "bought",
+     "tip": ""
+    },
+    {
+     "n": 23,
+     "q": "My brother __________ (brush) his teeth twice a day.",
+     "a": [
+      "brushes"
+     ],
+     "m": "brushes",
+     "tip": "-sh takes -es."
+    },
+    {
+     "n": 24,
+     "q": "The children __________ (swim) in the pool at the moment.",
+     "a": [
+      "are swimming"
+     ],
+     "m": "are swimming",
+     "tip": "Double the m before -ing."
+    },
+    {
+     "n": 25,
+     "q": "I __________ (see) a rainbow after the rain yesterday.",
+     "a": [
+      "saw"
+     ],
+     "m": "saw",
+     "tip": ""
+    }
+   ]
+  },
+  {
+   "id": "secY4",
+   "letter": "Y4",
+   "title": "Prepositions · more practice",
+   "level": "P3",
+   "mode": "auto",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The cat is hiding __________ the bed.",
+     "a": [
+      "under",
+      "beneath",
+      "underneath"
+     ],
+     "m": "under",
+     "tip": ""
+    },
+    {
+     "n": 2,
+     "q": "We will meet __________ Monday.",
+     "a": [
+      "on"
+     ],
+     "m": "on",
+     "tip": "Days take 'on'."
+    },
+    {
+     "n": 3,
+     "q": "School starts __________ 7.30 a.m.",
+     "a": [
+      "at"
+     ],
+     "m": "at",
+     "tip": "Clock times take 'at'."
+    },
+    {
+     "n": 4,
+     "q": "My birthday is __________ March.",
+     "a": [
+      "in"
+     ],
+     "m": "in",
+     "tip": "Months take 'in'."
+    },
+    {
+     "n": 5,
+     "q": "The picture is hanging __________ the wall.",
+     "a": [
+      "on"
+     ],
+     "m": "on",
+     "tip": ""
+    },
+    {
+     "n": 6,
+     "q": "Put the milk __________ the fridge.",
+     "a": [
+      "in",
+      "into"
+     ],
+     "m": "in",
+     "tip": ""
+    },
+    {
+     "n": 7,
+     "q": "The bird flew __________ the window.",
+     "a": [
+      "through",
+      "out of",
+      "past"
+     ],
+     "m": "through",
+     "tip": ""
+    },
+    {
+     "n": 8,
+     "q": "She sat __________ her two best friends.",
+     "a": [
+      "between"
+     ],
+     "m": "between",
+     "tip": "Two people take 'between'."
+    },
+    {
+     "n": 9,
+     "q": "The ball rolled __________ the table.",
+     "a": [
+      "under",
+      "across",
+      "off"
+     ],
+     "m": "under",
+     "tip": ""
+    },
+    {
+     "n": 10,
+     "q": "We walked __________ the bridge to the other side.",
+     "a": [
+      "across",
+      "over"
+     ],
+     "m": "across",
+     "tip": ""
+    },
+    {
+     "n": 11,
+     "q": "He is good __________ drawing.",
+     "a": [
+      "at"
+     ],
+     "m": "at",
+     "tip": "Good AT something."
+    },
+    {
+     "n": 12,
+     "q": "I am afraid __________ spiders.",
+     "a": [
+      "of"
+     ],
+     "m": "of",
+     "tip": ""
+    },
+    {
+     "n": 13,
+     "q": "Please wait __________ me at the gate.",
+     "a": [
+      "for"
+     ],
+     "m": "for",
+     "tip": ""
+    },
+    {
+     "n": 14,
+     "q": "Listen __________ your teacher carefully.",
+     "a": [
+      "to"
+     ],
+     "m": "to",
+     "tip": ""
+    },
+    {
+     "n": 15,
+     "q": "The shop is __________ the post office and the bakery.",
+     "a": [
+      "between"
+     ],
+     "m": "between",
+     "tip": ""
+    },
+    {
+     "n": 16,
+     "q": "My pencil fell __________ the floor.",
+     "a": [
+      "on",
+      "onto",
+      "to"
+     ],
+     "m": "on",
+     "tip": ""
+    },
+    {
+     "n": 17,
+     "q": "We arrived __________ the airport at six.",
+     "a": [
+      "at"
+     ],
+     "m": "at",
+     "tip": "Arrive AT a place, arrive IN a city."
+    },
+    {
+     "n": 18,
+     "q": "She reached __________ home before dark. (write X if no preposition is needed)",
+     "a": [
+      "X",
+      "x",
+      "none",
+      "no preposition",
+      "-"
+     ],
+     "m": "X",
+     "tip": "'Reach home' takes no preposition."
+    },
+    {
+     "n": 19,
+     "q": "The cat jumped __________ the wall and ran away.",
+     "a": [
+      "over",
+      "off"
+     ],
+     "m": "over",
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "I have known him __________ five years.",
+     "a": [
+      "for"
+     ],
+     "m": "for",
+     "tip": "'For' + a length of time."
+    }
+   ]
+  },
+  {
+   "id": "secY5",
+   "letter": "Y5",
+   "title": "Adjectives & adverbs · more practice",
+   "level": "P4",
+   "mode": "auto",
+   "questions": [
+    {
+     "n": 1,
+     "q": "An elephant is __________ (big) than a horse.",
+     "a": [
+      "bigger"
+     ],
+     "m": "bigger",
+     "tip": "Double the g."
+    },
+    {
+     "n": 2,
+     "q": "This is the __________ (heavy) box of the three.",
+     "a": [
+      "heaviest"
+     ],
+     "m": "heaviest",
+     "tip": ""
+    },
+    {
+     "n": 3,
+     "q": "She sings __________ (sweet).",
+     "a": [
+      "sweetly"
+     ],
+     "m": "sweetly",
+     "tip": "It describes how she sings."
+    },
+    {
+     "n": 4,
+     "q": "The soup smells __________ (lovely).",
+     "a": [
+      "lovely"
+     ],
+     "m": "lovely",
+     "tip": "'Smell' is a linking verb here."
+    },
+    {
+     "n": 5,
+     "q": "He ran __________ (fast) than his brother.",
+     "a": [
+      "faster"
+     ],
+     "m": "faster",
+     "tip": ""
+    },
+    {
+     "n": 6,
+     "q": "My handwriting is __________ (bad) than yours.",
+     "a": [
+      "worse"
+     ],
+     "m": "worse",
+     "tip": "Irregular comparative."
+    },
+    {
+     "n": 7,
+     "q": "That was the __________ (good) film I have seen.",
+     "a": [
+      "best"
+     ],
+     "m": "best",
+     "tip": ""
+    },
+    {
+     "n": 8,
+     "q": "The baby slept __________ (quiet) all night.",
+     "a": [
+      "quietly"
+     ],
+     "m": "quietly",
+     "tip": ""
+    },
+    {
+     "n": 9,
+     "q": "Arrange correctly: (red / a / small / bag) → __________",
+     "a": [
+      "a small red bag"
+     ],
+     "m": "a small red bag",
+     "tip": "Size comes before colour."
+    },
+    {
+     "n": 10,
+     "q": "Arrange correctly: (wooden / old / an / table) → __________",
+     "a": [
+      "an old wooden table"
+     ],
+     "m": "an old wooden table",
+     "tip": "Age comes before material."
+    },
+    {
+     "n": 11,
+     "q": "The film was very __________ (bore).",
+     "a": [
+      "boring"
+     ],
+     "m": "boring",
+     "tip": "-ing describes the thing causing the feeling."
+    },
+    {
+     "n": 12,
+     "q": "I was __________ (bore) during the long speech.",
+     "a": [
+      "bored"
+     ],
+     "m": "bored",
+     "tip": "-ed describes how a person feels."
+    },
+    {
+     "n": 13,
+     "q": "Of the two puppies, this one is the __________ (small).",
+     "a": [
+      "smaller"
+     ],
+     "m": "smaller",
+     "tip": "Only two, so use the comparative, not 'smallest'."
+    },
+    {
+     "n": 14,
+     "q": "He works very __________ (hard).",
+     "a": [
+      "hard"
+     ],
+     "m": "hard",
+     "tip": "'Hard' is both an adjective and an adverb."
+    },
+    {
+     "n": 15,
+     "q": "He __________ (hard) ever comes to practice.",
+     "a": [
+      "hardly"
+     ],
+     "m": "hardly",
+     "tip": "'Hardly ever' means almost never."
+    },
+    {
+     "n": 16,
+     "q": "The puppy looked __________ (sad) when we left.",
+     "a": [
+      "sad"
+     ],
+     "m": "sad",
+     "tip": "'Look' is a linking verb here."
+    },
+    {
+     "n": 17,
+     "q": "My results this term are __________ (good) than last term.",
+     "a": [
+      "better"
+     ],
+     "m": "better",
+     "tip": ""
+    },
+    {
+     "n": 18,
+     "q": "He speaks English __________ (good).",
+     "a": [
+      "well"
+     ],
+     "m": "well",
+     "tip": "The adverb of 'good' is 'well'."
+    },
+    {
+     "n": 19,
+     "q": "This puzzle is __________ (difficult) than I expected.",
+     "a": [
+      "more difficult"
+     ],
+     "m": "more difficult",
+     "tip": "Three syllables, so use 'more'."
+    },
+    {
+     "n": 20,
+     "q": "The children waited __________ (patient) for their turn.",
+     "a": [
+      "patiently"
+     ],
+     "m": "patiently",
+     "tip": ""
+    }
+   ]
+  },
+  {
+   "id": "secY6",
+   "letter": "Y6",
+   "title": "Punctuation · more practice",
+   "level": "P4",
+   "mode": "self",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Rewrite with correct punctuation: what time is it asked ravi",
+     "m": "\"What time is it?\" asked Ravi",
+     "tip": "Question mark inside the inverted commas."
+    },
+    {
+     "n": 2,
+     "q": "Rewrite with correct punctuation: i cant find my shoes said mei",
+     "m": "\"I can't find my shoes,\" said Mei",
+     "tip": "Apostrophe in 'can't'; comma before 'said'."
+    },
+    {
+     "n": 3,
+     "q": "Rewrite with correct punctuation: look out shouted the workman",
+     "m": "\"Look out!\" shouted the workman",
+     "tip": "An exclamation mark shows the shout."
+    },
+    {
+     "n": 4,
+     "q": "Rewrite with correct punctuation: we need eggs flour sugar and butter",
+     "m": "We need eggs, flour, sugar and butter",
+     "tip": "Commas between items in a list."
+    },
+    {
+     "n": 5,
+     "q": "Rewrite with correct punctuation: my cousin who lives in perth is visiting us",
+     "m": "My cousin, who lives in Perth, is visiting us",
+     "tip": "Extra information sits between commas."
+    },
+    {
+     "n": 6,
+     "q": "Rewrite with correct punctuation: dont touch that its hot",
+     "m": "\"Don't touch that! It's hot.\"",
+     "tip": "Two apostrophes and two sentences."
+    },
+    {
+     "n": 7,
+     "q": "Rewrite with correct punctuation: on saturday 12 june we are going to kuala lumpur",
+     "m": "On Saturday, 12 June, we are going to Kuala Lumpur",
+     "tip": "Capitals for the day, month and place."
+    },
+    {
+     "n": 8,
+     "q": "Rewrite with correct punctuation: the boys bags were left in the hall there were six boys",
+     "m": "The boys' bags were left in the hall",
+     "tip": "Plural possessive takes only an apostrophe."
+    },
+    {
+     "n": 9,
+     "q": "Rewrite with correct punctuation: mrs tan our form teacher is retiring",
+     "m": "Mrs Tan, our form teacher, is retiring",
+     "tip": ""
+    },
+    {
+     "n": 10,
+     "q": "Rewrite with correct punctuation: if it rains mother said we will stay indoors",
+     "m": "\"If it rains,\" Mother said, \"we will stay indoors.\"",
+     "tip": "The second half starts with a small letter."
+    },
+    {
+     "n": 11,
+     "q": "Rewrite with correct punctuation: have you finished your homework yet asked father",
+     "m": "\"Have you finished your homework yet?\" asked Father",
+     "tip": ""
+    },
+    {
+     "n": 12,
+     "q": "Rewrite with correct punctuation: i bought apples oranges and pears at the market said nina",
+     "m": "\"I bought apples, oranges and pears at the market,\" said Nina",
+     "tip": "A list inside direct speech."
+    },
+    {
+     "n": 13,
+     "q": "Rewrite with correct punctuation: the childrens playground is closed today",
+     "m": "The children's playground is closed today",
+     "tip": "Irregular plural takes 's."
+    },
+    {
+     "n": 14,
+     "q": "Rewrite with correct punctuation: wait shouted amir the bus is coming",
+     "m": "\"Wait!\" shouted Amir. \"The bus is coming.\"",
+     "tip": "Two separate sentences of speech."
+    },
+    {
+     "n": 15,
+     "q": "Rewrite with correct punctuation: my favourite subjects are english science and art",
+     "m": "My favourite subjects are English, Science and Art",
+     "tip": "Subjects are proper nouns here."
+    },
+    {
+     "n": 16,
+     "q": "Rewrite with correct punctuation: thats not mine its hers",
+     "m": "\"That's not mine. It's hers.\"",
+     "tip": "'Hers' takes no apostrophe."
+    },
+    {
+     "n": 17,
+     "q": "Rewrite with correct punctuation: before we leave mother said check that the windows are shut",
+     "m": "\"Before we leave,\" Mother said, \"check that the windows are shut.\"",
+     "tip": ""
+    },
+    {
+     "n": 18,
+     "q": "Rewrite with correct punctuation: dr lim will see you now said the nurse",
+     "m": "\"Dr Lim will see you now,\" said the nurse",
+     "tip": ""
+    },
+    {
+     "n": 19,
+     "q": "Rewrite with correct punctuation: we visited singapore malaysia and thailand last year",
+     "m": "We visited Singapore, Malaysia and Thailand last year",
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "Rewrite with correct punctuation: whose bag is this asked the teacher its blocking the door",
+     "m": "\"Whose bag is this?\" asked the teacher. \"It's blocking the door.\"",
+     "tip": "'Whose' has no apostrophe; 'it's' does."
+    }
+   ]
+  },
+  {
+   "id": "secY7",
+   "letter": "Y7",
+   "title": "Spelling · 40 words pupils get wrong",
+   "level": "P4",
+   "mode": "auto",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Correct the spelling: recieve → __________",
+     "a": [
+      "receive"
+     ],
+     "m": "receive",
+     "tip": "i before e except after c."
+    },
+    {
+     "n": 2,
+     "q": "Correct the spelling: seperate → __________",
+     "a": [
+      "separate"
+     ],
+     "m": "separate",
+     "tip": "There is 'a rat' in separate."
+    },
+    {
+     "n": 3,
+     "q": "Correct the spelling: definately → __________",
+     "a": [
+      "definitely"
+     ],
+     "m": "definitely",
+     "tip": "definite + ly."
+    },
+    {
+     "n": 4,
+     "q": "Correct the spelling: begining → __________",
+     "a": [
+      "beginning"
+     ],
+     "m": "beginning",
+     "tip": "Double the n."
+    },
+    {
+     "n": 5,
+     "q": "Correct the spelling: embarass → __________",
+     "a": [
+      "embarrass"
+     ],
+     "m": "embarrass",
+     "tip": "Double r and double s."
+    },
+    {
+     "n": 6,
+     "q": "Correct the spelling: neccessary → __________",
+     "a": [
+      "necessary"
+     ],
+     "m": "necessary",
+     "tip": "One c, two s."
+    },
+    {
+     "n": 7,
+     "q": "Correct the spelling: occassion → __________",
+     "a": [
+      "occasion"
+     ],
+     "m": "occasion",
+     "tip": "Two c, one s."
+    },
+    {
+     "n": 8,
+     "q": "Correct the spelling: tommorrow → __________",
+     "a": [
+      "tomorrow"
+     ],
+     "m": "tomorrow",
+     "tip": "One m, two r."
+    },
+    {
+     "n": 9,
+     "q": "Correct the spelling: untill → __________",
+     "a": [
+      "until"
+     ],
+     "m": "until",
+     "tip": "One l."
+    },
+    {
+     "n": 10,
+     "q": "Correct the spelling: wich → __________",
+     "a": [
+      "which"
+     ],
+     "m": "which",
+     "tip": ""
+    },
+    {
+     "n": 11,
+     "q": "Correct the spelling: freind → __________",
+     "a": [
+      "friend"
+     ],
+     "m": "friend",
+     "tip": "Fri-END, to the end."
+    },
+    {
+     "n": 12,
+     "q": "Correct the spelling: beautifull → __________",
+     "a": [
+      "beautiful"
+     ],
+     "m": "beautiful",
+     "tip": "-ful has one l."
+    },
+    {
+     "n": 13,
+     "q": "Correct the spelling: succesful → __________",
+     "a": [
+      "successful"
+     ],
+     "m": "successful",
+     "tip": "Two c, two s, then -ful."
+    },
+    {
+     "n": 14,
+     "q": "Correct the spelling: goverment → __________",
+     "a": [
+      "government"
+     ],
+     "m": "government",
+     "tip": "Govern + ment."
+    },
+    {
+     "n": 15,
+     "q": "Correct the spelling: enviroment → __________",
+     "a": [
+      "environment"
+     ],
+     "m": "environment",
+     "tip": "There is an 'n' before the m."
+    },
+    {
+     "n": 16,
+     "q": "Correct the spelling: libary → __________",
+     "a": [
+      "library"
+     ],
+     "m": "library",
+     "tip": "Two r sounds: lib-RAR-y."
+    },
+    {
+     "n": 17,
+     "q": "Correct the spelling: Febuary → __________",
+     "a": [
+      "February"
+     ],
+     "m": "February",
+     "tip": "Feb-RU-ary."
+    },
+    {
+     "n": 18,
+     "q": "Correct the spelling: Wendesday → __________",
+     "a": [
+      "Wednesday"
+     ],
+     "m": "Wednesday",
+     "tip": "Wed-nes-day."
+    },
+    {
+     "n": 19,
+     "q": "Correct the spelling: excercise → __________",
+     "a": [
+      "exercise"
+     ],
+     "m": "exercise",
+     "tip": "No c after the x."
+    },
+    {
+     "n": 20,
+     "q": "Correct the spelling: knowlege → __________",
+     "a": [
+      "knowledge"
+     ],
+     "m": "knowledge",
+     "tip": "Know + ledge."
+    },
+    {
+     "n": 21,
+     "q": "Correct the spelling: rythm → __________",
+     "a": [
+      "rhythm"
+     ],
+     "m": "rhythm",
+     "tip": "Two h's."
+    },
+    {
+     "n": 22,
+     "q": "Correct the spelling: surprize → __________",
+     "a": [
+      "surprise"
+     ],
+     "m": "surprise",
+     "tip": "-ise, not -ize."
+    },
+    {
+     "n": 23,
+     "q": "Correct the spelling: alot → __________",
+     "a": [
+      "a lot"
+     ],
+     "m": "a lot",
+     "tip": "Always two words."
+    },
+    {
+     "n": 24,
+     "q": "Correct the spelling: becuase → __________",
+     "a": [
+      "because"
+     ],
+     "m": "because",
+     "tip": ""
+    },
+    {
+     "n": 25,
+     "q": "Correct the spelling: diffrent → __________",
+     "a": [
+      "different"
+     ],
+     "m": "different",
+     "tip": "Three syllables: dif-fer-ent."
+    },
+    {
+     "n": 26,
+     "q": "Correct the spelling: intresting → __________",
+     "a": [
+      "interesting"
+     ],
+     "m": "interesting",
+     "tip": "in-ter-est-ing."
+    },
+    {
+     "n": 27,
+     "q": "Correct the spelling: resturant → __________",
+     "a": [
+      "restaurant"
+     ],
+     "m": "restaurant",
+     "tip": "There is an 'au' in the middle."
+    },
+    {
+     "n": 28,
+     "q": "Correct the spelling: vegtable → __________",
+     "a": [
+      "vegetable"
+     ],
+     "m": "vegetable",
+     "tip": "veg-e-table."
+    },
+    {
+     "n": 29,
+     "q": "Correct the spelling: temprature → __________",
+     "a": [
+      "temperature"
+     ],
+     "m": "temperature",
+     "tip": "tem-per-a-ture."
+    },
+    {
+     "n": 30,
+     "q": "Correct the spelling: buisness → __________",
+     "a": [
+      "business"
+     ],
+     "m": "business",
+     "tip": "busi + ness."
+    },
+    {
+     "n": 31,
+     "q": "Correct the spelling: writting → __________",
+     "a": [
+      "writing"
+     ],
+     "m": "writing",
+     "tip": "One t in 'writing', two in 'written'."
+    },
+    {
+     "n": 32,
+     "q": "Correct the spelling: stoped → __________",
+     "a": [
+      "stopped"
+     ],
+     "m": "stopped",
+     "tip": "Double the p."
+    },
+    {
+     "n": 33,
+     "q": "Correct the spelling: happend → __________",
+     "a": [
+      "happened"
+     ],
+     "m": "happened",
+     "tip": ""
+    },
+    {
+     "n": 34,
+     "q": "Correct the spelling: childrens → __________ (meaning belonging to the children)",
+     "a": [
+      "children's"
+     ],
+     "m": "children's",
+     "tip": ""
+    },
+    {
+     "n": 35,
+     "q": "Correct the spelling: alright → __________ (the form preferred in exams)",
+     "a": [
+      "all right"
+     ],
+     "m": "all right",
+     "tip": "Two words is safest."
+    },
+    {
+     "n": 36,
+     "q": "Correct the spelling: truely → __________",
+     "a": [
+      "truly"
+     ],
+     "m": "truly",
+     "tip": "Drop the e."
+    },
+    {
+     "n": 37,
+     "q": "Correct the spelling: arguement → __________",
+     "a": [
+      "argument"
+     ],
+     "m": "argument",
+     "tip": "Drop the e from 'argue'."
+    },
+    {
+     "n": 38,
+     "q": "Correct the spelling: sincerly → __________",
+     "a": [
+      "sincerely"
+     ],
+     "m": "sincerely",
+     "tip": "Keep the e: sincere + ly."
+    },
+    {
+     "n": 39,
+     "q": "Correct the spelling: immediatly → __________",
+     "a": [
+      "immediately"
+     ],
+     "m": "immediately",
+     "tip": "immediate + ly."
+    },
+    {
+     "n": 40,
+     "q": "Correct the spelling: grammer → __________",
+     "a": [
+      "grammar"
+     ],
+     "m": "grammar",
+     "tip": "-ar at the end."
+    }
+   ]
+  },
+  {
+   "id": "secY8",
+   "letter": "Y8",
+   "title": "Vocabulary · everyday words",
+   "level": "P3",
+   "mode": "mcq",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The little boy was __________ when he could not find his mother.",
+     "options": [
+      "delighted",
+      "frightened",
+      "sleepy",
+      "hungry"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 2,
+     "q": "After running around the field, we were all very __________.",
+     "options": [
+      "thirsty",
+      "quiet",
+      "clever",
+      "early"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 3,
+     "q": "The old bridge was __________, so nobody was allowed to cross it.",
+     "options": [
+      "strong",
+      "unsafe",
+      "new",
+      "wide"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 4,
+     "q": "Mother asked me to __________ the table before dinner.",
+     "options": [
+      "set",
+      "sit",
+      "seat",
+      "settle"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 5,
+     "q": "The soup was too hot, so I let it __________ for a while.",
+     "options": [
+      "boil",
+      "cool",
+      "burn",
+      "freeze"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 6,
+     "q": "My baby sister __________ loudly when she is hungry.",
+     "options": [
+      "whispers",
+      "cries",
+      "laughs",
+      "sleeps"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 7,
+     "q": "Please be __________ with the glass vase.",
+     "options": [
+      "careless",
+      "rough",
+      "careful",
+      "noisy"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 8,
+     "q": "The rain was so heavy that we were completely __________.",
+     "options": [
+      "dry",
+      "soaked",
+      "warm",
+      "dusty"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 9,
+     "q": "He is always __________ and helps anyone who needs it.",
+     "options": [
+      "selfish",
+      "kind",
+      "rude",
+      "lazy"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 10,
+     "q": "The classroom was __________ after the pupils tidied it.",
+     "options": [
+      "messy",
+      "dirty",
+      "neat",
+      "crowded"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 11,
+     "q": "I could not hear the teacher because the class was so __________.",
+     "options": [
+      "silent",
+      "noisy",
+      "empty",
+      "small"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 12,
+     "q": "The puppy __________ its tail when it saw us.",
+     "options": [
+      "wagged",
+      "waved",
+      "shook",
+      "pointed"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 13,
+     "q": "We __________ up early to catch the first bus.",
+     "options": [
+      "woke",
+      "walked",
+      "wore",
+      "won"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 14,
+     "q": "She was __________ to win first prize in the competition.",
+     "options": [
+      "upset",
+      "thrilled",
+      "bored",
+      "tired"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 15,
+     "q": "The jar was __________, so I could not open it.",
+     "options": [
+      "loose",
+      "tight",
+      "light",
+      "empty"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 16,
+     "q": "The path through the forest was very __________.",
+     "options": [
+      "broad",
+      "narrow",
+      "flat",
+      "short"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 17,
+     "q": "Grandmother __________ the story of her childhood.",
+     "options": [
+      "told",
+      "said",
+      "spoke",
+      "talked"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 18,
+     "q": "The ice cream began to __________ in the hot sun.",
+     "options": [
+      "freeze",
+      "melt",
+      "harden",
+      "grow"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 19,
+     "q": "He was __________ of the dark when he was younger.",
+     "options": [
+      "fond",
+      "proud",
+      "afraid",
+      "full"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 20,
+     "q": "Please __________ the door quietly when you leave.",
+     "options": [
+      "close",
+      "clothes",
+      "cloth",
+      "closed"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 21,
+     "q": "The boy __________ across the finishing line first.",
+     "options": [
+      "crawled",
+      "sprinted",
+      "strolled",
+      "limped"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 22,
+     "q": "My uncle __________ me a bicycle for my birthday.",
+     "options": [
+      "borrowed",
+      "lent",
+      "gave",
+      "took"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 23,
+     "q": "May I __________ your eraser for a moment?",
+     "options": [
+      "lend",
+      "borrow",
+      "give",
+      "keep"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 24,
+     "q": "The soup tasted __________ because I added too much salt.",
+     "options": [
+      "sweet",
+      "salty",
+      "sour",
+      "bitter"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 25,
+     "q": "We waited __________ for the bus, which was twenty minutes late.",
+     "options": [
+      "happily",
+      "patiently",
+      "quickly",
+      "loudly"
+     ],
+     "correct": 1
+    }
+   ]
+  }
+ ],
+ "passages": [
+  {
+   "id": "cmpM",
+   "title": "The Slowest Runner",
+   "level": "P3",
+   "kind": "Narrative",
+   "words": 270,
+   "text": [
+    "Everybody in Primary Three knew that Kai was the slowest runner in the class.",
+    "It was not something anyone was unkind about. It was simply a fact, like knowing that Nadia was the tallest or that Mr Rahim's classroom was the one with the broken clock. When we picked teams, Kai was picked last, and Kai did not seem to mind.",
+    "On Sports Day, our class had to run a relay. Four runners, one baton, once around the field.",
+    "Mr Rahim chose Kai to run the last leg.",
+    "The whole class went very quiet.",
+    "\"Sir,\" said Nadia carefully, \"shouldn't the fastest person go last?\"",
+    "\"Usually,\" said Mr Rahim. \"Not today.\"",
+    "He did not explain, and there was no time to argue.",
+    "On the day, our first three runners were wonderful. By the time the baton reached Kai, we were nearly ten metres ahead. Kai ran as fast as he could, which was not very fast, and two other runners passed him in the last twenty metres.",
+    "We came third.",
+    "Nobody said anything unkind, but nobody said anything at all either, which was somehow worse. Kai sat on the grass with his back to us.",
+    "Then Mr Rahim knelt down beside him and said something none of us could hear, and Kai laughed.",
+    "Afterwards, on the bus, Mr Rahim told us. Kai had asked him, three weeks earlier, whether he could please run in something, just once, and Mr Rahim had said yes.",
+    "\"He knew he would come third,\" Mr Rahim said. \"He asked anyway. I think that is the bravest thing that happened on that field today.\"",
+    "We won the relay the following year. Kai ran the last leg again, and we still won, because by then he had been practising for a year."
+   ],
+   "questions": [
+    {
+     "n": 1,
+     "q": "What did everybody know about Kai? (1m)",
+     "marks": 1,
+     "a": "That he was the slowest runner in the Primary Three class.",
+     "tip": "Literal. One short sentence."
+    },
+    {
+     "n": 2,
+     "q": "Why was the class surprised that Kai ran the last leg? (2m)",
+     "marks": 2,
+     "a": "Because the last leg is usually given to the fastest runner in the team, and Kai was the slowest, so they expected the team to lose their lead.",
+     "tip": "Nadia's question tells you the reason."
+    },
+    {
+     "n": 3,
+     "q": "What happened during the race? (2m)",
+     "marks": 2,
+     "a": "The first three runners built a lead of nearly ten metres, but two runners overtook Kai in the last twenty metres, so the class finished third.",
+     "tip": "Two marks: the lead, then what happened to it."
+    },
+    {
+     "n": 4,
+     "q": "Why does the writer say the silence was \"somehow worse\"? (2m)",
+     "marks": 2,
+     "a": "Because saying nothing at all made Kai feel blamed without anyone having to say so, which was harder to bear than an unkind remark he could have answered.",
+     "tip": "'Why do you think' style — you have to work it out."
+    },
+    {
+     "n": 5,
+     "q": "Why had Mr Rahim chosen Kai? (2m)",
+     "marks": 2,
+     "a": "Because Kai had asked him three weeks earlier whether he could take part in something just once, and Mr Rahim had agreed.",
+     "tip": ""
+    },
+    {
+     "n": 6,
+     "q": "What did Mr Rahim mean by calling it \"the bravest thing that happened on that field\"? (3m)",
+     "marks": 3,
+     "a": "Firstly, Kai knew before he started that he would probably lose the lead. In addition, he asked to run anyway, in front of the whole school. Finally, Mr Rahim is saying that choosing to try when you expect to fail takes more courage than winning does.",
+     "tip": "Three marks means three points."
+    },
+    {
+     "n": 7,
+     "q": "What does the last paragraph tell us about Kai? (2m)",
+     "marks": 2,
+     "a": "That he kept practising for a whole year after the race, which shows he was determined and did not let the defeat stop him.",
+     "tip": "The word 'because' at the end is doing the work."
+    },
+    {
+     "n": 8,
+     "q": "Do you think Mr Rahim made the right decision? Give a reason. (2m)",
+     "marks": 2,
+     "a": "Yes, because although the class lost the race, Kai gained the confidence to keep practising, and the class learnt something about courage that mattered more than one relay. (An answer saying no is accepted if it is well reasoned.)",
+     "tip": "Either answer can score, as long as you give a reason from the passage."
+    }
+   ]
+  },
+  {
+   "id": "cmpN",
+   "title": "Why Leaves Change Colour",
+   "level": "P4",
+   "kind": "Non-narrative",
+   "words": 290,
+   "text": [
+    "In many countries, the leaves on certain trees turn yellow, orange or red before they fall. In Singapore, this rarely happens. The reason has less to do with the trees themselves than with the weather.",
+    "Leaves are green because they contain a substance called chlorophyll. Chlorophyll allows a plant to use sunlight to make its own food. Because there is so much of it in a healthy leaf, its strong green colour hides all the other colours that are also present.",
+    "Those other colours have been there the whole time. Yellow and orange come from substances called carotenoids, the same ones that make carrots orange. They simply cannot be seen while the chlorophyll is there.",
+    "In countries with cold winters, the days grow shorter in autumn and the temperature drops. The tree senses this and begins to shut down its leaves, because keeping them alive through winter would cost more energy than it gains. It stops making new chlorophyll, and the chlorophyll already in the leaf slowly breaks down.",
+    "As the green fades, the yellows and oranges that were hidden underneath become visible. Some trees also produce a red substance at this time, which is why maple leaves turn such a bright red.",
+    "Eventually the tree seals off the leaf completely, and it falls.",
+    "Singapore has no cold season and very little change in day length, so most of our trees keep their leaves all year and stay green. A few, such as the sea almond, do drop their leaves and turn a reddish colour first — but they do it whenever they are ready, not all at the same time.",
+    "So the colours of autumn are not new colours arriving. They are old colours being uncovered."
+   ],
+   "questions": [
+    {
+     "n": 1,
+     "q": "What makes leaves green? (1m)",
+     "marks": 1,
+     "a": "A substance called chlorophyll.",
+     "tip": "Literal."
+    },
+    {
+     "n": 2,
+     "q": "What does chlorophyll do for a plant? (1m)",
+     "marks": 1,
+     "a": "It lets the plant use sunlight to make its own food.",
+     "tip": ""
+    },
+    {
+     "n": 3,
+     "q": "Why can we not normally see the yellow and orange in a leaf? (2m)",
+     "marks": 2,
+     "a": "Because a healthy leaf contains so much chlorophyll that its strong green colour covers up the other colours, even though they are present all along.",
+     "tip": "Two marks: the amount of chlorophyll, and the effect."
+    },
+    {
+     "n": 4,
+     "q": "In your own words, explain why a tree shuts down its leaves in autumn. (2m)",
+     "marks": 2,
+     "a": "Keeping the leaves alive during the cold months would use up more energy than the tree would get back from them, so it is not worth doing.",
+     "tip": "'Cost more energy than it gains' must be reworded."
+    },
+    {
+     "n": 5,
+     "q": "What two signals tell the tree that autumn has arrived? (2m)",
+     "marks": 2,
+     "a": "The days become shorter and the temperature falls.",
+     "tip": "Two things, so two marks."
+    },
+    {
+     "n": 6,
+     "q": "Why do maple leaves turn bright red rather than yellow? (1m)",
+     "marks": 1,
+     "a": "Because some trees also make a red substance at that time of year.",
+     "tip": ""
+    },
+    {
+     "n": 7,
+     "q": "Why do most trees in Singapore stay green? (2m)",
+     "marks": 2,
+     "a": "Because Singapore has no cold season and the length of the day barely changes, so the trees never receive the signals that cause leaves to shut down.",
+     "tip": "Link it back to the two signals in paragraph 4."
+    },
+    {
+     "n": 8,
+     "q": "Explain the last sentence: \"They are old colours being uncovered.\" (3m)",
+     "marks": 3,
+     "a": "Firstly, it means the yellows and oranges were inside the leaf all along. In addition, nothing new is made when a leaf changes colour — the green is simply removed. Finally, the sentence sums up the whole passage in a single idea, which is that autumn reveals rather than creates.",
+     "tip": "Three marks. The third point is about why the writer ends there."
+    }
+   ]
+  }
+ ]
+}

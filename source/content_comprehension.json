@@ -1,0 +1,219 @@
+{
+  "lessons": [
+    {
+      "id": "why",
+      "title": "\"Why…?\" questions",
+      "marks": "1–2m",
+      "rule": "Your answer must be a reason, and it must start in a way that answers 'why'. Begin with 'Because…' or 'This is because…'. If the question says 'Why do you think…', the reason is not stated in the passage — you must infer it and support it with something that is.",
+      "example": {
+        "q": "Why did Meilin hide the letter under her mattress?",
+        "weak": "She put it under her mattress.",
+        "strong": "Because she did not want her mother to find out that she had failed the test.",
+        "note": "The weak answer repeats the question. The strong answer supplies the reason the question asked for."
+      }
+    },
+    {
+      "id": "evidence",
+      "title": "\"How do you know…?\" questions",
+      "marks": "1–2m",
+      "rule": "This asks for evidence. Point to something specific in the passage — an action, a word, a detail. Do not answer with an opinion or a feeling.",
+      "example": {
+        "q": "How do you know that the old man was poor?",
+        "weak": "Because he looked very poor and sad.",
+        "strong": "His shoes were held together with tape and he counted out his coins before buying a single bun.",
+        "note": "Evidence means details you can point at, not restating the conclusion."
+      }
+    },
+    {
+      "id": "feel",
+      "title": "\"How did X feel?\" questions",
+      "marks": "1–2m",
+      "rule": "Name a precise emotion, then justify it. Avoid 'sad', 'happy', 'bad' — reach for relieved, humiliated, resentful, apprehensive, remorseful, indignant. Two marks usually means one mark for the emotion and one for the reason.",
+      "example": {
+        "q": "How did Devi feel when the results were read out? (2m)",
+        "weak": "She felt bad.",
+        "strong": "She felt humiliated, because her name was called out last in front of the whole class.",
+        "note": "One precise word plus a 'because' clause earns both marks."
+      }
+    },
+    {
+      "id": "vocab",
+      "title": "Vocabulary-in-context questions",
+      "marks": "1m",
+      "rule": "Replace the word with your own, and make sure your replacement fits the sentence grammatically. Read the sentence back with your word in it. If the word is a verb in the past tense, your answer must be a verb in the past tense.",
+      "example": {
+        "q": "What does the word 'trudged' tell us about how the boy walked?",
+        "weak": "It means he walked.",
+        "strong": "He walked slowly and heavily, as if he was tired or unwilling.",
+        "note": "Explain the extra meaning the writer chose that word for, not just the basic action."
+      }
+    },
+    {
+      "id": "refer",
+      "title": "\"What does 'it' / 'this' refer to?\"",
+      "marks": "1m",
+      "rule": "Look at the sentence before. Write out the thing in full — never answer with another pronoun. Check by substituting your answer back into the original sentence.",
+      "example": {
+        "q": "In line 14, what does 'this' refer to?",
+        "weak": "It refers to what he did.",
+        "strong": "The fact that Kumar had returned the wallet without taking any money from it.",
+        "note": "'What he did' is still vague. Name the thing."
+      }
+    },
+    {
+      "id": "quote",
+      "title": "Questions that say \"in your own words\"",
+      "marks": "2m",
+      "rule": "You will lose the mark if you lift the phrase from the passage. Change the key words, not just the small ones. Keep the meaning identical.",
+      "example": {
+        "q": "In your own words, explain why the villagers were reluctant to leave.",
+        "weak": "They were reluctant to leave because they had lived there all their lives.",
+        "strong": "They did not want to go because the village had been their home since they were born.",
+        "note": "'Reluctant' and 'all their lives' were both lifted in the weak version."
+      }
+    },
+    {
+      "id": "tf",
+      "title": "True / False with evidence",
+      "marks": "2m",
+      "rule": "One mark for the tick, one for the evidence. The evidence must be the specific line that proves it — not a general summary. Always fill in the evidence box even when you are unsure of the tick.",
+      "example": {
+        "q": "The narrator's father approved of her decision. True or false? Give evidence.",
+        "weak": "False, he did not approve.",
+        "strong": "False — 'He said nothing for a long moment, then folded the form in half and set it aside.'",
+        "note": "The evidence must do work. Repeating the statement is not evidence."
+      }
+    },
+    {
+      "id": "long",
+      "title": "The 3-mark 'explain' question",
+      "marks": "3m",
+      "rule": "Three marks means three separate points, not one point written three times. Plan them on your fingers before writing. Use a connector between each so the marker can see them: 'Firstly… In addition… Finally…'",
+      "example": {
+        "q": "Explain how the writer creates a sense of danger in paragraph 4. (3m)",
+        "weak": "The writer makes it sound scary by describing the storm.",
+        "strong": "Firstly, the writer uses short sentences such as 'The rope snapped.' to make events feel sudden. In addition, the sounds described — the groaning of the timber and the shriek of the wind — suggest the structure is about to fail. Finally, the narrator's own body betrays her fear: her fingers are described as numb and useless.",
+        "note": "Three distinct points, clearly signposted."
+      }
+    }
+  ],
+
+  "passages": [
+    {
+      "id": "cmpA",
+      "title": "The Kite",
+      "level": "P4",
+      "kind": "Narrative",
+      "words": 330,
+      "text": [
+        "Ah Kong made the kite himself, on the floor of the corridor outside our flat. He split the bamboo with a knife so old the handle had worn smooth, and he bent each strip over a candle flame until it curved exactly the way he wanted. It took him four evenings. I sat beside him the whole time, passing him string he did not ask for.",
+        "\"Why don't we just buy one?\" I asked on the third evening. There was a shop at the void deck selling kites shaped like eagles, with printed feathers and plastic tails.",
+        "Ah Kong did not look up. \"You can buy a kite,\" he said. \"You cannot buy a kite that knows you.\"",
+        "I did not understand that, but I nodded anyway.",
+        "On Sunday we walked to the open field behind the school. The wind was strong and the sky was the pale, washed-out blue that comes after heavy rain. Ah Kong held the kite above his head and told me to run. I ran until my chest burned, and when I turned around the kite was up, small and steady, tugging at the line like something alive.",
+        "For nearly an hour it stayed there. Then the wind changed. The line went slack, then snapped taut, and before I could loosen my grip the string broke somewhere far above my hands. The kite tumbled sideways across the sky and disappeared behind the trees at the edge of the field.",
+        "I stood there with the empty spool in my fist. Four evenings of bamboo and candle flame, gone in three seconds. My eyes stung and I turned away so Ah Kong would not see.",
+        "He came and stood beside me, looking at the trees.",
+        "\"Good,\" he said.",
+        "I stared at him.",
+        "\"Now,\" he said, \"you know how to make one.\"",
+        "We walked home. That evening he took out the knife and put a fresh strip of bamboo in my hands, and this time he did not touch it at all. He only watched, and told me when to move the flame closer."
+      ],
+      "questions": [
+        {"n":1,"q":"How long did Ah Kong take to make the first kite?","marks":1,"a":"Four evenings.","tip":"A literal question — the answer is stated directly. Don't over-write it."},
+        {"n":2,"q":"Why did the narrator suggest buying a kite instead? (1m)","marks":1,"a":"Because there was a shop at the void deck selling ready-made kites shaped like eagles, so it would have been much quicker and easier than making one.","tip":"Start with 'Because'. The reason is implied by the detail about the shop."},
+        {"n":3,"q":"What did Ah Kong mean when he said, \"You cannot buy a kite that knows you\"? (2m)","marks":2,"a":"He meant that a kite you have made yourself has value that a bought one does not, because you have put your own time and effort into it and understand how every part of it works.","tip":"Inference. The answer is nowhere in the passage — you build it from what he does afterwards."},
+        {"n":4,"q":"In your own words, describe the weather on Sunday. (2m)","marks":2,"a":"It was breezy, and the sky was a faint, faded blue because a heavy shower had fallen earlier.","tip":"'Pale, washed-out blue' and 'after heavy rain' must both be reworded, not copied."},
+        {"n":5,"q":"What does the phrase \"tugging at the line like something alive\" suggest about the kite?","marks":1,"a":"It suggests that the kite pulled strongly and unpredictably, as though it had a will of its own rather than being an ordinary object.","tip":"Vocabulary-in-context: explain the extra meaning the comparison creates."},
+        {"n":6,"q":"How did the narrator feel when the kite was lost? How do you know? (2m)","marks":2,"a":"He felt devastated and close to tears. I know this because his eyes stung and he deliberately turned away so that Ah Kong would not see him crying.","tip":"One mark for a precise emotion, one for the evidence. 'Sad' alone would be weak."},
+        {"n":7,"q":"Why do you think Ah Kong said \"Good\" when the kite was lost? (2m)","marks":2,"a":"Because he was not upset about losing the kite itself. He saw that his grandson had now watched the whole process closely enough to build one himself, which was what he had wanted all along.","tip":"'Why do you think' signals inference. Support it with the final paragraph."},
+        {"n":8,"q":"How is the last paragraph different from the beginning of the story? Explain what this shows. (3m)","marks":3,"a":"Firstly, at the beginning Ah Kong does all the work while the narrator only sits and passes string. In addition, at the end it is the narrator who holds the bamboo and the knife, while Ah Kong does not touch it at all. Finally, this shows that the narrator has moved from being a bystander to being the maker, which is the lesson Ah Kong intended.","tip":"Three marks means three separate points. Signpost them."}
+      ]
+    },
+    {
+      "id": "cmpB",
+      "title": "Mrs Fernandez",
+      "level": "P5",
+      "kind": "Narrative",
+      "words": 350,
+      "text": [
+        "We decided we hated her before she had said a word.",
+        "She came in on the Monday after Mrs Koh went on maternity leave — a small, grey-haired woman in a cardigan the colour of weak tea, carrying a canvas bag that looked heavier than she was. She set the bag down, wrote MRS FERNANDEZ on the board in careful capitals, and then stood looking at us for what felt like a very long time.",
+        "\"She's ancient,\" Priya whispered. \"She'll be hopeless.\"",
+        "For the first fortnight, she was. She spoke too softly. She did not notice when Wei Jie flicked erasers across the room. When she asked a question and nobody answered, she simply waited, sometimes for half a minute, until the silence became unbearable and somebody muttered something just to end it. We complained loudly to one another at recess. Someone said she should retire.",
+        "Then, in the third week, she handed back our compositions.",
+        "Mine came back covered in small, neat pencil marks. Not crosses — questions. Beside a sentence where I had written that my character was angry, she had written: *What did his hands do?* Beside my ending, where I had explained the moral in two tidy lines, she had written: *You already showed me this. Trust me to see it.*",
+        "Nobody had ever written to me in the margin of my own work before. Teachers wrote grades and 'good effort'. Mrs Fernandez had read the thing.",
+        "I looked around. Priya was frowning at her own page, turning it over, reading the back. Wei Jie, who had not written more than half a page all year, was reading his in complete silence.",
+        "\"Rewrite them if you want to,\" Mrs Fernandez said. \"I'll read them again. I'll read them as many times as you like.\"",
+        "Twenty-six of us rewrote them. Some of us rewrote them twice.",
+        "She was with us for eleven weeks. I cannot remember a single thing she said in front of the class. I remember every word she wrote in my margins."
+      ],
+      "questions": [
+        {"n":1,"q":"Why was Mrs Fernandez teaching the class? (1m)","marks":1,"a":"Because their usual teacher, Mrs Koh, had gone on maternity leave.","tip":"Literal. One line is enough."},
+        {"n":2,"q":"Give two reasons why the class disliked Mrs Fernandez at first. (2m)","marks":2,"a":"Firstly, she spoke too quietly for them to hear her easily. Secondly, she failed to control the class — she did not notice Wei Jie flicking erasers around the room.","tip":"Two marks, two distinct reasons. Long silences would also be accepted."},
+        {"n":3,"q":"What does the phrase \"a cardigan the colour of weak tea\" suggest about the impression Mrs Fernandez made? (2m)","marks":2,"a":"It suggests she looked faded and dull, and that nothing about her appearance was striking or impressive — which is exactly why the class dismissed her so quickly.","tip":"Vocabulary in context. Explain the impression, not just the colour."},
+        {"n":4,"q":"In your own words, explain what was unusual about the marks on the narrator's composition. (2m)","marks":2,"a":"Instead of correcting errors or giving a grade, she had written questions in the margin that pushed him to think about his own writing choices.","tip":"'Not crosses — questions' must be reworded, not lifted."},
+        {"n":5,"q":"What did Mrs Fernandez mean by \"You already showed me this. Trust me to see it.\"? (2m)","marks":2,"a":"She meant that the narrator's story had already made its lesson clear through the events themselves, so spelling out the moral at the end was unnecessary and he should have confidence in his reader.","tip":"Inference from a quoted line. Link it back to the composition advice about not announcing the moral."},
+        {"n":6,"q":"Why do you think the writer mentions that Wei Jie read his composition \"in complete silence\"? (2m)","marks":2,"a":"Because Wei Jie had been the most disruptive pupil and had barely written anything all year. His silence shows that even he had been affected by her comments, which proves how unusual her marking was.","tip":"The detail is chosen deliberately. Ask why the writer picked that particular boy."},
+        {"n":7,"q":"\"The narrator's opinion of Mrs Fernandez changed gradually.\" True or false? Give evidence. (2m)","marks":2,"a":"True. The class hated her from the first day and still complained at recess for a fortnight, but it was only in the third week, after she returned their compositions, that his view began to change.","tip":"One mark for true/false, one for the specific evidence."},
+        {"n":8,"q":"Explain why the last two sentences are an effective ending to the story. (3m)","marks":3,"a":"Firstly, they contrast what the narrator cannot remember with what he can, which makes the point sharply. In addition, they show that Mrs Fernandez's real influence was private and written rather than loud and public, overturning the class's early judgement that she was hopeless. Finally, the words 'every word' suggest her comments stayed with him long after she left, which tells us how much she mattered.","tip":"Three marks, three points, signposted."}
+      ]
+    },
+    {
+      "id": "cmpC",
+      "title": "What We Throw Away",
+      "level": "P5",
+      "kind": "Non-narrative",
+      "words": 340,
+      "text": [
+        "Every year, Singapore throws away enough food to fill more than 700 Olympic swimming pools. Around half of this waste comes not from restaurants or supermarkets, but from ordinary households — from kitchens like yours and mine.",
+        "The reasons are surprisingly ordinary. Shoppers buy in bulk because larger packets appear cheaper, then find they cannot finish the food before it spoils. Others cook far more than their family can eat, because serving too little is considered impolite. And a great deal of perfectly good food is discarded simply because of the date printed on the packet.",
+        "That date is widely misunderstood. A 'use by' date is a safety instruction: after it, the food may genuinely be unsafe. A 'best before' date is only a guide to quality. A packet of biscuits a week past its 'best before' date may be slightly less crisp, but it is not dangerous. Research suggests that confusion between these two labels alone accounts for a significant share of household food waste.",
+        "The consequences reach further than most people realise. Food that is thrown away must be incinerated, and the ash is shipped to Pulau Semakau, Singapore's only landfill. Semakau is expected to run out of space within a few decades. Beyond that, every discarded meal represents wasted water, wasted fuel and wasted farmland, most of it in other countries, since Singapore imports over ninety per cent of what it eats.",
+        "The solutions, fortunately, are also ordinary. Planning meals before shopping cuts impulse buying. Storing food correctly — vegetables in the right part of the fridge, rice in a sealed container — extends its life considerably. Cooking smaller portions and returning for a second helping wastes far less than filling every plate to the brim. Several community fridges now allow residents to leave surplus food for neighbours instead of binning it.",
+        "None of these actions is dramatic. But food waste is not a problem created by a few careless people. It is created by millions of small, reasonable decisions — which means it can be undone the same way."
+      ],
+      "questions": [
+        {"n":1,"q":"Where does about half of Singapore's food waste come from? (1m)","marks":1,"a":"From ordinary households, rather than from restaurants or supermarkets.","tip":"Literal retrieval from paragraph 1."},
+        {"n":2,"q":"Give two reasons, in your own words, why households buy or cook too much food. (2m)","marks":2,"a":"Firstly, bigger packets look like better value, so people purchase more than they can finish before it goes bad. Secondly, offering guests or family too small a serving is seen as rude, so people prepare extra.","tip":"Both reasons must be reworded. 'Impolite' and 'in bulk' should not appear."},
+        {"n":3,"q":"Explain the difference between a 'use by' date and a 'best before' date. (2m)","marks":2,"a":"A 'use by' date warns that the food could become unsafe to eat after that day, whereas a 'best before' date only indicates when the food stops being at its best in taste or texture, though it remains safe.","tip":"Two marks means both halves of the contrast must appear."},
+        {"n":4,"q":"What does the word 'discarded' mean in paragraph 2?","marks":1,"a":"Thrown away or got rid of.","tip":"Give a synonym that fits grammatically — 'discarded' is a past participle, so 'thrown away' works."},
+        {"n":5,"q":"Why is food waste a particular problem for Singapore? Give two reasons. (2m)","marks":2,"a":"Firstly, the ash from incinerated waste goes to Pulau Semakau, the country's only landfill, which is expected to be full within a few decades. Secondly, Singapore imports more than ninety per cent of its food, so wasted meals also waste the water, fuel and farmland used to produce them overseas.","tip":"Two distinct reasons, both from paragraph 4."},
+        {"n":6,"q":"Suggest two things a family could do this week to waste less food. (2m)","marks":2,"a":"They could plan their meals before going shopping so that they only buy what they will actually use, and serve smaller portions at meals, allowing anyone still hungry to take a second helping.","tip":"An application question. Answers must come from or be consistent with the passage."},
+        {"n":7,"q":"What does the writer mean by \"None of these actions is dramatic\"? (2m)","marks":2,"a":"The writer means that the solutions are all small, everyday changes rather than difficult or impressive measures, so anyone can carry them out without much effort.","tip":"Explain the phrase, then say why the writer includes it."},
+        {"n":8,"q":"Explain how the final sentence sums up the writer's argument. (3m)","marks":3,"a":"Firstly, it rejects the idea that food waste is caused by a small number of careless individuals. In addition, it explains that the problem is the result of countless small, sensible decisions made by ordinary people. Finally, it argues that because the cause is small and shared, the remedy can be small and shared too, which gives the reader reason to believe their own actions matter.","tip":"Three points. The last one is the persuasive purpose of the sentence."}
+      ]
+    },
+    {
+      "id": "cmpD",
+      "title": "The Last Bus",
+      "level": "P6",
+      "kind": "Narrative",
+      "words": 360,
+      "text": [
+        "The plan had been simple, which is how I know now that it was mine.",
+        "Ravi was nine and slower than me at everything, so I told him to wait at the bench outside the library while I went to buy the birthday card. Ten minutes. Fifteen at most. He had his water bottle and the book he was halfway through, and he nodded at me the way he always did, as though whatever I said had already been decided by someone more important than either of us.",
+        "The stationery shop had a queue. Then they did not have the card I wanted, so I walked to the second shop, which was two streets away, and then I saw Marcus and Hui Ling outside the bubble tea place and we talked about the school camp.",
+        "When I looked at my phone it was 6.42 p.m.",
+        "I ran. I remember the sound of my own bag hitting my back, over and over, and the way the shophouses blurred at the edges. The library steps were empty. The bench was empty. There was a water bottle underneath it, on its side.",
+        "I called his name once, loudly, and it came back off the wall of the building and sounded like somebody else's voice.",
+        "For four minutes I stood in the middle of the pavement and did nothing useful at all. I thought about the canal behind the library. I thought about what I would say to my mother. I thought, with a clarity that shames me still, about how none of this would have happened if he were faster.",
+        "Then a bus pulled in at the stop across the road — the 168, the one we took home — and Ravi got off it.",
+        "He had his book under his arm. He looked at my face and something in his own face changed, and he said, before I could speak, \"I'm sorry. I thought you'd gone home. I thought I'd got it wrong.\"",
+        "He apologised to me. I have thought about that a great deal since.",
+        "I am seventeen now. Ravi is taller than me and beats me at everything. But I still check, every single time we leave somewhere, that he is behind me. He has noticed. He has never once mentioned it."
+      ],
+      "questions": [
+        {"n":1,"q":"What was the narrator's plan? (1m)","marks":1,"a":"To leave Ravi waiting on the bench outside the library for ten to fifteen minutes while she went to buy a birthday card.","tip":"Literal, but include the time — it matters later."},
+        {"n":2,"q":"Give two reasons why the narrator took much longer than planned. (2m)","marks":2,"a":"Firstly, the first stationery shop had a queue and did not stock the card she wanted, so she walked two streets to a second shop. Secondly, she then met Marcus and Hui Ling and stopped to chat about the school camp.","tip":"Two separate delays. The second one is the one she is ashamed of."},
+        {"n":3,"q":"What does the opening sentence, \"The plan had been simple, which is how I know now that it was mine\", suggest about the narrator? (2m)","marks":2,"a":"It suggests that she is looking back as an older person and judging her younger self, recognising that the plan seemed simple only because she had not thought about what could go wrong.","tip":"Note the phrase 'know now' — the story is told in hindsight."},
+        {"n":4,"q":"Why does the writer mention the water bottle lying on its side? (2m)","marks":2,"a":"Because it is evidence that Ravi had been there and has gone, and the fact that it is knocked over suggests he may have left in a hurry, which increases the narrator's alarm.","tip":"Small physical details in narratives are almost always doing a job. Say what job."},
+        {"n":5,"q":"In your own words, describe what the narrator did during the four minutes after she called out. (2m)","marks":2,"a":"She stood still on the pavement, unable to take any helpful action, while frightening thoughts ran through her mind.","tip":"'Did nothing useful at all' must be reworded."},
+        {"n":6,"q":"The narrator says one of her thoughts \"shames me still\". Which thought, and why is she ashamed of it? (2m)","marks":2,"a":"The thought that none of it would have happened if Ravi had been faster. She is ashamed because in a moment when her brother might have been in danger, she was blaming him for a situation she herself had caused.","tip":"Identify the thought, then explain the shame. Two clear parts."},
+        {"n":7,"q":"Why do you think Ravi apologised to the narrator? (2m)","marks":2,"a":"Because he assumed he had made the mistake himself by misunderstanding her instructions, and because he saw how upset she looked and wanted to make things better — he was used to accepting that she was in charge.","tip":"Link back to paragraph 2, where he defers to her."},
+        {"n":8,"q":"Explain how the final paragraph shows that the narrator was changed by what happened. (3m)","marks":3,"a":"Firstly, although many years have passed and Ravi is now the more capable of the two, she still checks that he is behind her every time they leave a place. In addition, the phrase 'every single time' shows this has become a permanent habit rather than an occasional worry. Finally, the detail that Ravi has noticed but never mentioned it suggests he understands why she does it, and that the incident quietly shaped both of them.","tip":"Three marks, three points. The final one is about Ravi, not just the narrator."}
+      ]
+    }
+  ]
+}

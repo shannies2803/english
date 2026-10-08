@@ -1,0 +1,2079 @@
+{
+ "sets": [
+  {
+   "id": "secU",
+   "letter": "U",
+   "title": "Grammar MCQ · Booklet A style",
+   "level": "P5",
+   "mode": "mcq",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The bouquet of roses ______ on the reception table.",
+     "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+     ],
+     "correct": 2,
+     "tip": "Subject is 'bouquet', not 'roses'."
+    },
+    {
+     "n": 2,
+     "q": "Neither the coach nor the players ______ satisfied with the result.",
+     "options": [
+      "was",
+      "were",
+      "has",
+      "is"
+     ],
+     "correct": 1,
+     "tip": "The verb agrees with the nearer subject, 'players'."
+    },
+    {
+     "n": 3,
+     "q": "By the time the ambulance arrived, the injured man ______ consciousness.",
+     "options": [
+      "loses",
+      "lost",
+      "had lost",
+      "has lost"
+     ],
+     "correct": 2,
+     "tip": "The earlier of two past actions takes the past perfect."
+    },
+    {
+     "n": 4,
+     "q": "My cousin ______ in Perth since she graduated.",
+     "options": [
+      "lives",
+      "lived",
+      "has been living",
+      "is living"
+     ],
+     "correct": 2,
+     "tip": "'Since' with an action continuing to now."
+    },
+    {
+     "n": 5,
+     "q": "Please switch off the lights ______ you leave the room.",
+     "options": [
+      "although",
+      "before",
+      "despite",
+      "unless"
+     ],
+     "correct": 1,
+     "tip": "A time relationship, not a contrast."
+    },
+    {
+     "n": 6,
+     "q": "There ______ hardly any milk left in the fridge.",
+     "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+     ],
+     "correct": 2,
+     "tip": "'Milk' is uncountable, so singular."
+    },
+    {
+     "n": 7,
+     "q": "The teacher asked us ______ during the assembly.",
+     "options": [
+      "not to talk",
+      "to not talk",
+      "don't talk",
+      "not talking"
+     ],
+     "correct": 0,
+     "tip": "Reported command: told/asked + object + not to + verb."
+    },
+    {
+     "n": 8,
+     "q": "He is the only one of the prefects who ______ on duty today.",
+     "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+     ],
+     "correct": 1,
+     "tip": "'The only one' makes it singular."
+    },
+    {
+     "n": 9,
+     "q": "I would rather stay indoors ______ go out in this haze.",
+     "options": [
+      "to",
+      "than",
+      "that",
+      "then"
+     ],
+     "correct": 1,
+     "tip": "'Would rather … than'."
+    },
+    {
+     "n": 10,
+     "q": "The twins helped ______ to the food at the buffet.",
+     "options": [
+      "theirselves",
+      "themself",
+      "themselves",
+      "them"
+     ],
+     "correct": 2,
+     "tip": "'Theirselves' is not a word."
+    },
+    {
+     "n": 11,
+     "q": "______ of the two answers is acceptable.",
+     "options": [
+      "Both",
+      "Either",
+      "All",
+      "Several"
+     ],
+     "correct": 1,
+     "tip": "'Either' is used for one of two."
+    },
+    {
+     "n": 12,
+     "q": "She apologised ______ her classmate ______ losing the book.",
+     "options": [
+      "to, for",
+      "for, to",
+      "with, about",
+      "to, of"
+     ],
+     "correct": 0,
+     "tip": "Apologise TO a person FOR a thing."
+    },
+    {
+     "n": 13,
+     "q": "The children were told to line up ______ the hall.",
+     "options": [
+      "outside",
+      "out",
+      "outside of",
+      "out from"
+     ],
+     "correct": 0,
+     "tip": "'Outside' needs no extra preposition."
+    },
+    {
+     "n": 14,
+     "q": "If I ______ you, I would speak to the teacher immediately.",
+     "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+     ],
+     "correct": 2,
+     "tip": "Second conditional uses 'were' for all persons."
+    },
+    {
+     "n": 15,
+     "q": "Hardly ______ the bell rung when the pupils dashed out.",
+     "options": [
+      "has",
+      "had",
+      "did",
+      "was"
+     ],
+     "correct": 1,
+     "tip": "'Hardly … when' requires inversion with 'had'."
+    },
+    {
+     "n": 16,
+     "q": "The stray dog, together with its puppies, ______ rescued yesterday.",
+     "options": [
+      "were",
+      "have been",
+      "was",
+      "are"
+     ],
+     "correct": 2,
+     "tip": "'Together with' does not change the subject."
+    },
+    {
+     "n": 17,
+     "q": "You ______ touch the wet paint; the sign says so clearly.",
+     "options": [
+      "need not",
+      "must not",
+      "would not",
+      "could not"
+     ],
+     "correct": 1,
+     "tip": "Prohibition, not absence of obligation."
+    },
+    {
+     "n": 18,
+     "q": "Nobody informed us about the change, ______?",
+     "options": [
+      "did they",
+      "didn't they",
+      "were they",
+      "weren't they"
+     ],
+     "correct": 0,
+     "tip": "'Nobody' makes the statement negative, so the tag is positive."
+    },
+    {
+     "n": 19,
+     "q": "The results ______ announced next Monday.",
+     "options": [
+      "will",
+      "will be",
+      "are",
+      "have"
+     ],
+     "correct": 1,
+     "tip": "Passive with a future modal: will be + past participle."
+    },
+    {
+     "n": 20,
+     "q": "I have ______ patience left after waiting for two hours.",
+     "options": [
+      "a little",
+      "few",
+      "little",
+      "a few"
+     ],
+     "correct": 2,
+     "tip": "'Little' is negative and used with uncountable nouns."
+    },
+    {
+     "n": 21,
+     "q": "This is the shop ______ owner won the community award.",
+     "options": [
+      "which",
+      "whose",
+      "who's",
+      "that"
+     ],
+     "correct": 1,
+     "tip": "'Whose' shows possession."
+    },
+    {
+     "n": 22,
+     "q": "She speaks Malay far more ______ than her brother.",
+     "options": [
+      "fluent",
+      "fluently",
+      "fluenter",
+      "most fluently"
+     ],
+     "correct": 1,
+     "tip": "It describes the verb 'speaks', so an adverb."
+    },
+    {
+     "n": 23,
+     "q": "The soup smelt ______, so we finished every drop.",
+     "options": [
+      "deliciously",
+      "delicious",
+      "more delicious",
+      "most deliciously"
+     ],
+     "correct": 1,
+     "tip": "'Smell' is a linking verb here, so an adjective follows."
+    },
+    {
+     "n": 24,
+     "q": "Ten kilometres ______ too far for a child to cycle.",
+     "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+     ],
+     "correct": 1,
+     "tip": "A single distance is treated as one amount."
+    },
+    {
+     "n": 25,
+     "q": "He denied ______ the window.",
+     "options": [
+      "to break",
+      "break",
+      "breaking",
+      "broke"
+     ],
+     "correct": 2,
+     "tip": "'Deny' is followed by a gerund."
+    },
+    {
+     "n": 26,
+     "q": "We are looking forward to ______ our grandparents next month.",
+     "options": [
+      "visit",
+      "visiting",
+      "have visited",
+      "visited"
+     ],
+     "correct": 1,
+     "tip": "'Look forward to' + gerund; 'to' here is a preposition."
+    },
+    {
+     "n": 27,
+     "q": "______ the heavy rain, the National Day rehearsal continued.",
+     "options": [
+      "Although",
+      "Because of",
+      "Despite",
+      "However"
+     ],
+     "correct": 2,
+     "tip": "'Despite' + noun phrase."
+    },
+    {
+     "n": 28,
+     "q": "The chairman, as well as the members, ______ present at the meeting.",
+     "options": [
+      "are",
+      "were",
+      "was",
+      "have"
+     ],
+     "correct": 2,
+     "tip": "'As well as' does not add to the subject."
+    },
+    {
+     "n": 29,
+     "q": "I wish I ______ how to swim when I was younger.",
+     "options": [
+      "learn",
+      "learnt",
+      "had learnt",
+      "have learnt"
+     ],
+     "correct": 2,
+     "tip": "A regret about the past takes the past perfect."
+    },
+    {
+     "n": 30,
+     "q": "That is the very book ______ I have been searching for.",
+     "options": [
+      "who",
+      "whom",
+      "that",
+      "what"
+     ],
+     "correct": 2,
+     "tip": "After 'the very', 'that' is preferred."
+    },
+    {
+     "n": 31,
+     "q": "She is used to ______ up at five every morning.",
+     "options": [
+      "wake",
+      "waking",
+      "woke",
+      "have woken"
+     ],
+     "correct": 1,
+     "tip": "'Be used to' + gerund, unlike 'used to' + base verb."
+    },
+    {
+     "n": 32,
+     "q": "The number of dengue cases ______ fallen sharply this year.",
+     "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+     ],
+     "correct": 1,
+     "tip": "'The number' is a single thing."
+    },
+    {
+     "n": 33,
+     "q": "Not only ______ the race, but he also broke the record.",
+     "options": [
+      "he won",
+      "did he win",
+      "he did win",
+      "won he"
+     ],
+     "correct": 1,
+     "tip": "'Not only' at the start of a clause forces inversion."
+    },
+    {
+     "n": 34,
+     "q": "My father insisted ______ paying for everyone's meal.",
+     "options": [
+      "to",
+      "in",
+      "on",
+      "for"
+     ],
+     "correct": 2,
+     "tip": "Insist ON."
+    },
+    {
+     "n": 35,
+     "q": "Please hand in your work ______ Friday at the latest.",
+     "options": [
+      "until",
+      "by",
+      "since",
+      "during"
+     ],
+     "correct": 1,
+     "tip": "'By' means not later than."
+    },
+    {
+     "n": 36,
+     "q": "There were ______ people at the carnival than we expected.",
+     "options": [
+      "less",
+      "lesser",
+      "fewer",
+      "few"
+     ],
+     "correct": 2,
+     "tip": "People are countable."
+    },
+    {
+     "n": 37,
+     "q": "Neither of the twins ______ willing to admit fault.",
+     "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+     ],
+     "correct": 2,
+     "tip": "'Neither' is singular."
+    },
+    {
+     "n": 38,
+     "q": "The prize ______ by a Primary 4 pupil last year.",
+     "options": [
+      "won",
+      "was won",
+      "has won",
+      "is winning"
+     ],
+     "correct": 1,
+     "tip": "The prize receives the action, so passive."
+    },
+    {
+     "n": 39,
+     "q": "He ran ______ fast ______ nobody could catch him.",
+     "options": [
+      "so, that",
+      "such, that",
+      "too, to",
+      "very, that"
+     ],
+     "correct": 0,
+     "tip": "'So + adverb/adjective + that'."
+    },
+    {
+     "n": 40,
+     "q": "It was ______ a moving speech that several parents wept.",
+     "options": [
+      "so",
+      "such",
+      "too",
+      "very"
+     ],
+     "correct": 1,
+     "tip": "'Such + a + adjective + noun + that'."
+    },
+    {
+     "n": 41,
+     "q": "I have not seen him ______ we left primary school.",
+     "options": [
+      "for",
+      "since",
+      "from",
+      "during"
+     ],
+     "correct": 1,
+     "tip": "'Since' + a point in time."
+    },
+    {
+     "n": 42,
+     "q": "The committee ______ divided over the proposal.",
+     "options": [
+      "is",
+      "are",
+      "has",
+      "was"
+     ],
+     "correct": 1,
+     "tip": "Here the members are acting as individuals, so plural."
+    },
+    {
+     "n": 43,
+     "q": "Let's begin the rehearsal now, ______?",
+     "options": [
+      "will we",
+      "shall we",
+      "do we",
+      "don't we"
+     ],
+     "correct": 1,
+     "tip": "'Let's' always takes 'shall we'."
+    },
+    {
+     "n": 44,
+     "q": "She could not decide ______ to accept the offer.",
+     "options": [
+      "if",
+      "whether",
+      "that",
+      "what"
+     ],
+     "correct": 1,
+     "tip": "'Whether' is used before 'to + verb'."
+    },
+    {
+     "n": 45,
+     "q": "Every one of the exhibits ______ carefully labelled.",
+     "options": [
+      "are",
+      "were",
+      "have been",
+      "has been"
+     ],
+     "correct": 3,
+     "tip": "'Every one' is singular."
+    },
+    {
+     "n": 46,
+     "q": "He behaved as if he ______ the owner of the place.",
+     "options": [
+      "is",
+      "was",
+      "were",
+      "has been"
+     ],
+     "correct": 2,
+     "tip": "'As if' with an unreal situation takes 'were'."
+    },
+    {
+     "n": 47,
+     "q": "The old bridge ______ down last month.",
+     "options": [
+      "pulled",
+      "was pulled",
+      "has pulled",
+      "pulls"
+     ],
+     "correct": 1,
+     "tip": "The bridge did not do the pulling."
+    },
+    {
+     "n": 48,
+     "q": "Rani plays the violin ______ than anyone else in the orchestra.",
+     "options": [
+      "well",
+      "better",
+      "best",
+      "more good"
+     ],
+     "correct": 1,
+     "tip": "Comparing with 'than' needs the comparative."
+    },
+    {
+     "n": 49,
+     "q": "We had ______ finished lunch when the guests arrived.",
+     "options": [
+      "yet",
+      "still",
+      "just",
+      "already been"
+     ],
+     "correct": 2,
+     "tip": "'Had just' shows the action was completed moments before."
+    },
+    {
+     "n": 50,
+     "q": "Do you know ______ the nearest MRT station is?",
+     "options": [
+      "where is",
+      "where",
+      "that where",
+      "where does"
+     ],
+     "correct": 1,
+     "tip": "An embedded question keeps statement word order."
+    }
+   ]
+  },
+  {
+   "id": "secV",
+   "letter": "V",
+   "title": "Synthesis & transformation · extra 50",
+   "level": "P6",
+   "mode": "self",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The soup was very salty. Nobody could finish it. **(too)**",
+     "m": "The soup was too salty for anybody to finish",
+     "tip": "too + adjective + for + object + to + verb."
+    },
+    {
+     "n": 2,
+     "q": "He apologised. He had broken the vase. **(for)**",
+     "m": "He apologised for breaking the vase",
+     "tip": "Apologise for + gerund."
+    },
+    {
+     "n": 3,
+     "q": "She was very young. She could not understand the news. **(enough)**",
+     "m": "She was not old enough to understand the news",
+     "tip": "'Enough' flips the adjective to its opposite."
+    },
+    {
+     "n": 4,
+     "q": "The film was boring. We left halfway. **(so … that)**",
+     "m": "The film was so boring that we left halfway",
+     "tip": ""
+    },
+    {
+     "n": 5,
+     "q": "\"Have you finished your project?\" the teacher asked me. **(Begin: The teacher asked …)**",
+     "m": "The teacher asked me whether I had finished my project",
+     "tip": "Yes/no question becomes 'whether' or 'if', with the tense shifted back."
+    },
+    {
+     "n": 6,
+     "q": "Someone will repair the lift tomorrow. **(Begin: The lift …)**",
+     "m": "The lift will be repaired tomorrow",
+     "tip": "Passive with a future modal."
+    },
+    {
+     "n": 7,
+     "q": "My uncle built this house. He is an architect. **(who)**",
+     "m": "My uncle, who is an architect, built this house",
+     "tip": "Non-defining clause takes commas."
+    },
+    {
+     "n": 8,
+     "q": "He did not study. He failed the test. **(Because)**",
+     "m": "Because he did not study, he failed the test",
+     "tip": ""
+    },
+    {
+     "n": 9,
+     "q": "He did not study. He failed the test. **(Because of)**",
+     "m": "Because of his lack of study, he failed the test",
+     "tip": "'Because of' must be followed by a noun phrase."
+    },
+    {
+     "n": 10,
+     "q": "Rahim reached the station. The train had already left. **(By the time)**",
+     "m": "By the time Rahim reached the station, the train had already left",
+     "tip": ""
+    },
+    {
+     "n": 11,
+     "q": "\"Please do not feed the animals,\" the keeper said. **(Begin: The keeper …)**",
+     "m": "The keeper asked us not to feed the animals",
+     "tip": "Negative request: asked + object + not to + verb."
+    },
+    {
+     "n": 12,
+     "q": "The pupils cleaned the classroom. The teacher praised them. **(Having)**",
+     "m": "Having cleaned the classroom, the pupils were praised by the teacher",
+     "tip": "'Having + past participle' shows the earlier action."
+    },
+    {
+     "n": 13,
+     "q": "It began to rain. We immediately took shelter. **(As soon as)**",
+     "m": "As soon as it began to rain, we took shelter",
+     "tip": ""
+    },
+    {
+     "n": 14,
+     "q": "It began to rain. We immediately took shelter. **(No sooner)**",
+     "m": "No sooner had it begun to rain than we took shelter",
+     "tip": "Inversion, and 'than' not 'when'."
+    },
+    {
+     "n": 15,
+     "q": "She is a careful driver. **(carefully)**",
+     "m": "She drives carefully",
+     "tip": "Adjective + noun becomes verb + adverb."
+    },
+    {
+     "n": 16,
+     "q": "I have never eaten a spicier curry. **(Begin: This is the …)**",
+     "m": "This is the spiciest curry I have ever eaten",
+     "tip": ""
+    },
+    {
+     "n": 17,
+     "q": "He was late. He missed the opening ceremony. **(Consequently)**",
+     "m": "He was late; consequently, he missed the opening ceremony",
+     "tip": "A connector needs a semicolon or a new sentence, not a comma."
+    },
+    {
+     "n": 18,
+     "q": "Mother allowed me to go. I finished my homework first. **(only after)**",
+     "m": "Mother allowed me to go only after I had finished my homework",
+     "tip": ""
+    },
+    {
+     "n": 19,
+     "q": "The old lady could not climb the stairs. She was too weak. **(so … that)**",
+     "m": "The old lady was so weak that she could not climb the stairs",
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "Nobody in the choir sings as sweetly as Amirah. **(Begin: Amirah …)**",
+     "m": "Amirah sings the most sweetly in the choir",
+     "tip": "Also accept: Amirah sings more sweetly than anyone else in the choir."
+    },
+    {
+     "n": 21,
+     "q": "They cancelled the match. It was raining heavily. **(owing to)**",
+     "m": "The match was cancelled owing to the heavy rain",
+     "tip": "'Owing to' + noun phrase."
+    },
+    {
+     "n": 22,
+     "q": "\"I saw the accident yesterday,\" the witness said. **(Begin: The witness said …)**",
+     "m": "The witness said that he had seen the accident the day before",
+     "tip": "Simple past becomes past perfect; 'yesterday' becomes 'the day before'."
+    },
+    {
+     "n": 23,
+     "q": "You must submit the form. You will not be considered otherwise. **(Unless)**",
+     "m": "Unless you submit the form, you will not be considered",
+     "tip": ""
+    },
+    {
+     "n": 24,
+     "q": "The boy was rescued by a passer-by. He had fallen into the canal. **(who)**",
+     "m": "The boy who had fallen into the canal was rescued by a passer-by",
+     "tip": ""
+    },
+    {
+     "n": 25,
+     "q": "She practises daily. She has become an excellent pianist. **(By)**",
+     "m": "By practising daily, she has become an excellent pianist",
+     "tip": "'By' + gerund."
+    },
+    {
+     "n": 26,
+     "q": "It is dangerous to cycle without a helmet. **(Begin: Cycling …)**",
+     "m": "Cycling without a helmet is dangerous",
+     "tip": "Gerund as subject."
+    },
+    {
+     "n": 27,
+     "q": "He left early. He wanted to avoid the crowd. **(in order to)**",
+     "m": "He left early in order to avoid the crowd",
+     "tip": ""
+    },
+    {
+     "n": 28,
+     "q": "The shop sells stationery. It also sells snacks. **(both … and)**",
+     "m": "The shop sells both stationery and snacks",
+     "tip": "Keep the two items parallel."
+    },
+    {
+     "n": 29,
+     "q": "My brother dislikes durian. I dislike durian too. **(neither)**",
+     "m": "Neither my brother nor I like durian",
+     "tip": "The verb agrees with the nearer subject, 'I'."
+    },
+    {
+     "n": 30,
+     "q": "He realised his error only when the results came out. **(It was not until)**",
+     "m": "It was not until the results came out that he realised his error",
+     "tip": ""
+    },
+    {
+     "n": 31,
+     "q": "The teacher explained the rule. We still did not understand. **(Even though)**",
+     "m": "Even though the teacher explained the rule, we still did not understand",
+     "tip": ""
+    },
+    {
+     "n": 32,
+     "q": "People believe that exercise improves memory. **(Begin: Exercise …)**",
+     "m": "Exercise is believed to improve memory",
+     "tip": "Impersonal passive."
+    },
+    {
+     "n": 33,
+     "q": "She started learning Mandarin three years ago. **(Begin: She has …)**",
+     "m": "She has been learning Mandarin for three years",
+     "tip": "'For' + a length of time."
+    },
+    {
+     "n": 34,
+     "q": "The gate is locked. We cannot enter the field. **(prevents)**",
+     "m": "The locked gate prevents us from entering the field",
+     "tip": "Prevent + object + from + gerund."
+    },
+    {
+     "n": 35,
+     "q": "\"Where did you buy this bag?\" my friend asked. **(Begin: My friend asked …)**",
+     "m": "My friend asked where I had bought that bag",
+     "tip": "'This' becomes 'that' in reported speech."
+    },
+    {
+     "n": 36,
+     "q": "He is too short to reach the top shelf. **(so … that)**",
+     "m": "He is so short that he cannot reach the top shelf",
+     "tip": ""
+    },
+    {
+     "n": 37,
+     "q": "The room was very untidy. It embarrassed my mother. **(such)**",
+     "m": "It was such an untidy room that my mother was embarrassed",
+     "tip": "such + a/an + adjective + noun + that."
+    },
+    {
+     "n": 38,
+     "q": "They have not repaired the escalator yet. **(Begin: The escalator …)**",
+     "m": "The escalator has not been repaired yet",
+     "tip": ""
+    },
+    {
+     "n": 39,
+     "q": "He was ill. He still attended the rehearsal. **(In spite of)**",
+     "m": "In spite of being ill, he still attended the rehearsal",
+     "tip": "Never write 'in spite'. Also accept: In spite of his illness."
+    },
+    {
+     "n": 40,
+     "q": "I prefer swimming to jogging. **(would rather)**",
+     "m": "I would rather swim than jog",
+     "tip": "'Would rather' takes the base form of the verb."
+    },
+    {
+     "n": 41,
+     "q": "The referee blew the whistle. The players stopped at once. **(The moment)**",
+     "m": "The moment the referee blew the whistle, the players stopped",
+     "tip": ""
+    },
+    {
+     "n": 42,
+     "q": "She lost her wallet. It contained all her savings. **(which)**",
+     "m": "She lost her wallet, which contained all her savings",
+     "tip": "Non-defining clause: comma, and never 'that'."
+    },
+    {
+     "n": 43,
+     "q": "You should apologise. Then she may forgive you. **(If)**",
+     "m": "If you apologise, she may forgive you",
+     "tip": "No 'will' or 'should' in the if-clause."
+    },
+    {
+     "n": 44,
+     "q": "Everyone admired his courage. Nobody said so aloud. **(although)**",
+     "m": "Although everyone admired his courage, nobody said so aloud",
+     "tip": ""
+    },
+    {
+     "n": 45,
+     "q": "The hall was full. We had to stand at the back. **(As)**",
+     "m": "As the hall was full, we had to stand at the back",
+     "tip": "'As' here means 'because'."
+    },
+    {
+     "n": 46,
+     "q": "My grandfather cannot read small print. His eyesight is poor. **(too)**",
+     "m": "My grandfather's eyesight is too poor for him to read small print",
+     "tip": ""
+    },
+    {
+     "n": 47,
+     "q": "He completed the marathon. Everyone was surprised. **(To everyone's surprise)**",
+     "m": "To everyone's surprise, he completed the marathon",
+     "tip": ""
+    },
+    {
+     "n": 48,
+     "q": "The librarian asked us to be quiet. We continued chatting. **(despite)**",
+     "m": "Despite the librarian's request for us to be quiet, we continued chatting",
+     "tip": "Also accept: Despite being asked to be quiet by the librarian, we continued chatting."
+    },
+    {
+     "n": 49,
+     "q": "Wei Ling is the tallest girl in the class. **(Begin: No other girl …)**",
+     "m": "No other girl in the class is as tall as Wei Ling",
+     "tip": ""
+    },
+    {
+     "n": 50,
+     "q": "\"Let's organise a class party,\" said Ben. **(Begin: Ben suggested …)**",
+     "m": "Ben suggested organising a class party",
+     "tip": "Also accept: Ben suggested that we should organise a class party."
+    }
+   ]
+  },
+  {
+   "id": "secW",
+   "letter": "W",
+   "title": "Editing · four more passages",
+   "level": "P5",
+   "mode": "edit",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Passage 3 — Last month, our class went on a excursion to the Botanic Gardens.",
+     "a": [
+      "an"
+     ],
+     "m": "an",
+     "tip": "The error was “a”. 'Excursion' begins with a vowel sound."
+    },
+    {
+     "n": 2,
+     "q": "Passage 3 — We were told to bring a cap, a water bottle and comfortable shoe.",
+     "a": [
+      "shoes"
+     ],
+     "m": "shoes",
+     "tip": "The error was “shoe”. Shoes come in pairs."
+    },
+    {
+     "n": 3,
+     "q": "Passage 3 — The bus journey took about fourty minutes.",
+     "a": [
+      "forty"
+     ],
+     "m": "forty",
+     "tip": "The error was “fourty”. Spelling — 'forty' has no u."
+    },
+    {
+     "n": 4,
+     "q": "Passage 3 — Our guide, Mr Sim, were waiting for us at the entrance.",
+     "a": [
+      "was"
+     ],
+     "m": "was",
+     "tip": "The error was “were”. The subject is 'Mr Sim'."
+    },
+    {
+     "n": 5,
+     "q": "Passage 3 — He explain that the gardens were more than 160 years old.",
+     "a": [
+      "explained"
+     ],
+     "m": "explained",
+     "tip": "The error was “explain”. The passage is in the past tense."
+    },
+    {
+     "n": 6,
+     "q": "Passage 3 — We saw many unusual plant along the rainforest trail.",
+     "a": [
+      "plants"
+     ],
+     "m": "plants",
+     "tip": "The error was “plant”. 'Many' needs a plural noun."
+    },
+    {
+     "n": 7,
+     "q": "Passage 3 — My friend Nadia was fascinated by the orchids, which she photographed carefuly.",
+     "a": [
+      "carefully"
+     ],
+     "m": "carefully",
+     "tip": "The error was “carefuly”. Spelling — double l."
+    },
+    {
+     "n": 8,
+     "q": "Passage 3 — Suddenly, it started to rain, so we ran towards to the shelter.",
+     "a": [
+      "towards",
+      "to"
+     ],
+     "m": "towards (delete 'to')",
+     "tip": "The error was “towards to”. 'Towards' already contains the direction."
+    },
+    {
+     "n": 9,
+     "q": "Passage 3 — By the time the rain stopped, our clothes was completely soaked.",
+     "a": [
+      "were"
+     ],
+     "m": "were",
+     "tip": "The error was “was”. 'Clothes' is plural."
+    },
+    {
+     "n": 10,
+     "q": "Passage 3 — Although we were wet, we enjoy the trip thoroughly.",
+     "a": [
+      "enjoyed"
+     ],
+     "m": "enjoyed",
+     "tip": "The error was “enjoy”. The passage is in the past tense."
+    },
+    {
+     "n": 11,
+     "q": "Passage 4 — My grandmother have lived in the same flat for over thirty years.",
+     "a": [
+      "has"
+     ],
+     "m": "has",
+     "tip": "The error was “have”. Singular subject."
+    },
+    {
+     "n": 12,
+     "q": "Passage 4 — Every Sunday, my family and me visit her for lunch.",
+     "a": [
+      "I"
+     ],
+     "m": "I",
+     "tip": "The error was “me”. It is part of the subject."
+    },
+    {
+     "n": 13,
+     "q": "Passage 4 — She always prepare her famous curry puffs in advance.",
+     "a": [
+      "prepares"
+     ],
+     "m": "prepares",
+     "tip": "The error was “prepare”. Third person singular."
+    },
+    {
+     "n": 14,
+     "q": "Passage 4 — The delicious smell greets us the moment we enter the kitchen.",
+     "a": [
+      "greets"
+     ],
+     "m": "greets",
+     "tip": "No error of tense here — the error is the missing comma? In fact this line is correct as written; accept 'no error'.",
+     "skip": true
+    },
+    {
+     "n": 15,
+     "q": "Passage 4 — Last week, she teached me how to fold the pastry properly.",
+     "a": [
+      "taught"
+     ],
+     "m": "taught",
+     "tip": "The error was “teached”. 'Teach' is irregular."
+    },
+    {
+     "n": 16,
+     "q": "Passage 4 — I was very please when my first one turned out neatly.",
+     "a": [
+      "pleased"
+     ],
+     "m": "pleased",
+     "tip": "The error was “please”. It describes how I felt."
+    },
+    {
+     "n": 17,
+     "q": "Passage 4 — My younger cousin, who is only six, ate three of them by herself.",
+     "a": [
+      "herself"
+     ],
+     "m": "herself",
+     "tip": "This line is correct as written.",
+     "skip": true
+    },
+    {
+     "n": 18,
+     "q": "Passage 4 — Grandmother said that she would teach me her recipe for laksa nex time.",
+     "a": [
+      "next"
+     ],
+     "m": "next",
+     "tip": "The error was “nex”. Spelling."
+    },
+    {
+     "n": 19,
+     "q": "Passage 4 — I am looking forward to learn it from her.",
+     "a": [
+      "learning"
+     ],
+     "m": "learning",
+     "tip": "The error was “learn”. 'Look forward to' takes a gerund."
+    },
+    {
+     "n": 20,
+     "q": "Passage 4 — These Sunday lunches is the happiest part of my week.",
+     "a": [
+      "are"
+     ],
+     "m": "are",
+     "tip": "The error was “is”. 'Lunches' is plural."
+    },
+    {
+     "n": 21,
+     "q": "Passage 5 — The annual sports day was hold at the national stadium this year.",
+     "a": [
+      "held"
+     ],
+     "m": "held",
+     "tip": "The error was “hold”. Passive needs the past participle."
+    },
+    {
+     "n": 22,
+     "q": "Passage 5 — Hundreds of pupils from six schools took part in the competition.",
+     "a": [
+      "took"
+     ],
+     "m": "took",
+     "tip": "This line is correct as written.",
+     "skip": true
+    },
+    {
+     "n": 23,
+     "q": "Passage 5 — Our team had train hard for three months before the event.",
+     "a": [
+      "trained"
+     ],
+     "m": "trained",
+     "tip": "The error was “train”. 'Had' needs the past participle."
+    },
+    {
+     "n": 24,
+     "q": "Passage 5 — The weather was humid, and many runners complained about the heat.",
+     "a": [
+      "about"
+     ],
+     "m": "about",
+     "tip": "This line is correct as written.",
+     "skip": true
+    },
+    {
+     "n": 25,
+     "q": "Passage 5 — In the four hundred metres, Devi ran more faster than her opponents.",
+     "a": [
+      "faster"
+     ],
+     "m": "faster",
+     "tip": "The error was “more faster”. Never double the comparative."
+    },
+    {
+     "n": 26,
+     "q": "Passage 5 — She won the race easy, finishing several seconds ahead.",
+     "a": [
+      "easily"
+     ],
+     "m": "easily",
+     "tip": "The error was “easy”. It describes how she won."
+    },
+    {
+     "n": 27,
+     "q": "Passage 5 — Our relay team, however, were disqualified for a dropped baton.",
+     "a": [
+      "was"
+     ],
+     "m": "was",
+     "tip": "The error was “were”. The team acted as one unit."
+    },
+    {
+     "n": 28,
+     "q": "Passage 5 — We felt disappointed, but our coach reminded us that we had improve greatly.",
+     "a": [
+      "improved"
+     ],
+     "m": "improved",
+     "tip": "The error was “improve”. 'Had' needs the past participle."
+    },
+    {
+     "n": 29,
+     "q": "Passage 5 — He said that perseverence was more important than medals.",
+     "a": [
+      "perseverance"
+     ],
+     "m": "perseverance",
+     "tip": "The error was “perseverence”. Spelling — -ance."
+    },
+    {
+     "n": 30,
+     "q": "Passage 5 — On the bus home, we sang loudly and promised to train even harder nex year.",
+     "a": [
+      "next"
+     ],
+     "m": "next",
+     "tip": "The error was “nex”. Spelling."
+    },
+    {
+     "n": 31,
+     "q": "Passage 6 — Recycling is one of the easiest way to protect the environment.",
+     "a": [
+      "ways"
+     ],
+     "m": "ways",
+     "tip": "The error was “way”. 'One of the' needs a plural noun."
+    },
+    {
+     "n": 32,
+     "q": "Passage 6 — In our estate, there is three large recycling bins at the void deck.",
+     "a": [
+      "are"
+     ],
+     "m": "are",
+     "tip": "The error was “is”. The verb agrees with 'bins'."
+    },
+    {
+     "n": 33,
+     "q": "Passage 6 — Unfortunately, many residents does not use them correctly.",
+     "a": [
+      "do"
+     ],
+     "m": "do",
+     "tip": "The error was “does”. 'Residents' is plural."
+    },
+    {
+     "n": 34,
+     "q": "Passage 6 — Food containers must be rinse before they are thrown in.",
+     "a": [
+      "rinsed"
+     ],
+     "m": "rinsed",
+     "tip": "The error was “rinse”. Passive after 'must be'."
+    },
+    {
+     "n": 35,
+     "q": "Passage 6 — Otherwise, the whole batch of recyclables become contaminated.",
+     "a": [
+      "becomes"
+     ],
+     "m": "becomes",
+     "tip": "The error was “become”. The subject is 'batch'."
+    },
+    {
+     "n": 36,
+     "q": "Passage 6 — Our residents' committee has put up posters to explain the rules clearly.",
+     "a": [
+      "has"
+     ],
+     "m": "has",
+     "tip": "This line is correct as written.",
+     "skip": true
+    },
+    {
+     "n": 37,
+     "q": "Passage 6 — Since than, the amount of contaminated waste has fallen sharply.",
+     "a": [
+      "then"
+     ],
+     "m": "then",
+     "tip": "The error was “than”. 'Then' refers to time."
+    },
+    {
+     "n": 38,
+     "q": "Passage 6 — My neighbour, Mr Rahman, collects old newspapers every Saturday morning.",
+     "a": [
+      "collects"
+     ],
+     "m": "collects",
+     "tip": "This line is correct as written.",
+     "skip": true
+    },
+    {
+     "n": 39,
+     "q": "Passage 6 — He says that small habits is what change a neighbourhood.",
+     "a": [
+      "are"
+     ],
+     "m": "are",
+     "tip": "The error was “is”. 'Habits' is plural."
+    },
+    {
+     "n": 40,
+     "q": "Passage 6 — I have decided to seperate my rubbish properly from now on.",
+     "a": [
+      "separate"
+     ],
+     "m": "separate",
+     "tip": "The error was “seperate”. Spelling — there is 'a rat' in separate."
+    }
+   ]
+  },
+  {
+   "id": "secX",
+   "letter": "X",
+   "title": "Vocabulary · 40 more",
+   "level": "P5",
+   "mode": "mcq",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The hikers were __________ by the sudden downpour and had to turn back.",
+     "options": [
+      "encouraged",
+      "hampered",
+      "assisted",
+      "relieved"
+     ],
+     "correct": 1,
+     "tip": "Hampered = held back, obstructed."
+    },
+    {
+     "n": 2,
+     "q": "Her __________ handwriting made the letter a pleasure to read.",
+     "options": [
+      "untidy",
+      "cramped",
+      "elegant",
+      "hurried"
+     ],
+     "correct": 2,
+     "tip": ""
+    },
+    {
+     "n": 3,
+     "q": "The boy gave a __________ excuse that nobody believed.",
+     "options": [
+      "convincing",
+      "feeble",
+      "valid",
+      "honest"
+     ],
+     "correct": 1,
+     "tip": "Feeble = weak."
+    },
+    {
+     "n": 4,
+     "q": "After the earthquake, volunteers worked to __________ the damaged homes.",
+     "options": [
+      "demolish",
+      "restore",
+      "abandon",
+      "criticise"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 5,
+     "q": "The teacher's instructions were __________, so nobody was confused.",
+     "options": [
+      "vague",
+      "ambiguous",
+      "explicit",
+      "muddled"
+     ],
+     "correct": 2,
+     "tip": "Explicit = stated very clearly."
+    },
+    {
+     "n": 6,
+     "q": "He accepted the award with a __________ smile and thanked his teammates.",
+     "options": [
+      "boastful",
+      "modest",
+      "smug",
+      "arrogant"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 7,
+     "q": "The stray kitten looked so __________ that we took it to the vet immediately.",
+     "options": [
+      "robust",
+      "frail",
+      "lively",
+      "plump"
+     ],
+     "correct": 1,
+     "tip": "Frail = weak and delicate."
+    },
+    {
+     "n": 8,
+     "q": "Heavy traffic on the expressway __________ our arrival by an hour.",
+     "options": [
+      "hastened",
+      "delayed",
+      "cancelled",
+      "shortened"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 9,
+     "q": "The audience listened in __________ silence as the pianist began.",
+     "options": [
+      "rapt",
+      "bored",
+      "restless",
+      "noisy"
+     ],
+     "correct": 0,
+     "tip": "Rapt = completely absorbed."
+    },
+    {
+     "n": 10,
+     "q": "She was __________ for her habit of arriving late to every meeting.",
+     "options": [
+      "praised",
+      "notorious",
+      "admired",
+      "rewarded"
+     ],
+     "correct": 1,
+     "tip": "Notorious = famous for something bad."
+    },
+    {
+     "n": 11,
+     "q": "The evidence against him was __________; there was no room for doubt.",
+     "options": [
+      "flimsy",
+      "conclusive",
+      "questionable",
+      "scarce"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 12,
+     "q": "My grandfather has a __________ memory and can recall events from 1965.",
+     "options": [
+      "hazy",
+      "remarkable",
+      "faulty",
+      "fading"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 13,
+     "q": "The two brothers have __________ personalities; one is loud and one is quiet.",
+     "options": [
+      "identical",
+      "similar",
+      "contrasting",
+      "matching"
+     ],
+     "correct": 2,
+     "tip": ""
+    },
+    {
+     "n": 14,
+     "q": "The manager __________ the customer's complaint and offered a refund.",
+     "options": [
+      "ignored",
+      "acknowledged",
+      "dismissed",
+      "denied"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 15,
+     "q": "Despite the setback, she remained __________ that the project would succeed.",
+     "options": [
+      "doubtful",
+      "optimistic",
+      "anxious",
+      "indifferent"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 16,
+     "q": "The old warehouse was __________ and had not been used for decades.",
+     "options": [
+      "bustling",
+      "derelict",
+      "renovated",
+      "occupied"
+     ],
+     "correct": 1,
+     "tip": "Derelict = abandoned and in poor condition."
+    },
+    {
+     "n": 17,
+     "q": "He spoke so __________ that we could barely make out a single word.",
+     "options": [
+      "clearly",
+      "distinctly",
+      "indistinctly",
+      "loudly"
+     ],
+     "correct": 2,
+     "tip": ""
+    },
+    {
+     "n": 18,
+     "q": "The charity relies __________ on donations from the public.",
+     "options": [
+      "heavily",
+      "lightly",
+      "rarely",
+      "barely"
+     ],
+     "correct": 0,
+     "tip": "Collocation: rely heavily on."
+    },
+    {
+     "n": 19,
+     "q": "Her __________ to finish the marathon impressed everyone at the finish line.",
+     "options": [
+      "reluctance",
+      "determination",
+      "hesitation",
+      "indifference"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 20,
+     "q": "The path up the hill was steep and __________, so we walked in single file.",
+     "options": [
+      "broad",
+      "narrow",
+      "level",
+      "paved"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 21,
+     "q": "The chef __________ the sauce with a pinch of chilli.",
+     "options": [
+      "diluted",
+      "seasoned",
+      "drained",
+      "chilled"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 22,
+     "q": "After hours of negotiation, the two sides finally reached a __________.",
+     "options": [
+      "quarrel",
+      "compromise",
+      "deadlock",
+      "misunderstanding"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 23,
+     "q": "The little girl clutched her doll __________ as the thunder rolled.",
+     "options": [
+      "carelessly",
+      "loosely",
+      "tightly",
+      "idly"
+     ],
+     "correct": 2,
+     "tip": ""
+    },
+    {
+     "n": 24,
+     "q": "His __________ comment about her cooking upset her for days.",
+     "options": [
+      "thoughtful",
+      "offhand",
+      "gracious",
+      "kind"
+     ],
+     "correct": 1,
+     "tip": "Offhand = casual and thoughtless."
+    },
+    {
+     "n": 25,
+     "q": "The museum houses an __________ collection of ancient pottery.",
+     "options": [
+      "ordinary",
+      "extensive",
+      "empty",
+      "imaginary"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 26,
+     "q": "They set off at dawn to __________ the summit before nightfall.",
+     "options": [
+      "descend",
+      "reach",
+      "avoid",
+      "abandon"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 27,
+     "q": "The rumour spread __________ through the school within one recess.",
+     "options": [
+      "gradually",
+      "rapidly",
+      "reluctantly",
+      "secretly"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 28,
+     "q": "He was secretly __________ of his younger sister's musical talent, and could not bring himself to congratulate her.",
+     "options": [
+      "envious",
+      "supportive",
+      "unaware",
+      "dismissive"
+     ],
+     "correct": 0,
+     "tip": "Envious = resentfully wanting what someone else has. The second half of the sentence rules the others out."
+    },
+    {
+     "n": 29,
+     "q": "The nurse spoke to the frightened child in a __________ tone.",
+     "options": [
+      "stern",
+      "soothing",
+      "impatient",
+      "brisk"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 30,
+     "q": "The team's victory was __________; they had trailed by twenty points.",
+     "options": [
+      "expected",
+      "unremarkable",
+      "astonishing",
+      "inevitable"
+     ],
+     "correct": 2,
+     "tip": ""
+    },
+    {
+     "n": 31,
+     "q": "Please __________ from using mobile phones in the library.",
+     "options": [
+      "refrain",
+      "continue",
+      "persist",
+      "insist"
+     ],
+     "correct": 0,
+     "tip": "Refrain from = hold back from."
+    },
+    {
+     "n": 32,
+     "q": "The instructions were so __________ that even a five-year-old could follow them.",
+     "options": [
+      "complex",
+      "straightforward",
+      "technical",
+      "obscure"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 33,
+     "q": "A __________ of applause greeted the principal as she stepped onto the stage.",
+     "options": [
+      "trickle",
+      "burst",
+      "drop",
+      "whisper"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 34,
+     "q": "The company was fined for __________ the safety regulations.",
+     "options": [
+      "observing",
+      "violating",
+      "respecting",
+      "following"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 35,
+     "q": "After the argument, an awkward __________ fell over the dinner table.",
+     "options": [
+      "chatter",
+      "silence",
+      "laughter",
+      "noise"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 36,
+     "q": "He is a __________ reader and finishes two novels every week.",
+     "options": [
+      "reluctant",
+      "voracious",
+      "casual",
+      "slow"
+     ],
+     "correct": 1,
+     "tip": "Voracious = extremely eager."
+    },
+    {
+     "n": 37,
+     "q": "The floodwater __________ slowly once the rain stopped.",
+     "options": [
+      "rose",
+      "receded",
+      "surged",
+      "overflowed"
+     ],
+     "correct": 1,
+     "tip": "Receded = moved back."
+    },
+    {
+     "n": 38,
+     "q": "Her explanation was __________ enough to satisfy even the strictest teacher.",
+     "options": [
+      "thorough",
+      "careless",
+      "brief",
+      "incomplete"
+     ],
+     "correct": 0,
+     "tip": ""
+    },
+    {
+     "n": 39,
+     "q": "The two witnesses gave __________ accounts, so the police were unsure whom to believe.",
+     "options": [
+      "identical",
+      "conflicting",
+      "matching",
+      "agreeing"
+     ],
+     "correct": 1,
+     "tip": ""
+    },
+    {
+     "n": 40,
+     "q": "He apologised __________ and promised it would never happen again.",
+     "options": [
+      "grudgingly",
+      "sincerely",
+      "carelessly",
+      "rudely"
+     ],
+     "correct": 1,
+     "tip": ""
+    }
+   ]
+  },
+  {
+   "id": "secY",
+   "letter": "Y",
+   "title": "Comprehension cloze · two more passages",
+   "level": "P6",
+   "mode": "auto",
+   "passages": [
+    {
+     "from": 1,
+     "to": 15,
+     "text": "The Quiet Shop\n\nMr Habib's provision shop had stood at the corner of our block for as long as anyone could (1)______. It was narrow and dim, and the shelves reached so high that he kept a wooden stool behind the counter to (2)______ the tins on the top row. Nothing in it was arranged the way things are arranged in a supermarket. The sweets sat beside the batteries, and the rice was stacked in the (3)______ near the door.\n\nWhen the new mini-mart opened across the road, everybody said Mr Habib would have to (4)______. The mini-mart was bright and air-conditioned, and its prices were lower. For a few weeks, his shop was almost (5)______. My mother, who had bought her cooking oil from him for eighteen years, admitted quietly that she had started going across the road instead, because it was (6)______.\n\nBut Mr Habib did not close. Slowly, the customers came (7)______. It was not because his prices changed; they did not. It was because he remembered things. He knew that Mrs Lim's grandson was (8)______ to eggs, and he would say so if she reached for the wrong packet. He kept a box of plasters under the counter for children who fell outside, and he never (9)______ anyone for them. When old Mr Chua could no longer manage the stairs, Mr Habib carried his groceries up to the fourth floor himself, twice a week, without ever being (10)______.\n\nThe mini-mart is still there. So is the shop. My mother buys her rice across the road, because it is cheaper, and her cooking oil from Mr Habib, because — as she puts it — some things are worth a few extra (11)______.\n\nI understand her now, although I did not then. A shop sells you things. Mr Habib's shop also (12)______ that somebody in the neighbourhood knew your name, your family and your habits. That is not something a mini-mart can put on a (13)______.\n\nHe is seventy-three this year and shows no sign of (14)______. I hope he never does. When he finally closes those shutters for the last time, our block will lose something it cannot (15)______."
+    },
+    {
+     "from": 16,
+     "to": 30,
+     "text": "Learning to Fail\n\nWhen I was eleven, I was selected for the school debating team. I had never lost an argument at home, and I (16)______ that debating would be much the same. My first competition cured me of that idea within four (17)______.\n\nThe opposing speaker was a girl from another school who could not have been taller than my shoulder. She spoke slowly, which I mistook for (18)______. Then she began taking apart my argument, point by point, using my own words against me. By the time she sat down, I could feel my ears (19)______. I had prepared for a fight and had instead been quietly dismantled.\n\nWe lost. On the bus home, I stared out of the window and refused to (20)______ to anyone. My coach, Mr Menon, sat down beside me and said nothing for several stops. Then he asked me what she had done well.\n\nIt was not the question I was (21)______. I wanted sympathy, or at least somebody to agree that the judges had been unfair. Instead I had to think. Reluctantly, I said that she had listened to me properly, and that she had answered what I had actually said rather than what she had (22)______ I would say.\n\n\"Good,\" he said. \"Now you know what to (23)______.\"\n\nOver the next two years I lost eleven more debates. I also won nineteen. But it is the losses I can still (24)______ in detail, because each of them taught me something specific: to slow down, to listen before replying, to (25)______ my own weakest point before my opponent found it.\n\nI have noticed since that people who have never failed at anything are often strangely (26)______ of trying. They protect a record instead of building a (27)______. I was lucky. I failed early, in front of forty people, in a school hall that smelt of floor polish — and the world carried on exactly as (28)______.\n\nMr Menon retired last year. In his farewell speech he said that his job had never been to make his pupils win, but to make losing (29)______ enough that they would risk it again. I did not appreciate that at eleven. I am (30)______ for it now."
+    }
+   ],
+   "answers": [
+    {
+     "n": 1,
+     "a": [
+      "remember",
+      "recall"
+     ],
+     "tip": "'As long as anyone could remember' is a set phrase."
+    },
+    {
+     "n": 2,
+     "a": [
+      "reach",
+      "retrieve",
+      "get"
+     ],
+     "tip": "A stool is used to reach high shelves."
+    },
+    {
+     "n": 3,
+     "a": [
+      "corner",
+      "doorway",
+      "entrance"
+     ],
+     "tip": "Must be a place."
+    },
+    {
+     "n": 4,
+     "a": [
+      "close",
+      "shut",
+      "leave",
+      "move"
+     ],
+     "tip": "The prediction is that the shop will not survive."
+    },
+    {
+     "n": 5,
+     "a": [
+      "empty",
+      "deserted",
+      "abandoned"
+     ],
+     "tip": "Customers had gone across the road."
+    },
+    {
+     "n": 6,
+     "a": [
+      "cheaper",
+      "cooler",
+      "closer",
+      "convenient"
+     ],
+     "tip": "Any reason consistent with the earlier description of the mini-mart."
+    },
+    {
+     "n": 7,
+     "a": [
+      "back",
+      "again",
+      "returning"
+     ],
+     "tip": "'Came back' — they had left earlier."
+    },
+    {
+     "n": 8,
+     "a": [
+      "allergic"
+     ],
+     "tip": "The only word that fits 'to eggs' in this context."
+    },
+    {
+     "n": 9,
+     "a": [
+      "charged",
+      "billed"
+     ],
+     "tip": "He gave the plasters free of charge."
+    },
+    {
+     "n": 10,
+     "a": [
+      "asked",
+      "requested"
+     ],
+     "tip": "'Without ever being asked' — a set phrase showing kindness."
+    },
+    {
+     "n": 11,
+     "a": [
+      "cents",
+      "dollars",
+      "coins"
+     ],
+     "tip": "Money — a small amount."
+    },
+    {
+     "n": 12,
+     "a": [
+      "meant",
+      "guaranteed",
+      "ensured"
+     ],
+     "tip": "The shop stood for something beyond selling."
+    },
+    {
+     "n": 13,
+     "a": [
+      "shelf",
+      "price",
+      "label"
+     ],
+     "tip": "Something a mini-mart displays goods on or prices with."
+    },
+    {
+     "n": 14,
+     "a": [
+      "stopping",
+      "retiring",
+      "closing",
+      "slowing"
+     ],
+     "tip": "After 'sign of', use a gerund."
+    },
+    {
+     "n": 15,
+     "a": [
+      "replace",
+      "recover",
+      "regain"
+     ],
+     "tip": "Something that cannot be got back."
+    },
+    {
+     "n": 16,
+     "a": [
+      "assumed",
+      "believed",
+      "imagined",
+      "thought"
+     ],
+     "tip": "A mistaken belief."
+    },
+    {
+     "n": 17,
+     "a": [
+      "minutes"
+     ],
+     "tip": "'Within four minutes' — the illusion did not last."
+    },
+    {
+     "n": 18,
+     "a": [
+      "weakness",
+      "nervousness",
+      "hesitation"
+     ],
+     "tip": "He wrongly read her slowness as a fault."
+    },
+    {
+     "n": 19,
+     "a": [
+      "burning",
+      "reddening",
+      "glowing"
+     ],
+     "tip": "A physical sign of embarrassment."
+    },
+    {
+     "n": 20,
+     "a": [
+      "speak",
+      "talk"
+     ],
+     "tip": "'Refused to speak to anyone.'"
+    },
+    {
+     "n": 21,
+     "a": [
+      "expecting",
+      "hoping for",
+      "anticipating"
+     ],
+     "tip": "He wanted sympathy instead."
+    },
+    {
+     "n": 22,
+     "a": [
+      "assumed",
+      "expected",
+      "predicted",
+      "imagined"
+     ],
+     "tip": "Contrast with 'what I had actually said'."
+    },
+    {
+     "n": 23,
+     "a": [
+      "do",
+      "practise",
+      "aim for",
+      "learn"
+     ],
+     "tip": "The coach is turning the loss into a target."
+    },
+    {
+     "n": 24,
+     "a": [
+      "remember",
+      "recall",
+      "describe"
+     ],
+     "tip": "The losses stayed with him."
+    },
+    {
+     "n": 25,
+     "a": [
+      "find",
+      "attack",
+      "identify",
+      "strengthen"
+     ],
+     "tip": "You look for your own weak point first."
+    },
+    {
+     "n": 26,
+     "a": [
+      "afraid",
+      "frightened",
+      "wary",
+      "scared"
+     ],
+     "tip": "'Strangely afraid of trying.'"
+    },
+    {
+     "n": 27,
+     "a": [
+      "skill",
+      "reputation",
+      "talent",
+      "ability"
+     ],
+     "tip": "Contrast with 'protect a record'."
+    },
+    {
+     "n": 28,
+     "a": [
+      "before",
+      "usual",
+      "normal"
+     ],
+     "tip": "'Exactly as before' — nothing terrible happened."
+    },
+    {
+     "n": 29,
+     "a": [
+      "survivable",
+      "bearable",
+      "safe",
+      "ordinary"
+     ],
+     "tip": "Losing had to feel manageable so they would try again."
+    },
+    {
+     "n": 30,
+     "a": [
+      "grateful",
+      "thankful"
+     ],
+     "tip": "'I am grateful for it now.'"
+    }
+   ]
+  }
+ ]
+}

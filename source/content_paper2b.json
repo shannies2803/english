@@ -1,0 +1,824 @@
+{
+ "visualText": {
+  "id": "vtD",
+  "title": "Holiday Programme Timetable",
+  "level": "P6",
+  "html": "<div style=\"font-family:system-ui,sans-serif;background:#fff;color:#1B2430;border:1px solid #D8DEE8;border-radius:12px;padding:20px 22px;max-width:560px\"><div style=\"font-size:11px;letter-spacing:.16em;color:#5C6B85\">PUNGGOL REGIONAL LIBRARY</div><div style=\"font-size:25px;font-weight:800;margin:5px 0 2px\">December Holiday Programmes</div><div style=\"font-size:13.5px;color:#5C6B85;margin-bottom:15px\">All sessions are free. Registration opens 15 November.</div><table style=\"width:100%;border-collapse:collapse;font-size:13.5px\"><thead><tr style=\"background:#F1F4F9\"><th style=\"text-align:left;padding:8px 9px;border-bottom:1px solid #DDE3EC\">Programme</th><th style=\"text-align:left;padding:8px 9px;border-bottom:1px solid #DDE3EC\">Day</th><th style=\"text-align:left;padding:8px 9px;border-bottom:1px solid #DDE3EC\">Time</th><th style=\"text-align:left;padding:8px 9px;border-bottom:1px solid #DDE3EC\">Ages</th><th style=\"text-align:left;padding:8px 9px;border-bottom:1px solid #DDE3EC\">Room</th></tr></thead><tbody><tr><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Story Explorers</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Mon</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">10.00&ndash;11.00 a.m.</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">4&ndash;7</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">L2 Alcove</td></tr><tr><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Comic Workshop</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Tue &amp; Thu</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">2.30&ndash;4.30 p.m.</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">9&ndash;12</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">L4 Studio</td></tr><tr><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Robotics Taster</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Wed</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">2.00&ndash;4.00 p.m.</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">10&ndash;14</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">L4 Studio</td></tr><tr><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Book Club Junior</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">Fri</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">4.00&ndash;5.00 p.m.</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">9&ndash;12</td><td style=\"padding:8px 9px;border-bottom:1px solid #EEF1F6\">L3 Pod B</td></tr><tr><td style=\"padding:8px 9px\">Family Film</td><td style=\"padding:8px 9px\">Sat</td><td style=\"padding:8px 9px\">11.00 a.m.&ndash;1.00 p.m.</td><td style=\"padding:8px 9px\">All</td><td style=\"padding:8px 9px\">L1 Hall</td></tr></tbody></table><div style=\"background:#FFF6DE;border-left:4px solid #E0A800;padding:11px 14px;margin:15px 0;font-size:13px;line-height:1.6\"><b>Important</b><br>The Comic Workshop is a two-part programme. Participants must attend <b>both</b> Tuesday and Thursday sessions. Places are limited to 20 and are allocated by ballot, not by order of registration.<br>Children aged 8 and below must be accompanied by an adult at all times.</div><div style=\"font-size:13px;color:#5C6B85\">Register at <b style=\"color:#1B2430\">go.gov.sg/prl-dec</b> or at any service counter. Results of the Comic Workshop ballot will be sent by email on 22 November.</div></div>",
+  "questions": [
+   {
+    "n": 1,
+    "q": "Which programme runs on more than one day?",
+    "options": [
+     "Story Explorers",
+     "Comic Workshop",
+     "Robotics Taster",
+     "Family Film"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 2,
+    "q": "An eleven-year-old wants to join Story Explorers. What is the problem?",
+    "options": [
+     "It is full",
+     "He is above the age range",
+     "It costs money",
+     "It clashes with school"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 3,
+    "q": "Which two programmes are held in the same room?",
+    "options": [
+     "Story Explorers and Book Club Junior",
+     "Comic Workshop and Robotics Taster",
+     "Family Film and Story Explorers",
+     "Robotics Taster and Book Club Junior"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 4,
+    "q": "How are places in the Comic Workshop decided?",
+    "options": [
+     "First come, first served",
+     "By ballot",
+     "By age, youngest first",
+     "By the librarian's choice"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 5,
+    "q": "A child registers for the Comic Workshop but can only attend on Thursday. What should she expect?",
+    "options": [
+     "She may still attend Thursday only",
+     "She must attend both days or not at all",
+     "She will be charged a fee",
+     "She will be moved to Robotics Taster"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 6,
+    "q": "A family with a six-year-old attends the Family Film. What must they do?",
+    "options": [
+     "Register twice",
+     "Have an adult stay with the child",
+     "Sit in the front row",
+     "Arrive an hour early"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 7,
+    "q": "Why is the note about the Comic Workshop placed in a shaded box?",
+    "options": [
+     "It is the newest programme",
+     "To draw attention to conditions that could be missed",
+     "Because it is the most popular",
+     "To fill empty space"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 8,
+    "q": "A parent checks her email on 20 November for the ballot result. Why will she find nothing?",
+    "options": [
+     "Results are posted, not emailed",
+     "Results are only sent on 22 November",
+     "Registration has not opened",
+     "The ballot was cancelled"
+    ],
+    "correct": 1
+   }
+  ]
+ },
+ "paper": {
+  "id": "paper2b",
+  "title": "Mock Paper 2B · Language Use and Comprehension",
+  "totalMarks": 95,
+  "minutes": 110,
+  "note": "A second full paper. Sit this one at least two weeks after Paper 1 so the questions are not still fresh.",
+  "sections": [
+   {
+    "id": "A1",
+    "name": "Booklet A · Grammar",
+    "marks": 10,
+    "mode": "mcq",
+    "instruction": "Choose the most suitable answer.",
+    "questions": [
+     {
+      "n": 1,
+      "q": "Neither of the proposals ______ acceptable to the committee.",
+      "options": [
+       "are",
+       "were",
+       "is",
+       "have been"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 2,
+      "q": "The pupils ______ their projects by the time the bell rang.",
+      "options": [
+       "submit",
+       "submitted",
+       "had submitted",
+       "have submitted"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 3,
+      "q": "My sister and ______ share a room.",
+      "options": [
+       "me",
+       "I",
+       "myself",
+       "mine"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 4,
+      "q": "He spoke ______ softly ______ nobody at the back could hear him.",
+      "options": [
+       "too, to",
+       "so, that",
+       "such, that",
+       "very, that"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 5,
+      "q": "You ______ have reminded me; I had already written it down.",
+      "options": [
+       "must not",
+       "need not",
+       "should not",
+       "could not"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 6,
+      "q": "Let's leave before the crowd arrives, ______?",
+      "options": [
+       "will we",
+       "shall we",
+       "do we",
+       "don't we"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 7,
+      "q": "The road ______ resurfaced when we drove past yesterday.",
+      "options": [
+       "is being",
+       "was being",
+       "has been",
+       "will be"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 8,
+      "q": "This is the volunteer ______ contribution the charity valued most.",
+      "options": [
+       "who",
+       "which",
+       "whose",
+       "whom"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 9,
+      "q": "She has been unwell ______ the start of the term.",
+      "options": [
+       "for",
+       "from",
+       "since",
+       "during"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 10,
+      "q": "Rarely ______ such a well-organised event at our school.",
+      "options": [
+       "we have seen",
+       "have we seen",
+       "we saw",
+       "did we saw"
+      ],
+      "correct": 1
+     }
+    ]
+   },
+   {
+    "id": "A2",
+    "name": "Booklet A · Vocabulary",
+    "marks": 5,
+    "mode": "mcq",
+    "instruction": "Choose the most suitable word.",
+    "questions": [
+     {
+      "n": 11,
+      "q": "The witness gave a __________ account, leaving out no detail.",
+      "options": [
+       "vague",
+       "thorough",
+       "hasty",
+       "confused"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 12,
+      "q": "Her __________ to help the newcomer impressed the whole class.",
+      "options": [
+       "refusal",
+       "reluctance",
+       "willingness",
+       "hesitation"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 13,
+      "q": "The old photograph was so __________ that we could barely make out the faces.",
+      "options": [
+       "vivid",
+       "faded",
+       "colourful",
+       "sharp"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 14,
+      "q": "Heavy rain __________ the start of the parade by nearly an hour.",
+      "options": [
+       "hastened",
+       "delayed",
+       "cancelled",
+       "shortened"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 15,
+      "q": "He spoke about his failure with surprising __________, admitting every mistake.",
+      "options": [
+       "candour",
+       "pride",
+       "secrecy",
+       "anger"
+      ],
+      "correct": 0
+     }
+    ]
+   },
+   {
+    "id": "A3",
+    "name": "Booklet A · Vocabulary Cloze",
+    "marks": 5,
+    "mode": "mcq",
+    "passage": "My grandmother has never thrown away a rubber band in her life. She keeps them looped around the handle of a drawer in the kitchen, a thick, colourful (16)______ that grows a little every month. When I was younger I found this (17)______; now I understand it. She grew up in a household where nothing arrived twice, and the habit has never left her. Last week the strap on my school bag snapped an hour before I had to leave. She did not (18)______. She simply opened the drawer, chose three bands of the right thickness, and (19)______ them into a knot that held for the entire day. I have since bought a new bag. The old strap, still bound with her rubber bands, is (20)______ in my cupboard, and I have not been able to bring myself to throw it out.",
+    "instruction": "Read the passage and choose the most suitable word for each blank.",
+    "questions": [
+     {
+      "n": 16,
+      "q": "Blank 16",
+      "options": [
+       "bundle",
+       "fragment",
+       "layer",
+       "strand"
+      ],
+      "correct": 0
+     },
+     {
+      "n": 17,
+      "q": "Blank 17",
+      "options": [
+       "admirable",
+       "ridiculous",
+       "frightening",
+       "generous"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 18,
+      "q": "Blank 18",
+      "options": [
+       "panic",
+       "celebrate",
+       "refuse",
+       "apologise"
+      ],
+      "correct": 0
+     },
+     {
+      "n": 19,
+      "q": "Blank 19",
+      "options": [
+       "snapped",
+       "twisted",
+       "tore",
+       "dropped"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 20,
+      "q": "Blank 20",
+      "options": [
+       "discarded",
+       "folded",
+       "hidden",
+       "stored"
+      ],
+      "correct": 3
+     }
+    ]
+   },
+   {
+    "id": "A4",
+    "name": "Booklet A · Visual Text",
+    "marks": 8,
+    "mode": "mcq",
+    "visual": "vtD",
+    "instruction": "Study the timetable and answer the questions.",
+    "useVisual": true
+   },
+   {
+    "id": "B1",
+    "name": "Booklet B · Grammar Cloze",
+    "marks": 10,
+    "mode": "auto",
+    "instruction": "Fill each blank with one suitable word.",
+    "passage": "Nobody in our class wanted to be the one (1)______ carried the class flag at the sports carnival. It meant walking alone at the front of the parade, in full view (2)______ the whole school, for the length of the field.\n\nMrs Tan asked for volunteers on Monday. By Wednesday, not a single hand (3)______ (be) raised. She did not scold us. She simply said that (4)______ nobody stepped forward by Friday, she would draw a name from a hat.\n\nOn Thursday evening, Farhan sent a message to the class group. He said he (5)______ do it, and that he did not particularly want to, (6)______ somebody had to. Three people replied at once offering to walk beside him, which was (7)______ Mrs Tan had allowed all along.\n\nIn the end, four of us carried the flag together. It was far (8)______ frightening than any of us had imagined. Afterwards, Farhan admitted that he (9)______ been terrified until the moment the music started.\n\nI have often wondered what would have happened if he (10)______ sent that message.",
+    "answers": [
+     {
+      "n": 1,
+      "a": [
+       "who"
+      ],
+      "tip": "Refers to a person, subject of the clause."
+     },
+     {
+      "n": 2,
+      "a": [
+       "of"
+      ],
+      "tip": "'In full view of' is the set phrase."
+     },
+     {
+      "n": 3,
+      "a": [
+       "had"
+      ],
+      "tip": "Past perfect passive: had been raised."
+     },
+     {
+      "n": 4,
+      "a": [
+       "if"
+      ],
+      "tip": "A condition."
+     },
+     {
+      "n": 5,
+      "a": [
+       "would",
+       "could",
+       "will"
+      ],
+      "tip": "Reported future."
+     },
+     {
+      "n": 6,
+      "a": [
+       "but"
+      ],
+      "tip": "Contrast between not wanting to and doing it."
+     },
+     {
+      "n": 7,
+      "a": [
+       "what",
+       "something"
+      ],
+      "tip": "'Which was what Mrs Tan had allowed'."
+     },
+     {
+      "n": 8,
+      "a": [
+       "less"
+      ],
+      "tip": "It turned out better than expected."
+     },
+     {
+      "n": 9,
+      "a": [
+       "had"
+      ],
+      "tip": "Past perfect."
+     },
+     {
+      "n": 10,
+      "a": [
+       "had not",
+       "hadn't"
+      ],
+      "tip": "Third conditional in the if-clause."
+     }
+    ]
+   },
+   {
+    "id": "B2",
+    "name": "Booklet B · Editing",
+    "marks": 12,
+    "mode": "edit",
+    "instruction": "There is one spelling or grammar error in each numbered line. Write the correction.",
+    "questions": [
+     {
+      "n": 1,
+      "q": "My father have been repairing bicycles for as long as I can remember.",
+      "a": [
+       "has"
+      ],
+      "m": "has",
+      "tip": "The error was “have”. Singular subject."
+     },
+     {
+      "n": 2,
+      "q": "He learnt the skill from his own father, who own a small workshop.",
+      "a": [
+       "owned"
+      ],
+      "m": "owned",
+      "tip": "The error was “own”. Past tense."
+     },
+     {
+      "n": 3,
+      "q": "Every Saturday, neighbours brings their bicycles to our corridor.",
+      "a": [
+       "bring"
+      ],
+      "m": "bring",
+      "tip": "The error was “brings”. 'Neighbours' is plural."
+     },
+     {
+      "n": 4,
+      "q": "He never charge anyone more than the cost of the parts.",
+      "a": [
+       "charges"
+      ],
+      "m": "charges",
+      "tip": "The error was “charge”. Third person singular."
+     },
+     {
+      "n": 5,
+      "q": "Last month, a boy came with a bicycle that was completly rusted.",
+      "a": [
+       "completely"
+      ],
+      "m": "completely",
+      "tip": "The error was “completly”. Spelling."
+     },
+     {
+      "n": 6,
+      "q": "My father spend four evenings restoring it.",
+      "a": [
+       "spent"
+      ],
+      "m": "spent",
+      "tip": "The error was “spend”. Past tense."
+     },
+     {
+      "n": 7,
+      "q": "When the boy return, he could not recognise his own bicycle.",
+      "a": [
+       "returned"
+      ],
+      "m": "returned",
+      "tip": "The error was “return”. Past tense."
+     },
+     {
+      "n": 8,
+      "q": "He was so grateful that he offer to pay double.",
+      "a": [
+       "offered"
+      ],
+      "m": "offered",
+      "tip": "The error was “offer”. Past tense."
+     },
+     {
+      "n": 9,
+      "q": "My father refused, saying that the boy should save the money for a helmit.",
+      "a": [
+       "helmet"
+      ],
+      "m": "helmet",
+      "tip": "The error was “helmit”. Spelling."
+     },
+     {
+      "n": 10,
+      "q": "Although he earns very little, he has never once turn anyone away.",
+      "a": [
+       "turned"
+      ],
+      "m": "turned",
+      "tip": "The error was “turn”. The sentence is in the present perfect: has turned."
+     },
+     {
+      "n": 11,
+      "q": "I use to think this was foolish of him.",
+      "a": [
+       "used"
+      ],
+      "m": "used",
+      "tip": "The error was “use”. 'Used to' for a past habit."
+     },
+     {
+      "n": 12,
+      "q": "Now I am proud with the way he treats people.",
+      "a": [
+       "of"
+      ],
+      "m": "of",
+      "tip": "The error was “with”. Proud OF."
+     }
+    ]
+   },
+   {
+    "id": "B3",
+    "name": "Booklet B · Comprehension Cloze",
+    "marks": 15,
+    "mode": "auto",
+    "instruction": "Fill each blank with one suitable word.",
+    "passage": "The Wrong Bus\n\nI was eight the first time I took the bus home alone, and I got it wrong within four minutes.\n\nMy mother had walked me to the stop that morning and made me repeat the number three times. Service 89. Green sign, second stop. I had (1)______ confidently, because at eight I was confident about everything.\n\nWhat I had not (2)______ was that two buses would pull in together. In the noise and the shuffling, I climbed onto the one in (3)______ and sat down, and it was only when the familiar shophouses failed to (4)______ outside the window that I understood something was wrong.\n\nI did not cry, although I very much wanted to. I sat with my bag on my (5)______ and watched the roads become steadily less familiar, and I made a series of increasingly unhelpful plans. At one point I seriously considered simply staying on the bus (6)______ it eventually came back round.\n\nAn elderly woman two seats away had been watching me. Eventually she leaned across and asked, in Hokkien, whether I knew where I was (7)______. I did not speak much Hokkien, but I understood the question, and I shook my head.\n\nShe did not make a fuss. She did not tell me off for being (8)______. She simply got off at the next stop with me, walked me across the overhead bridge, waited eleven minutes at the opposite stop, put me on the correct bus, and told the driver in three sharp sentences exactly where I was to be (9)______ off.\n\nThen she crossed back over the bridge to continue her own (10)______, which she had abandoned entirely for a stranger's child.\n\nI never learnt her name. I have never been able to (11)______ her. For years I told the story as a funny one — the day I got on the wrong bus — and it took me until my twenties to notice that the funny part is not really the point.\n\nWhat she gave me was not (12)______ the correct bus. It was the discovery, at eight, that the world contains people who will step off their own route for you and expect (13)______ in return.\n\nI think about her more often than I would have (14)______. Whenever I see a child looking lost on public transport, something in me stands (15)______, and I have her to thank for it.",
+    "answers": [
+     {
+      "n": 1,
+      "a": [
+       "nodded",
+       "agreed",
+       "repeated",
+       "answered"
+      ],
+      "tip": "A response to being made to repeat the number."
+     },
+     {
+      "n": 2,
+      "a": [
+       "expected",
+       "anticipated",
+       "considered",
+       "realised"
+      ],
+      "tip": "The complication he had not foreseen."
+     },
+     {
+      "n": 3,
+      "a": [
+       "front"
+      ],
+      "tip": "'The one in front' — two buses pulled in together."
+     },
+     {
+      "n": 4,
+      "a": [
+       "appear",
+       "arrive",
+       "materialise"
+      ],
+      "tip": "The landmarks did not show up."
+     },
+     {
+      "n": 5,
+      "a": [
+       "lap",
+       "knees"
+      ],
+      "tip": "Where a seated child holds a bag."
+     },
+     {
+      "n": 6,
+      "a": [
+       "until"
+      ],
+      "tip": "Waiting for the route to loop back."
+     },
+     {
+      "n": 7,
+      "a": [
+       "going",
+       "headed"
+      ],
+      "tip": "'Where you are going.'"
+     },
+     {
+      "n": 8,
+      "a": [
+       "careless",
+       "foolish",
+       "stupid",
+       "silly"
+      ],
+      "tip": "What a scolding adult might have said."
+     },
+     {
+      "n": 9,
+      "a": [
+       "dropped",
+       "let",
+       "set"
+      ],
+      "tip": "'Dropped off' — a set phrase."
+     },
+     {
+      "n": 10,
+      "a": [
+       "journey",
+       "trip",
+       "route"
+      ],
+      "tip": "She had her own travel to finish."
+     },
+     {
+      "n": 11,
+      "a": [
+       "thank",
+       "repay",
+       "find",
+       "trace"
+      ],
+      "tip": "He never got the chance."
+     },
+     {
+      "n": 12,
+      "a": [
+       "just",
+       "only",
+       "merely",
+       "simply"
+      ],
+      "tip": "Contrast with the larger lesson that follows."
+     },
+     {
+      "n": 13,
+      "a": [
+       "nothing"
+      ],
+      "tip": "She wanted no reward."
+     },
+     {
+      "n": 14,
+      "a": [
+       "expected",
+       "imagined",
+       "predicted",
+       "guessed"
+      ],
+      "tip": "More often than he would have thought."
+     },
+     {
+      "n": 15,
+      "a": [
+       "up",
+       "alert"
+      ],
+      "tip": "'Something in me stands up' — he feels compelled to act."
+     }
+    ]
+   },
+   {
+    "id": "B4",
+    "name": "Booklet B · Synthesis and Transformation",
+    "marks": 10,
+    "mode": "self",
+    "instruction": "Rewrite each sentence using the word given. The meaning must stay the same. Each question is worth 2 marks.",
+    "questions": [
+     {
+      "n": 1,
+      "q": "He was exhausted. He finished the whole race. **(Despite)**",
+      "m": "Despite being exhausted, he finished the whole race",
+      "marks": 2
+     },
+     {
+      "n": 2,
+      "q": "\"Do not lean out of the window,\" the conductor warned the boys. **(Begin: The conductor warned …)**",
+      "m": "The conductor warned the boys not to lean out of the window",
+      "marks": 2
+     },
+     {
+      "n": 3,
+      "q": "The alarm rang. Everyone left the building at once. **(No sooner)**",
+      "m": "No sooner had the alarm rung than everyone left the building",
+      "marks": 2
+     },
+     {
+      "n": 4,
+      "q": "Nobody in the team swims faster than Kai. **(Begin: Kai is …)**",
+      "m": "Kai is the fastest swimmer in the team",
+      "marks": 2
+     },
+     {
+      "n": 5,
+      "q": "They have not cleaned the drains for months. **(Begin: The drains …)**",
+      "m": "The drains have not been cleaned for months",
+      "marks": 2
+     }
+    ]
+   },
+   {
+    "id": "B5",
+    "name": "Booklet B · Comprehension",
+    "marks": 20,
+    "mode": "read",
+    "instruction": "Read the passage and answer the questions. Note the marks for each question.",
+    "passage": [
+     "For six years, the hardest thing about Wednesdays was the fifteen minutes between two forty-five and three o'clock.",
+     "That was when the Primary Six pupils streamed out of the side gate and past the bench where I waited for my brother, and it was when Sharon Ng and her two friends would find something to say. Nothing dramatic. Nothing a teacher would have been able to do anything about. A comment about my shoes. A question, asked with great politeness, about why I always sat alone. The particular laugh that followed, which stopped the moment I looked up.",
+     "I never told anyone. I had a theory, at eleven, that telling would make it real.",
+     "In the third term, our school introduced a peer support scheme. Every Primary Six pupil was assigned a Primary Four pupil to look after during recess — reading with them, helping them find the right classroom, that sort of thing. The list went up on the noticeboard on a Monday.",
+     "I was assigned to Sharon Ng's younger sister.",
+     "Her name was Amanda and she was nine and she was, I discovered within about four minutes, nothing whatsoever like her sister. She talked constantly. She had strong opinions about beetles. She showed me a drawing of a beetle every single day for eleven weeks, and every single one of them was, in her words, \"scientifically accurate\".",
+     "One Wednesday in the eighth week, Amanda asked me why I never walked out through the side gate with everybody else.",
+     "I said something about the bench being closer.",
+     "She looked at me for a moment with an expression that was far too old for her face, and said, \"Is it because of Sharon?\"",
+     "I did not answer. But children are not stupid, and neither, it turns out, are younger sisters.",
+     "I do not know what was said in that house. Amanda never mentioned it again, and neither did I. But the following Wednesday, and every Wednesday after it, Sharon Ng walked past the bench looking directly ahead, and said nothing at all.",
+     "It was not an apology. I have thought about it for twenty years and I am still not sure it was even kindness.",
+     "But it stopped. And a nine-year-old who liked beetles is the reason."
+    ],
+    "questions": [
+     {
+      "n": 1,
+      "q": "What happened between 2.45 and 3.00 on Wednesdays? (1m)",
+      "marks": 1,
+      "a": "The Primary Six pupils came out of the side gate, and Sharon Ng and her friends would make remarks to the narrator as they passed the bench where she waited."
+     },
+     {
+      "n": 2,
+      "q": "Give two examples of what Sharon and her friends did. (2m)",
+      "marks": 2,
+      "a": "They made comments about the narrator's shoes, and they asked her politely why she always sat by herself, then laughed at her."
+     },
+     {
+      "n": 3,
+      "q": "Why does the narrator say it was \"nothing a teacher would have been able to do anything about\"? (2m)",
+      "marks": 2,
+      "a": "Because the remarks were never openly rude or physical, and could easily have been passed off as ordinary questions or jokes, which would have made them very hard to report or prove."
+     },
+     {
+      "n": 4,
+      "q": "Explain the narrator's theory that \"telling would make it real\". (2m)",
+      "marks": 2,
+      "a": "She felt that as long as she kept the bullying to herself, she could treat it as something minor that she was perhaps imagining, whereas saying it out loud would force her to admit that it was genuinely happening to her."
+     },
+     {
+      "n": 5,
+      "q": "In your own words, describe what Amanda was like. (2m)",
+      "marks": 2,
+      "a": "She was talkative and enthusiastic, with firm views of her own, and she was completely unlike her older sister in character."
+     },
+     {
+      "n": 6,
+      "q": "Why does the writer mention the beetle drawings? (2m)",
+      "marks": 2,
+      "a": "They show how innocent and single-minded Amanda was, which makes the contrast with her sister sharper and makes it more surprising that a nine-year-old should be the one to notice what adults had missed."
+     },
+     {
+      "n": 7,
+      "q": "What did Amanda's expression \"far too old for her face\" suggest? (2m)",
+      "marks": 2,
+      "a": "It suggested that she understood the situation with a maturity beyond her nine years, and that she had probably already suspected what her sister was doing."
+     },
+     {
+      "n": 8,
+      "q": "Why do you think the narrator says she is \"still not sure it was even kindness\"? (3m)",
+      "marks": 3,
+      "a": "Firstly, Sharon never apologised or acknowledged what she had done. In addition, her silence may have come from being told off at home rather than from any change of heart. Finally, walking past without a word is only the absence of cruelty, which is not the same thing as being kind."
+     },
+     {
+      "n": 9,
+      "q": "Explain why the last two sentences are an effective ending. (4m)",
+      "marks": 4,
+      "a": "Firstly, they are extremely short, which gives them weight after the longer reflective paragraph before them. In addition, 'But it stopped' states the outcome plainly, without dressing it up as a triumph. Furthermore, describing Amanda as 'a nine-year-old who liked beetles' rather than by name reminds us how small and ordinary the person who changed things was. Finally, the ending gives the credit entirely to Amanda, which is generous and unexpected in a story about being bullied."
+     }
+    ]
+   }
+  ]
+ }
+}

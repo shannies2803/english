@@ -1,0 +1,154 @@
+{
+  "passages": [
+    {
+      "id": "cmpE",
+      "title": "The Spare Room",
+      "level": "P4",
+      "kind": "Narrative",
+      "words": 320,
+      "text": [
+        "When my grandmother came to live with us, she was given the spare room, and the spare room was where I had kept everything that mattered to me.",
+        "It was not really a bedroom. It had a folding bed nobody used, three boxes of my father's old files, and — most importantly — a corner where I had built a city out of cardboard over two entire school holidays. It had a hospital. It had a river made of blue tissue paper. I had spent forty-one days on it, because I had counted.",
+        "My mother told me on a Tuesday. Grandmother was moving in on Saturday, and the city would have to go.",
+        "I did not argue, because in our house arguing about a decision that has already been made is considered a waste of everybody's afternoon. I took the city apart myself on Friday evening, piece by piece, and put it in the recycling bin downstairs. It took eleven minutes. I remember being surprised by that.",
+        "For the first two weeks, I did not go into the spare room at all.",
+        "Then one evening Grandmother called me in. She was sitting on the edge of the bed with a shoebox on her lap, and inside the shoebox were about thirty small objects wrapped in newspaper — a brass thimble, a wooden elephant with one ear missing, a key to a house in Ipoh that had been sold in 1978.",
+        "She unwrapped them one at a time and told me where each had come from. It took nearly an hour, and she did not hurry any of it.",
+        "At the end she said, \"Your mother tells me there was a city here.\"",
+        "I said there had been.",
+        "She thought about that. Then she said, \"Mine is in a shoebox. Yours was on the floor. Neither is very sensible.\"",
+        "I laughed before I could stop myself.",
+        "We built a new one together over the December holidays, on a piece of board that slides under her bed. It is smaller than the first. It has a hospital, a blue tissue river, and, at Grandmother's insistence, a shop that sells nothing but thimbles."
+      ],
+      "questions": [
+        {"n":1,"q":"What had the narrator built in the spare room? (1m)","marks":1,"a":"A city made out of cardboard, complete with a hospital and a river made from blue tissue paper.","tip":"Literal, but include a detail or two."},
+        {"n":2,"q":"How long had the city taken to build, and how do we know the narrator cared about it? (2m)","marks":2,"a":"It took forty-one days across two school holidays. We know he cared because he had counted the days exactly.","tip":"Two parts to the question — answer both."},
+        {"n":3,"q":"Why did the narrator not argue with his mother? (2m)","marks":2,"a":"Because in his family, arguing about something that has already been decided is regarded as pointless, so there was no expectation that complaining would change anything.","tip":"The reason is stated, but must be reworded a little."},
+        {"n":4,"q":"Why do you think the narrator was surprised that it only took eleven minutes? (2m)","marks":2,"a":"Because something that had taken him forty-one days to build was destroyed in a few minutes, and the difference between the two made the loss feel sharper and somehow unfair.","tip":"'Why do you think' — inference. Contrast the two numbers."},
+        {"n":5,"q":"Describe two of the objects in Grandmother's shoebox. (1m)","marks":1,"a":"A brass thimble and a wooden elephant missing one ear.","tip":"One mark, so keep it very short."},
+        {"n":6,"q":"What did Grandmother mean by \"Mine is in a shoebox. Yours was on the floor. Neither is very sensible.\"? (3m)","marks":3,"a":"Firstly, she meant that she too keeps things that matter to her, so she understood his loss. In addition, she was pointing out that neither of them stores their treasures in a practical way. Finally, by joking about them both she put herself on his side rather than treating him as a child who had lost a toy.","tip":"Three marks means three points. The third one is about her purpose in saying it."},
+        {"n":7,"q":"How did the narrator's feelings towards his grandmother change? Use evidence. (3m)","marks":3,"a":"Firstly, at the start he resented her arrival, shown by his avoiding the spare room completely for a fortnight. In addition, after she showed him the shoebox and made her remark, he laughed before he could stop himself, which suggests his resistance broke. Finally, by December they were building a new city together, which shows the relationship had become a genuine friendship.","tip":"Track the change across the whole passage: before, turning point, after."},
+        {"n":8,"q":"Why is the detail about the thimble shop an effective ending? (2m)","marks":2,"a":"Because it shows the new city belongs to both of them rather than only to the narrator, and the small joke about her own treasured object proves that she has been fully included in something that once mattered only to him.","tip":"Endings that use a small specific detail almost always carry a larger meaning."}
+      ]
+    },
+
+    {
+      "id": "cmpF",
+      "title": "Why We Sleep Badly",
+      "level": "P5",
+      "kind": "Non-narrative",
+      "words": 340,
+      "text": [
+        "Ask a class of Primary Six pupils how many hours they slept last night and the answers will vary widely. Ask how many hours they should have slept, and most will guess correctly: nine to eleven. The gap between what children know and what they do is one of the more puzzling features of childhood sleep.",
+        "Part of the explanation is biological. During adolescence, the body clock shifts later, so teenagers genuinely find it harder to fall asleep early. This shift begins earlier than most parents realise, sometimes as young as eleven. A child who says she is not tired at half past nine may be telling the truth.",
+        "A larger part of the explanation, however, is environmental. Screens emit blue light, which suppresses melatonin, the hormone that signals to the body that it is time to sleep. Watching a video for thirty minutes before bed can delay the onset of sleep by considerably longer than thirty minutes. The problem is not simply that screens take up time; it is that they change what the body does with the time that remains.",
+        "There is also the matter of what researchers call sleep debt. Many children lose an hour or two on school nights and attempt to repay it by sleeping late at weekends. This does not work as well as it feels like it should. Sleeping until noon on Sunday shifts the body clock later again, which makes Monday morning harder than it needed to be — a cycle sometimes called social jet lag.",
+        "The consequences are not limited to feeling tired. Sleep is when the brain consolidates what was learnt during the day, moving information from short-term into long-term memory. A pupil who revises for two hours and then sleeps for five may retain less than one who revises for one hour and sleeps for nine.",
+        "The remedies are unglamorous. A consistent bedtime, including at weekends. No screens for an hour before sleep. A dark, cool room. None of this is new advice, and none of it is difficult. It is simply, for most families, inconvenient."
+      ],
+      "questions": [
+        {"n":1,"q":"How many hours of sleep should a Primary Six pupil get? (1m)","marks":1,"a":"Between nine and eleven hours.","tip":"Literal retrieval."},
+        {"n":2,"q":"What does the writer find puzzling? (2m)","marks":2,"a":"That children can correctly state how much sleep they need, yet still do not get it — the gap between their knowledge and their behaviour.","tip":"The word 'puzzling' points you to the last sentence of paragraph 1."},
+        {"n":3,"q":"Explain, in your own words, why a child might honestly not feel tired at 9.30 p.m. (2m)","marks":2,"a":"As children approach their teenage years, their internal body clock naturally moves later, which means they are not yet ready for sleep at that hour even though they are not pretending.","tip":"'Body clock shifts later' must be reworded."},
+        {"n":4,"q":"How do screens affect sleep? (2m)","marks":2,"a":"The blue light they give off reduces the body's production of melatonin, the hormone that tells the body it is time to sleep, so falling asleep is delayed well beyond the time actually spent looking at the screen.","tip":"Two marks: name the mechanism and the effect."},
+        {"n":5,"q":"What does the word 'suppresses' mean in paragraph 3?","marks":1,"a":"Reduces or holds back.","tip":"Give a synonym that fits the grammar of the sentence."},
+        {"n":6,"q":"Explain why sleeping late on Sunday makes Monday harder. (2m)","marks":2,"a":"Because a long weekend lie-in pushes the body clock even later, so on Sunday night the child is not ready to sleep at the usual time and wakes on Monday having lost more sleep, not less.","tip":"Follow the chain of cause and effect."},
+        {"n":7,"q":"Why might a pupil who revises for one hour outperform one who revises for two? (3m)","marks":3,"a":"Firstly, sleep is when the brain moves what has been learnt from short-term into long-term memory. In addition, the pupil who revises longer but sleeps only five hours has less time for this process to happen. Finally, the extra hour of revision is therefore wasted if it is taken out of the sleep that would have fixed the learning in place.","tip":"Three marks, three linked points."},
+        {"n":8,"q":"What does the writer mean by describing the remedies as \"unglamorous\" and the last sentence as \"simply inconvenient\"? (3m)","marks":3,"a":"Firstly, the writer means the solutions are ordinary and dull rather than clever or new. In addition, the word 'inconvenient' suggests families already know what to do but find it awkward to fit around homework, tuition and screens. Finally, the tone is gently critical: the writer is pointing out that the barrier is not difficulty or ignorance but unwillingness.","tip":"Explain both phrases and then say what the writer's attitude is."}
+      ]
+    },
+
+    {
+      "id": "cmpG",
+      "title": "The Substitute Goalkeeper",
+      "level": "P6",
+      "kind": "Narrative",
+      "words": 350,
+      "text": [
+        "I spent two seasons as the substitute goalkeeper, which meant that I trained four times a week in order to sit on a plastic bench and watch somebody else be better than me.",
+        "His name was Farid and he was, irritatingly, a decent person. He never once made me feel like a spare part. He would jog over at half-time to tell me what the strikers were doing, as though I might be going on, and I never did.",
+        "The final was in September. Ten minutes before kick-off, Farid landed badly during the warm-up and could not stand on his left ankle.",
+        "I remember Coach Nathan turning around and looking at me for a fraction too long before he said my name, and I understood exactly what that pause meant.",
+        "We lost four-one.",
+        "Two of the goals were unquestionably my fault. The third I might have reached. The fourth went in during the last minute, when we had pushed everybody forward, and nobody could reasonably have blamed me for it, but I blamed me for it anyway.",
+        "I did not cry in the changing room. I waited until I was home and in the shower, where it does not count.",
+        "The following Tuesday I went to training because I did not know what else to do with a Tuesday. Farid was there on crutches. He waited until the others had gone out to the field and then he said, \"The second one. Did you see it coming?\"",
+        "I said I had not.",
+        "\"You did,\" he said. \"You moved. You moved half a second before he struck it, then you stopped yourself. I watched it four times.\"",
+        "I told him that stopping myself was exactly the problem.",
+        "\"No,\" he said. \"Not seeing it is the problem, and you don't have it. The rest is practice.\"",
+        "I have replayed that conversation more often than I have replayed the goals.",
+        "I never became a good goalkeeper. I played for one more season, then a growth spurt ruined whatever coordination I had, and I moved to hockey and was mediocre at that instead. But I have never forgotten the difference between the thing you cannot learn and the thing you simply have not learnt yet, and I have been unreasonably calm about failure ever since."
+      ],
+      "questions": [
+        {"n":1,"q":"What does the narrator mean by \"a spare part\"? (2m)","marks":2,"a":"He means someone who is kept around only in case of emergency and is not really needed or valued by the team.","tip":"Explain the phrase in your own words."},
+        {"n":2,"q":"Why does the narrator describe Farid as \"irritatingly, a decent person\"? (2m)","marks":2,"a":"Because it would have been easier to resent Farid if he had been arrogant, but his kindness meant the narrator could not even enjoy disliking the player who had taken his place.","tip":"The humour is in the word 'irritatingly'. Explain why decency was annoying."},
+        {"n":3,"q":"What did the narrator understand from Coach Nathan's pause? (2m)","marks":2,"a":"That the coach had no confidence in him and was reluctant to put him on, and was only doing so because there was no alternative.","tip":"Inference from a small physical detail."},
+        {"n":4,"q":"The narrator says he blamed himself for the fourth goal even though nobody else would. What does this tell us about him? (2m)","marks":2,"a":"It shows that he judged himself far more harshly than the situation deserved, and that he took full responsibility for the defeat regardless of what was actually his fault.","tip":"The question asks what it reveals about character, not what happened."},
+        {"n":5,"q":"Explain the phrase \"in the shower, where it does not count\". (2m)","marks":2,"a":"He means that crying where nobody can see or hear him, and where the water hides the tears, allowed him to feel that it had not really happened and that he had not lost his composure.","tip":"Two marks: what he did, and why the location mattered to him."},
+        {"n":6,"q":"Why do you think Farid had watched the second goal four times? (2m)","marks":2,"a":"Because he wanted to be certain of what he had seen before saying anything, so that his encouragement would be based on evidence rather than being empty kindness.","tip":"Link it to the kind of person Farid is shown to be earlier."},
+        {"n":7,"q":"Explain what Farid meant by \"Not seeing it is the problem, and you don't have it. The rest is practice.\" (3m)","marks":3,"a":"Firstly, he meant that the ability to read the game and anticipate a shot is the part that cannot easily be taught. In addition, he was telling the narrator that he clearly possessed this ability, since he had begun to move before the shot. Finally, everything else — the confidence to commit to the movement — was simply a skill that could be improved through training.","tip":"Three marks, three separate ideas inside one short quotation."},
+        {"n":8,"q":"The narrator says he has been \"unreasonably calm about failure ever since\". Explain how the events of the passage led to this. (3m)","marks":3,"a":"Firstly, he suffered a very public failure in the final and discovered that he survived it. In addition, Farid taught him to separate weaknesses that can be trained from limits that cannot, which made failure feel diagnosable rather than shameful. Finally, the word 'unreasonably' suggests he knows his calmness is greater than the situation warrants, which shows how deeply that one conversation changed him.","tip":"The last mark comes from noticing the word 'unreasonably'."}
+      ]
+    },
+
+    {
+      "id": "cmpH",
+      "title": "The Last Shophouse",
+      "level": "P6",
+      "kind": "Narrative",
+      "words": 355,
+      "text": [
+        "The letter arrived on a Thursday and my mother read it twice at the kitchen table before she said anything.",
+        "The block was to be redeveloped. We had eleven months. There would be compensation, and priority for a flat in the new estate, and a list of dates for briefing sessions at the community centre.",
+        "My grandfather had opened the shop in 1971. My mother had grown up behind the counter and had taken it over at twenty-six. I had done my homework at the small table by the window for the whole of primary school, under a ceiling fan that wobbled and had never once fallen.",
+        "\"Eleven months,\" my mother said. Then she got up and served a customer who wanted three tins of condensed milk.",
+        "For a long time she said nothing further about it, and I made the mistake of thinking that she was fine.",
+        "In the seventh month I came down early one morning and found her behind the counter with a notebook, writing. She had been going through the shelves, item by item, recording what each thing was and who bought it. Mrs Yeo, condensed milk, three tins, every second Wednesday. Mr Kamal, curry powder, the large tin, monthly. The boy from 217, one packet of prawn crackers on Fridays, always with exact change.",
+        "There were four pages of it.",
+        "I asked what it was for. She said she did not know yet.",
+        "In the tenth month, she began telephoning them. Not all of them — she had no numbers for most — but the ones she could reach. She told each of them what she had written down about them, and where the new estate shops would be, and which of the other provision shops in the area carried the same brands.",
+        "Mrs Yeo cried on the telephone. My mother did not.",
+        "We closed on a Sunday. The last thing my mother did was take down the ceiling fan herself, with a screwdriver, and wrap it in a towel, and put it in the boot of the car.",
+        "It is in the storeroom of our flat now. It has never been installed. My mother says the ceilings are the wrong height, which is true, and also not the reason."
+      ],
+      "questions": [
+        {"n":1,"q":"What news did the letter contain? (2m)","marks":2,"a":"That the block containing the family's shop was going to be redeveloped, and that they had eleven months before they would have to leave.","tip":"Two marks: the news itself and the timeframe."},
+        {"n":2,"q":"Why does the writer mention the ceiling fan in paragraph 3? (2m)","marks":2,"a":"It shows how familiar and constant the shop was throughout his childhood, and it introduces an object that becomes important at the end of the passage.","tip":"Ask what job the detail does — here it does two."},
+        {"n":3,"q":"What does the mother's reaction to the letter suggest about her? (3m)","marks":3,"a":"Firstly, she read it twice before speaking, which shows she was absorbing it carefully rather than reacting immediately. In addition, she said only 'Eleven months' and then served a customer, which suggests she deals with difficulty by continuing to work. Finally, her silence over the following months shows she keeps strong feelings private rather than sharing them.","tip":"Three marks — use the whole paragraph, not just the first line."},
+        {"n":4,"q":"In your own words, describe what the mother was writing in her notebook. (2m)","marks":2,"a":"She was making a record of each regular customer, noting what they bought, how much, and how often.","tip":"Do not lift 'item by item' or the examples."},
+        {"n":5,"q":"Why does the writer include the detail about the boy from 217 paying with exact change? (2m)","marks":2,"a":"It shows how precisely his mother knew each customer, down to small personal habits, which makes clear that the shop was a set of relationships and not simply a business.","tip":"The smallest detail in a list is usually the deliberate one."},
+        {"n":6,"q":"What did the mother eventually do with the information she had collected? (2m)","marks":2,"a":"She telephoned the customers she had numbers for and told them what she had recorded about them, along with where the new shops would be and which nearby provision shops stocked the same brands.","tip":"Answer the whole question — she did two things with it."},
+        {"n":7,"q":"\"Mrs Yeo cried on the telephone. My mother did not.\" Why do you think the writer places these two sentences together? (3m)","marks":3,"a":"Firstly, the contrast highlights how tightly the mother controls her feelings compared with her customers. In addition, the shortness and bluntness of the second sentence imitates her own manner. Finally, it invites the reader to suspect that she did feel just as much, but would not show it — which the ending then confirms.","tip":"Three marks: the contrast, the style, and what it makes the reader think."},
+        {"n":8,"q":"Explain the final sentence: \"My mother says the ceilings are the wrong height, which is true, and also not the reason.\" (4m)","marks":4,"a":"Firstly, the practical explanation she gives is genuinely accurate, so she is not lying. In addition, the narrator is telling us that it is not her real reason for leaving the fan boxed up. Furthermore, the true reason is that installing it in a new flat would mean accepting that the shop is gone, which she is not ready to do. Finally, the sentence shows how well the narrator now understands his mother — he no longer mistakes her practical explanations for the whole truth, as he did in month one.","tip":"Four marks. The last point links back to 'I made the mistake of thinking that she was fine.'"}
+      ]
+    }
+  ],
+
+  "listening2": {
+    "title": "Listening Comprehension · Practice Paper 2",
+    "instructions": "As before: an adult reads each text aloud TWICE at a normal pace, pausing briefly between readings. The child reads the question and options first. Do not show the child the script. 20 marks.",
+    "items": [
+      {"n":1,"script":"Good morning. Owing to a water pipe repair, the toilets on level three will be closed for the whole of today. Pupils should use the facilities on level two or level four. We expect everything to be back to normal by tomorrow morning.","q":"Which toilets can pupils use today?","options":["Level three only","Levels two and four","No toilets at all","Level one"],"correct":1},
+      {"n":2,"script":"Boy: Are you going to Wei Ling's birthday on Saturday? Girl: I said yes, but now I've realised it's the same day as my swimming test. Boy: What time is the test? Girl: Nine in the morning. The party's at three, so actually I can do both.","q":"What has the girl decided?","options":["To miss the party","To miss the test","To attend both","To reschedule the test"],"correct":2},
+      {"n":3,"script":"Attention, passengers on platform two. The next train has been delayed by approximately eight minutes due to a signalling fault at the previous station. Passengers travelling to the interchange may wish to use the shuttle bus outside exit B.","q":"Why has the train been delayed?","options":["A signalling fault","An accident","Bad weather","Overcrowding"],"correct":0},
+      {"n":4,"script":"Girl: I've finished the science model. Father: Already? You only started this afternoon. Girl: The building part was easy. It's the write-up I haven't touched. Father: How long will that take? Girl: About two hours, and it's due tomorrow.","q":"What has the girl still not done?","options":["Built the model","Written the report","Bought the materials","Asked for help"],"correct":1},
+      {"n":5,"script":"The zoo's new nocturnal exhibit opens next month. Visitors will walk through a darkened enclosure where the lighting is reversed, so the animals believe it is night during the day. Flash photography is strictly prohibited, as it distresses the animals and can damage their eyesight.","q":"Why is flash photography not allowed?","options":["It disturbs other visitors","It harms and upsets the animals","The photos come out badly","It is too expensive"],"correct":1},
+      {"n":6,"script":"Boy: Did you hear? The excursion has been moved to the twenty-fourth. Girl: I thought it was the seventeenth. Boy: It was, but the museum is closed that week for maintenance. Girl: Good — I'll actually be back from Malaysia by then.","q":"Why was the excursion moved?","options":["Too few pupils signed up","The museum will be closed","The bus was unavailable","A teacher is away"],"correct":1},
+      {"n":7,"script":"Residents are reminded that bulky items such as old furniture and mattresses must not be left at the void deck. Please arrange a free collection by calling the town council at least three working days in advance. Items left without arrangement may result in a fine.","q":"How much notice must residents give?","options":["One day","Three working days","One week","No notice is needed"],"correct":1},
+      {"n":8,"script":"Woman: Your library book was due last Tuesday. Boy: I'm sorry. Is there a fine? Woman: Fifteen cents a day, so that's one dollar five. But if you'd renewed it online you could have kept it another three weeks.","q":"What should the boy have done?","options":["Returned it earlier","Renewed it online","Paid in advance","Bought the book"],"correct":1},
+      {"n":9,"script":"For this recipe you'll need two cups of flour, one egg, and about half a cup of milk. Mix the dry ingredients first, then add the egg. Add the milk slowly — you may not need all of it. The batter should be thick enough to coat the back of a spoon.","q":"What should you do with the milk?","options":["Add it all at once","Add it first","Add it gradually and possibly not all of it","Leave it out"],"correct":2},
+      {"n":10,"script":"Girl: My grandmother's teaching me to make kueh this weekend. Boy: Is it hard? Girl: The mixing isn't. The steaming is — apparently if you lift the lid too early the whole thing collapses. She says she ruined about twenty before she got it right.","q":"What is the difficult part?","options":["Mixing the ingredients","Getting the steaming right","Finding the ingredients","Cutting the kueh"],"correct":1},
+      {"n":11,"passage":"A","script":"Right, everyone, gather round for the briefing on the community garden project.\n\nWe'll be working on the plot behind Block 219 every Saturday morning for the next six weeks, from eight until ten. Eight is early, I know, but by half past ten in March it becomes genuinely unpleasant out there, and we'd rather finish than faint.\n\nBring a hat and a refillable water bottle. Do not bring your own tools — we have enough, and the ones we have are the right ones. Several people last year turned up with garden forks that were far too heavy for the soil here, which is mostly clay.\n\nIn the first two weeks we'll be clearing and preparing the beds. That's the least interesting part and, unfortunately, the most necessary. Planting begins in week three. We're growing kangkong, chilli, sweet potato leaves and, if the soil behaves, a small patch of ginger.\n\nOne more thing. Whatever we harvest goes to the residents on the assistance list first. Anything left after that is shared among the volunteers. Please don't turn up in week six expecting to fill a bag — that is not what this is for.","q":"What time does the session start?","options":["Seven","Eight","Half past eight","Ten"],"correct":1},
+      {"n":12,"passage":"A","q":"Why does the session finish at ten?","options":["The volunteers have other commitments","It becomes too hot after that","The tools must be returned","The garden closes"],"correct":1},
+      {"n":13,"passage":"A","q":"Why should volunteers not bring their own tools?","options":["There is nowhere to store them","The organisers already have suitable ones","They might be stolen","It is against the rules"],"correct":1},
+      {"n":14,"passage":"A","q":"What will happen in the first two weeks?","options":["Planting","Harvesting","Clearing and preparing the beds","Training"],"correct":2},
+      {"n":15,"passage":"A","q":"Who receives the harvest first?","options":["The volunteers","Residents on the assistance list","The town council","Whoever arrives earliest"],"correct":1},
+      {"n":16,"passage":"B","script":"Interviewer: You've been a school crossing warden for twenty-six years. Do you know the children by name?\n\nMr Loke: Most of them. Not all. There are about four hundred at that school and they change every six years, so I gave up trying to know all of them a long time ago. But I know the regulars. I know who runs and who dawdles. I know which ones will step off the kerb without looking, and I position myself accordingly.\n\nInterviewer: Has anything ever gone badly wrong?\n\nMr Loke: Once. Nineteen years ago. A car came through much faster than it should have and I had to pull a boy back by his bag. He was fine. I was not fine, for about a month. I still think about it when a car comes round that bend too quickly, which is most mornings.\n\nInterviewer: Have you ever thought of stopping?\n\nMr Loke: Every February, when it rains for three weeks. Then it stops raining. And a child I have never spoken to says good morning to me because his older sister used to, and I think, well, another year.\n\nInterviewer: What would you want people to understand about the job?\n\nMr Loke: That it is not about the sign. Anybody can hold a sign. It is about knowing, on a particular Tuesday, that the boy in the blue cap has had a bad morning and is not paying attention.","q":"How long has Mr Loke been a crossing warden?","options":["Nineteen years","Twenty-six years","Thirty years","Six years"],"correct":1},
+      {"n":17,"passage":"B","q":"Why did he stop trying to learn every child's name?","options":["He has a poor memory","There are too many and they change every six years","The school asked him not to","He only works part-time"],"correct":1},
+      {"n":18,"passage":"B","q":"What happened nineteen years ago?","options":["He was injured by a car","He pulled a boy back from a speeding car","A child was hurt","He nearly resigned"],"correct":1},
+      {"n":19,"passage":"B","q":"What makes him carry on each year?","options":["The pay","Small greetings from children he barely knows","Pressure from the school","He has nothing else to do"],"correct":1},
+      {"n":20,"passage":"B","q":"What does he mean by \"it is not about the sign\"?","options":["The sign is unnecessary","The real skill is noticing individual children's behaviour","He dislikes carrying the sign","Anyone can do the job"],"correct":1}
+    ]
+  }
+}

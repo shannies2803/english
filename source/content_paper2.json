@@ -1,0 +1,732 @@
+{
+ "id": "paper2a",
+ "title": "Mock Paper 2A · Language Use and Comprehension",
+ "totalMarks": 95,
+ "minutes": 110,
+ "note": "The first of three. Sit these several weeks apart so the questions are not still fresh.",
+ "sections": [
+  {
+   "id": "A1",
+   "name": "Booklet A · Grammar",
+   "marks": 10,
+   "mode": "mcq",
+   "instruction": "Choose the most suitable answer.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The list of approved suppliers ______ displayed on the noticeboard.",
+     "options": [
+      "are",
+      "is",
+      "have",
+      "were"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 2,
+     "q": "She ______ her homework before her mother returned from work.",
+     "options": [
+      "finishes",
+      "has finished",
+      "had finished",
+      "will finish"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 3,
+     "q": "Wei Ming plays badminton far better than ______.",
+     "options": [
+      "me",
+      "I do",
+      "my",
+      "mine"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 4,
+     "q": "______ the terrible weather, the fun fair went ahead as planned.",
+     "options": [
+      "Although",
+      "Because of",
+      "Despite",
+      "However"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 5,
+     "q": "You ______ worry about the test; it has been postponed.",
+     "options": [
+      "must not",
+      "need not",
+      "should not have",
+      "cannot"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 6,
+     "q": "Hardly anyone attended the talk, ______?",
+     "options": [
+      "did they",
+      "didn't they",
+      "were they",
+      "weren't they"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 7,
+     "q": "The prize ______ to the pupil with the best attendance record.",
+     "options": [
+      "gives",
+      "is giving",
+      "is given",
+      "give"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 8,
+     "q": "He is the sort of person ______ never gives up.",
+     "options": [
+      "which",
+      "whose",
+      "who",
+      "whom"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 9,
+     "q": "We had waited ______ over an hour before the doctor called us in.",
+     "options": [
+      "since",
+      "for",
+      "from",
+      "during"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 10,
+     "q": "Not only ______ the competition, but she also set a new record.",
+     "options": [
+      "she won",
+      "did she win",
+      "she did win",
+      "won she"
+     ],
+     "correct": 1
+    }
+   ]
+  },
+  {
+   "id": "A2",
+   "name": "Booklet A · Vocabulary",
+   "marks": 5,
+   "mode": "mcq",
+   "instruction": "Choose the most suitable word.",
+   "questions": [
+    {
+     "n": 11,
+     "q": "The rescue team searched __________ for the missing hiker, refusing to rest.",
+     "options": [
+      "carelessly",
+      "tirelessly",
+      "reluctantly",
+      "briefly"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 12,
+     "q": "His __________ apology convinced nobody, least of all his sister.",
+     "options": [
+      "sincere",
+      "heartfelt",
+      "half-hearted",
+      "generous"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 13,
+     "q": "The instructions on the packet were __________, so we made several mistakes.",
+     "options": [
+      "clear",
+      "precise",
+      "ambiguous",
+      "detailed"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 14,
+     "q": "After the long illness, she made a full __________ within three months.",
+     "options": [
+      "recovery",
+      "relapse",
+      "decline",
+      "collapse"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 15,
+     "q": "The principal __________ the school on its excellent results.",
+     "options": [
+      "blamed",
+      "congratulated",
+      "warned",
+      "questioned"
+     ],
+     "correct": 1
+    }
+   ]
+  },
+  {
+   "id": "A3",
+   "name": "Booklet A · Vocabulary Cloze",
+   "marks": 5,
+   "mode": "mcq",
+   "passage": "Every Saturday morning, my father and I (16)______ the same route around the reservoir. He walks; I cycle slowly beside him. Over the years this has become a (17)______ that neither of us would dream of breaking. Last month he twisted his ankle, and I (18)______ that we would have to stop for a few weeks. Instead, he insisted on coming, limping the whole way. When I suggested turning back early, he gave me a look of such (19)______ that I did not raise it again. We finished the full loop, more slowly than usual, and he said nothing about the pain until we were (20)______ home.",
+   "instruction": "Read the passage and choose the most suitable word for each blank.",
+   "questions": [
+    {
+     "n": 16,
+     "q": "Blank 16",
+     "options": [
+      "take",
+      "make",
+      "do",
+      "have"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 17,
+     "q": "Blank 17",
+     "options": [
+      "ritual",
+      "rumour",
+      "reward",
+      "request"
+     ],
+     "correct": 0
+    },
+    {
+     "n": 18,
+     "q": "Blank 18",
+     "options": [
+      "hoped",
+      "assumed",
+      "denied",
+      "refused"
+     ],
+     "correct": 1
+    },
+    {
+     "n": 19,
+     "q": "Blank 19",
+     "options": [
+      "gratitude",
+      "amusement",
+      "indignation",
+      "confusion"
+     ],
+     "correct": 2
+    },
+    {
+     "n": 20,
+     "q": "Blank 20",
+     "options": [
+      "nearly",
+      "almost",
+      "already",
+      "well"
+     ],
+     "correct": 1
+    }
+   ]
+  },
+  {
+   "id": "A4",
+   "name": "Booklet A · Visual Text",
+   "marks": 8,
+   "mode": "mcq",
+   "visual": "vtA",
+   "instruction": "Study the poster and answer the questions.",
+   "useVisual": true
+  },
+  {
+   "id": "B1",
+   "name": "Booklet B · Grammar Cloze",
+   "marks": 10,
+   "mode": "auto",
+   "instruction": "Fill each blank with one suitable word.",
+   "passage": "The idea of a school garden began (1)______ a single tomato plant on Mrs Idris's windowsill. Her Primary Four class watched it grow (2)______ several weeks, measuring it every Monday and recording the results in a chart.\n\nWhen the plant finally produced three small tomatoes, the pupils asked (3)______ they could grow more. Mrs Idris took the request to the principal, (4)______ agreed to let them use an unused patch of ground behind the canteen.\n\nThe work was harder (5)______ anyone expected. The soil (6)______ (be) poor, and for the first month almost nothing grew. Several pupils lost interest. (7)______ they had been ready to give up, a retired gardener living in the neighbourhood offered to help. He showed them how to enrich the soil with compost made (8)______ the canteen's vegetable scraps.\n\nBy the end of the year, the garden (9)______ (produce) enough vegetables to supply the canteen for a fortnight. Mrs Idris still keeps the original chart on her wall, (10)______ reminds her class where everything started.",
+   "answers": [
+    {
+     "n": 1,
+     "a": [
+      "with"
+     ],
+     "tip": "'Begin with' — a starting point."
+    },
+    {
+     "n": 2,
+     "a": [
+      "over",
+      "across",
+      "for"
+     ],
+     "tip": "A period of time."
+    },
+    {
+     "n": 3,
+     "a": [
+      "whether",
+      "if"
+     ],
+     "tip": "An indirect yes/no question."
+    },
+    {
+     "n": 4,
+     "a": [
+      "who"
+     ],
+     "tip": "Refers to the principal, a person."
+    },
+    {
+     "n": 5,
+     "a": [
+      "than"
+     ],
+     "tip": "After a comparative."
+    },
+    {
+     "n": 6,
+     "a": [
+      "was"
+     ],
+     "tip": "Past tense, singular subject."
+    },
+    {
+     "n": 7,
+     "a": [
+      "Just",
+      "When"
+     ],
+     "tip": "'Just as' or 'When' — a turning point in the narrative."
+    },
+    {
+     "n": 8,
+     "a": [
+      "from"
+     ],
+     "tip": "Compost is made FROM scraps."
+    },
+    {
+     "n": 9,
+     "a": [
+      "had produced",
+      "was producing",
+      "produced"
+     ],
+     "tip": "Completed by the end of the year."
+    },
+    {
+     "n": 10,
+     "a": [
+      "which"
+     ],
+     "tip": "Non-defining relative clause referring to the chart."
+    }
+   ]
+  },
+  {
+   "id": "B2",
+   "name": "Booklet B · Editing",
+   "marks": 12,
+   "mode": "edit",
+   "instruction": "There is one spelling or grammar error in each numbered line. Write the correction.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "Our neighbourhood hold a clean-up every first Sunday of the month.",
+     "a": [
+      "holds"
+     ],
+     "m": "holds",
+     "tip": "The error was “hold”. The subject is singular."
+    },
+    {
+     "n": 2,
+     "q": "Last Sunday, more than sixty resident turned up at the void deck.",
+     "a": [
+      "residents"
+     ],
+     "m": "residents",
+     "tip": "The error was “resident”. 'More than sixty' needs a plural."
+    },
+    {
+     "n": 3,
+     "q": "We was divided into four groups by the organiser.",
+     "a": [
+      "were"
+     ],
+     "m": "were",
+     "tip": "The error was “was”. 'We' takes 'were'."
+    },
+    {
+     "n": 4,
+     "q": "Each group were given gloves, tongs and a large rubbish bag.",
+     "a": [
+      "was"
+     ],
+     "m": "was",
+     "tip": "The error was “were”. 'Each' is singular."
+    },
+    {
+     "n": 5,
+     "q": "My group was assign to the playground and the car park.",
+     "a": [
+      "assigned"
+     ],
+     "m": "assigned",
+     "tip": "The error was “assign”. Passive needs the past participle."
+    },
+    {
+     "n": 6,
+     "q": "We were surprise by the amount of litter under the benches.",
+     "a": [
+      "surprised"
+     ],
+     "m": "surprised",
+     "tip": "The error was “surprise”. It describes how we felt."
+    },
+    {
+     "n": 7,
+     "q": "There were cigarette butts, plastic straws and a broken umbrela.",
+     "a": [
+      "umbrella"
+     ],
+     "m": "umbrella",
+     "tip": "The error was “umbrela”. Spelling — double l."
+    },
+    {
+     "n": 8,
+     "q": "An elderly man watched us for a while, then he join in without a word.",
+     "a": [
+      "joined"
+     ],
+     "m": "joined",
+     "tip": "The error was “join”. The passage is in the past tense."
+    },
+    {
+     "n": 9,
+     "q": "He told us that he had been doing this alone for two year.",
+     "a": [
+      "years"
+     ],
+     "m": "years",
+     "tip": "The error was “year”. Plural after 'two'."
+    },
+    {
+     "n": 10,
+     "q": "Although we finished by eleven, nobody wanted to leave immediatly.",
+     "a": [
+      "immediately"
+     ],
+     "m": "immediately",
+     "tip": "The error was “immediatly”. Spelling — immediate + ly."
+    },
+    {
+     "n": 11,
+     "q": "The organiser thanked us and said the next clean-up would be hold in July.",
+     "a": [
+      "held"
+     ],
+     "m": "held",
+     "tip": "The error was “hold”. Needs the past participle."
+    },
+    {
+     "n": 12,
+     "q": "I have decided to attend regulary from now on.",
+     "a": [
+      "regularly"
+     ],
+     "m": "regularly",
+     "tip": "The error was “regulary”. Spelling — regular + ly."
+    }
+   ]
+  },
+  {
+   "id": "B3",
+   "name": "Booklet B · Comprehension Cloze",
+   "marks": 15,
+   "mode": "auto",
+   "instruction": "Fill each blank with one suitable word.",
+   "passage": "The Umbrella Stand\n\nThere is an umbrella stand outside the void deck of Block 219 that nobody owns. It appeared about four years ago, an ordinary metal (1)______ with a hand-written card taped to the side: TAKE ONE IF YOU NEED IT. BRING IT BACK IF YOU CAN.\n\nAt first, most people assumed it would (2)______ within a week. Umbrellas are easy to lose and easier to keep. My father, who is not a (3)______ man by nature, gave it a month at most.\n\nIt is still there. The umbrellas change — a black one disappears and a blue one appears in its (4)______ — but the stand is never completely empty. Once, during a particularly heavy monsoon week, it was (5)______ to two battered umbrellas with broken spokes. By the following Monday there were nine.\n\nNobody knows who (6)______ it. The residents' committee says it was not them. Mrs Chandra on the third floor thinks it was the family who moved out in 2021, but she also thinks the lift is (7)______ than it used to be, so we take her theories with some caution.\n\nWhat interests me is not who started it, but why it (8)______. There is nothing to stop anyone from taking every umbrella and selling them. It would take about thirty (9)______. And yet it has not happened.\n\nMy father has a theory now, which is a considerable change from his original (10)______. He says the card is doing the work. It does not order anyone to return the umbrella; it asks, and it (11)______ that you might not be able to. Because it expects little, people give (12)______.\n\nI am not sure he is right. But I have noticed that when I borrow one, I bring it back the same day, even when it would be more (13)______ to keep it until the weekend. Something about that card makes me (14)______ to be the person who let it down.\n\nIt is only an umbrella stand. It has also quietly taught an entire block of flats something about (15)______ that no notice from the town council ever managed.",
+   "answers": [
+    {
+     "n": 1,
+     "a": [
+      "stand",
+      "container",
+      "frame",
+      "holder"
+     ],
+     "tip": "Describing the object itself."
+    },
+    {
+     "n": 2,
+     "a": [
+      "disappear",
+      "vanish",
+      "empty",
+      "fail"
+     ],
+     "tip": "People expected it not to last."
+    },
+    {
+     "n": 3,
+     "a": [
+      "trusting",
+      "optimistic",
+      "hopeful",
+      "cheerful"
+     ],
+     "tip": "Contrast — he predicted it would fail."
+    },
+    {
+     "n": 4,
+     "a": [
+      "place"
+     ],
+     "tip": "'In its place' is the set phrase."
+    },
+    {
+     "n": 5,
+     "a": [
+      "down",
+      "reduced"
+     ],
+     "tip": "'Down to two' — the number had fallen."
+    },
+    {
+     "n": 6,
+     "a": [
+      "started",
+      "began",
+      "put",
+      "created"
+     ],
+     "tip": "Refers to the origin of the stand."
+    },
+    {
+     "n": 7,
+     "a": [
+      "slower",
+      "faster",
+      "noisier"
+     ],
+     "tip": "Any comparative that makes her sound unreliable."
+    },
+    {
+     "n": 8,
+     "a": [
+      "works",
+      "survives",
+      "lasts",
+      "continues"
+     ],
+     "tip": "The writer's real question."
+    },
+    {
+     "n": 9,
+     "a": [
+      "seconds",
+      "minutes"
+     ],
+     "tip": "A very short time — it would be easy."
+    },
+    {
+     "n": 10,
+     "a": [
+      "prediction",
+      "opinion",
+      "view",
+      "forecast"
+     ],
+     "tip": "Refers back to his one-month guess."
+    },
+    {
+     "n": 11,
+     "a": [
+      "accepts",
+      "acknowledges",
+      "admits",
+      "assumes"
+     ],
+     "tip": "The card allows for people who cannot return it."
+    },
+    {
+     "n": 12,
+     "a": [
+      "more"
+     ],
+     "tip": "'Expects little… people give more' — the contrast is the point."
+    },
+    {
+     "n": 13,
+     "a": [
+      "convenient",
+      "sensible",
+      "useful",
+      "practical"
+     ],
+     "tip": "Keeping it would suit her better."
+    },
+    {
+     "n": 14,
+     "a": [
+      "unwilling",
+      "reluctant",
+      "ashamed"
+     ],
+     "tip": "She does not want to be that person."
+    },
+    {
+     "n": 15,
+     "a": [
+      "trust",
+      "honesty",
+      "community",
+      "kindness"
+     ],
+     "tip": "The theme of the whole passage."
+    }
+   ]
+  },
+  {
+   "id": "B4",
+   "name": "Booklet B · Synthesis and Transformation",
+   "marks": 10,
+   "mode": "self",
+   "instruction": "Rewrite each sentence using the word given. The meaning must stay the same. Each question is worth 2 marks.",
+   "questions": [
+    {
+     "n": 1,
+     "q": "The queue was very long. We decided not to wait. **(so … that)**",
+     "m": "The queue was so long that we decided not to wait",
+     "marks": 2
+    },
+    {
+     "n": 2,
+     "q": "\"I have lost my wallet,\" the tourist said to the officer. **(Begin: The tourist told …)**",
+     "m": "The tourist told the officer that he had lost his wallet",
+     "marks": 2
+    },
+    {
+     "n": 3,
+     "q": "Someone reported the fault last week. Nobody has fixed it. **(Begin: The fault …)**",
+     "m": "The fault was reported last week but has not been fixed",
+     "marks": 2
+    },
+    {
+     "n": 4,
+     "q": "He did not apologise. His sister remained angry. **(Because)**",
+     "m": "Because he did not apologise, his sister remained angry",
+     "marks": 2
+    },
+    {
+     "n": 5,
+     "q": "The boy is my neighbour. His dog won the show. **(whose)**",
+     "m": "The boy whose dog won the show is my neighbour",
+     "marks": 2
+    }
+   ]
+  },
+  {
+   "id": "B5",
+   "name": "Booklet B · Comprehension",
+   "marks": 20,
+   "mode": "read",
+   "instruction": "Read the passage and answer the questions. Note the marks for each question.",
+   "passage": [
+    "Nobody in our family talks about the year my mother spent in Johor.",
+    "I discovered it by accident, at fourteen, sorting through a biscuit tin of photographs that had been sitting on top of the wardrobe since before I was born. Most of them I recognised: my grandparents outside the old shophouse, my mother in her nurse's uniform, a very small version of my brother asleep in a rattan chair.",
+    "Then there was one I did not recognise at all. My mother, perhaps twenty-two, standing outside a low wooden building with a corrugated roof, squinting into the sun. Behind her, painted on the wall in uneven capitals, were the words KLINIK DESA. Beside her stood a man I had never seen, in a white coat, holding a clipboard.",
+    "I took it downstairs and put it on the table in front of her.",
+    "She looked at it for a long time. Then she said, \"That was Dr Menon,\" and went back to peeling garlic.",
+    "It took me three weeks and a great deal of patience to get the rest. She had volunteered, straight out of nursing school, at a rural clinic across the causeway. She was there fourteen months. She delivered nineteen babies. She learnt enough Malay to argue with suppliers and enough Tamil to comfort a frightened child. In the wet season the road flooded and nobody could reach them for eleven days.",
+    "\"Why did you never tell us?\" I asked.",
+    "She thought about it. \"Because it would have sounded like I was complaining,\" she said. \"Or like I was boasting. There is not much room between those two.\"",
+    "I have thought about that sentence a great many times since.",
+    "My mother is seventy-one now. She still cannot be persuaded to talk about Johor for more than about four minutes at a stretch. But last year my daughter, who is nine and afraid of almost nothing, asked her outright how many babies she had delivered, and my mother told her — and then told her the name of the first one, and what the rain sounded like on that corrugated roof, and how Dr Menon used to fall asleep sitting upright in a plastic chair.",
+    "She talked for forty minutes. I sat in the next room and did not move, in case she remembered I was there."
+   ],
+   "questions": [
+    {
+     "n": 1,
+     "q": "Where did the narrator find the photographs? (1m)",
+     "marks": 1,
+     "a": "In a biscuit tin that had been kept on top of the wardrobe since before he was born."
+    },
+    {
+     "n": 2,
+     "q": "Why did the narrator not recognise one of the photographs? (1m)",
+     "marks": 1,
+     "a": "Because it showed his mother at about twenty-two outside a rural clinic in Johor, at a time in her life that his family had never spoken about."
+    },
+    {
+     "n": 3,
+     "q": "What was his mother's reaction when he showed her the photograph? What does this suggest about her? (2m)",
+     "marks": 2,
+     "a": "She looked at it silently for a long time, said only that the man was Dr Menon, and returned to peeling garlic. This suggests that she was unwilling to discuss that period and preferred to close the subject quickly."
+    },
+    {
+     "n": 4,
+     "q": "In your own words, give two things the narrator's mother achieved during her time at the clinic. (2m)",
+     "marks": 2,
+     "a": "She brought nineteen babies into the world, and she picked up enough of two languages to deal with suppliers and to reassure a frightened child."
+    },
+    {
+     "n": 5,
+     "q": "Explain what the mother meant by \"There is not much room between those two.\" (3m)",
+     "marks": 3,
+     "a": "Firstly, she meant that describing the hardships of the clinic would have sounded like she was grumbling about what she had been through. In addition, describing what she had achieved would have sounded like showing off. Finally, she felt there was almost no way of telling the story that avoided one of these two impressions, so she chose to say nothing at all."
+    },
+    {
+     "n": 6,
+     "q": "Why do you think the mother spoke to her granddaughter for forty minutes when she would not speak to her own family? (3m)",
+     "marks": 3,
+     "a": "Firstly, the child asked her a direct, simple question without any judgement behind it. In addition, a nine-year-old would not hear the account as complaining or boasting, which was exactly what the mother feared from adults. Finally, enough time had passed, and speaking to a grandchild may have felt like passing something on rather than talking about herself."
+    },
+    {
+     "n": 7,
+     "q": "Look at the last paragraph. Why did the narrator not move? (2m)",
+     "marks": 2,
+     "a": "Because he was afraid that if his mother noticed he was listening she would become self-conscious and stop talking, and he did not want to interrupt something he had waited decades to hear."
+    },
+    {
+     "n": 8,
+     "q": "\"The narrator resents his mother for keeping her past a secret.\" Do you agree? Explain, using evidence from the passage. (3m)",
+     "marks": 3,
+     "a": "No. Firstly, he shows patience rather than anger, spending three weeks gently drawing the story out of her. In addition, he says he has thought about her explanation many times since, which suggests he found it thoughtful rather than unfair. Finally, in the last paragraph he sits perfectly still to protect the moment, which shows affection and respect rather than resentment."
+    },
+    {
+     "n": 9,
+     "q": "Give the passage another suitable title and explain your choice. (3m)",
+     "marks": 3,
+     "a": "'Fourteen Months' would be suitable. Firstly, it refers to the exact length of time she spent at the clinic, which is the hidden centre of the whole story. In addition, the plainness of the title matches the mother's own refusal to dramatise what she did. Finally, it hints that a short period can matter far more than its length suggests. (Other sensible titles are accepted if the explanation is sound.)"
+    }
+   ]
+  }
+ ]
+}

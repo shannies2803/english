@@ -1,0 +1,7 @@
+{
+  "name": "english-workshop-checks",
+  "private": true,
+  "description": "Audits and browser tests for the English Workshop page. Not part of the site.",
+  "type": "module",
+  "devDependencies": { "playwright": "^1.47.0" }
+}

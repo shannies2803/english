@@ -1,0 +1,59 @@
+{
+  "composition": {
+    "id": "compplan",
+    "title": "Composition planning · 10 timed plans",
+    "level": "P5",
+    "instruction": "Six minutes each. Fill the six boxes as notes, not sentences. The planning is the skill — you are not writing the story here.",
+    "criteria": [
+      {"name": "Theme and focus", "max": 5, "bands": [
+        {"label": "5 · One clear incident that unmistakably proves the theme", "marks": 5},
+        {"label": "4 · On theme, but the incident is broad or a little vague", "marks": 4},
+        {"label": "2–3 · Loosely on theme, or several events competing", "marks": 3},
+        {"label": "0–1 · Off theme", "marks": 1}
+      ]},
+      {"name": "Climax and ending", "max": 5, "bands": [
+        {"label": "5 · A single tense moment identified, plus an ending that shows change", "marks": 5},
+        {"label": "4 · Climax identified, ending states the lesson rather than showing it", "marks": 4},
+        {"label": "2–3 · Climax vague, or the ending is a fairy-tale one", "marks": 3},
+        {"label": "0–1 · No real climax planned", "marks": 1}
+      ]}
+    ],
+    "tasks": [
+      {"n":1,"theme":"Honesty","prompt":"You find a phone on the bus. The screen is lit up with messages from someone called \"Ma\".",
+       "model":"1 Theme — keeping something is easy; the owner being real makes it hard.\n2 Setting — Service 89, late afternoon, almost empty.\n3 Characters — me; the owner (unseen, only through messages).\n4 Problem — the phone is newer than mine and nobody saw me pick it up.\n5 Climax — the screen lights up: \"Ma: have you eaten?\" Three more messages. I sit holding it for four stops. Slow this down: the weight of it, the sound of the bus, what I nearly do.\n6 Resolution — hand it to the driver. No reward, no thank-you. Ending: I still think about that one message."},
+      {"n":2,"theme":"Perseverance","prompt":"You have failed the same swimming test twice.",
+       "model":"1 Theme — the third attempt is the one that counts.\n2 Setting — public pool, Saturday mornings, six weeks.\n3 Characters — me; Father, who cannot swim and counts strokes from the bench.\n4 Problem — my breathing collapses at the twelfth metre. I know what to do; knowing is not the difficulty.\n5 Climax — the last Saturday. Twenty-two strokes has been my wall for three weeks. Stretch this: the burning chest, the decision at stroke twenty-two, the far wall.\n6 Resolution — I pass, second-slowest in the class. Ending: twenty-two is not a wall, it is a number you have not passed yet."},
+      {"n":3,"theme":"Kindness","prompt":"An elderly neighbour's chair has been empty outside the shop for four days.",
+       "model":"1 Theme — kindness that nobody asks for and nobody thanks you for.\n2 Setting — void deck, the blue plastic chair, March.\n3 Characters — me; Mr Tan, who nods but never speaks.\n4 Problem — he has gone to a funeral and there is nobody to feed his birds.\n5 Climax — climbing to the eleventh floor with a bag of millet. Four cages, not one. All of them sing at once. Expand: the sound, nearly dropping the bag.\n6 Resolution — nine days of feeding. He returns and only nods. Ending: on Monday there is a second chair beside his."},
+      {"n":4,"theme":"A Difficult Decision","prompt":"Your friend tells you something and makes you promise not to tell.",
+       "model":"1 Theme — keeping a promise is not the same as keeping a friend safe.\n2 Setting — the stairwell between the third and fourth floors.\n3 Characters — me; Nadia; Mrs Devi, whose number is in my phone.\n4 Problem — she is being bullied and has made me promise silence.\n5 Climax — Thursday evening, phone in hand, thumb over the screen. Her empty chair that day. The fan clicking. Then I press call.\n6 Resolution — two weeks of silence from her; then half a sandwich pushed towards me. Ending: not an apology, and better than one."},
+      {"n":5,"theme":"Regret","prompt":"You said something in anger that you cannot take back.",
+       "model":"1 Theme — words leave before you can stop them.\n2 Setting — kitchen, evening, after a bad day.\n3 Characters — me; my older sister, who was about to leave for university.\n4 Problem — she asked one ordinary question and I answered with the cruellest thing I knew.\n5 Climax — her face changing. The pause. She says nothing at all and goes upstairs. Expand: what I hear through the floor, what I nearly do, what I actually do, which is nothing.\n6 Resolution — she left on Sunday. We are fine now. Ending: I have never once used that sentence again, on anyone."},
+      {"n":6,"theme":"Courage","prompt":"You are the only person who saw what happened.",
+       "model":"1 Theme — speaking up when staying quiet costs nothing.\n2 Setting — school canteen, second recess.\n3 Characters — me; a Primary Three boy; two older pupils; a prefect who arrives late.\n4 Problem — the younger boy is blamed for something I watched somebody else do.\n5 Climax — the prefect asks who saw anything. Silence. My hand is halfway up before I decide. Slow this: the heat in my face, thirty people turning.\n6 Resolution — the older boys did not speak to me for a term. Ending: I would do it faster now."},
+      {"n":7,"theme":"An Unexpected Discovery","prompt":"You find something while clearing out a cupboard.",
+       "model":"1 Theme — you only understand a parent when you find what they did quietly.\n2 Setting — the bottom drawer, a wet Saturday.\n3 Characters — me; my mother, who will not discuss it.\n4 Problem — a thin exercise book full of my own name in her handwriting, hundreds of times.\n5 Climax — realising the date on the cover: the year I could not write. Each page a slightly smaller version, for tracing. Expand: turning the pages, the arithmetic of how many hours.\n6 Resolution — she says \"Oh, that old thing\" and goes back to cooking. Ending: the book is on my desk; I have not told her I kept it."},
+      {"n":8,"theme":"Teamwork","prompt":"One member of your group will not cooperate.",
+       "model":"1 Theme — the difficult one usually has a reason.\n2 Setting — classroom, three weeks before the project deadline.\n3 Characters — me; Arjun, who does nothing; two others who want him reported.\n4 Problem — his section is blank and he will not answer messages.\n5 Climax — I go to his flat to complain and his grandmother answers the door. Expand: the small flat, what I see, what I do not say, the complaint dying in my mouth.\n6 Resolution — we split his section between us and put his name on it. Ending: he never explained and I never asked."},
+      {"n":9,"theme":"Responsibility","prompt":"You were left in charge of something valuable.",
+       "model":"1 Theme — carelessness costs somebody else, not you.\n2 Setting — the school library, Friday afternoon, my first duty as monitor.\n3 Characters — me; Mrs Fong, who trusted me with the key.\n4 Problem — I left early to catch my friends and did not lock the store cupboard.\n5 Climax — Monday morning: the cupboard open, three tablets gone. Mrs Fong does not ask who forgot. Expand: waiting all morning for her to ask, and the moment I put my hand up.\n6 Resolution — she thanks me for owning up and then looks very tired. Ending: it is the tiredness I remember, not the telling-off."},
+      {"n":10,"theme":"Facing a Fear","prompt":"Two metres does not sound like very much.",
+       "model":"1 Theme — fear does not disappear; it becomes something you have survived.\n2 Setting — the sports complex, the diving board, swimming carnival day.\n3 Characters — me; a queue of impatient people behind me.\n4 Problem — I have climbed that ladder four times and come down four times.\n5 Climax — the fifth climb. The gritty metal, the board feeling soft, the water looking like a floor. Somebody behind says \"Are you going or not?\" Expand all of this.\n6 Resolution — I fall badly, the water hits my thigh, someone laughs. Ending: I go again eleven minutes later, and the second time is easier by an amount I cannot describe."}
+    ]
+  },
+
+  "readAloud": [
+    {"id":"ra5","level":"P4",
+     "text":"The lift in our block has been broken twice this month. The first time, it stopped between the fourth and fifth floors with three people inside, including Mrs Osman from the ninth floor. She told us afterwards that she had not been frightened at all, which nobody believed, and that she had spent the twenty minutes teaching the other two passengers a card game. The engineers say the motor is old and needs replacing. Until then, we take the stairs and grumble, and Mrs Osman takes the stairs and does not.",
+     "notes":["'Osman' — OSS-man, stress the first syllable.","Pause at each comma in the long third sentence; it has three parts.","Stress 'twice', 'three' and 'twenty' — the numbers carry the story.","Final consonants: stopped, believed, replacing, grumble.","The last sentence is the joke. Slow down slightly and let the contrast land."]},
+    {"id":"ra6","level":"P5",
+     "text":"Every Thursday my grandmother cooks for eleven people, although only four of us live in the house. The rest of the food is packed into containers and delivered, by me, to three flats on our floor. She has been doing this since before I was born and has never once described it as charity. When I asked her why she cooks so much, she looked at me as though I had asked why she breathes, and said that a pot is a pot and the difference between four and eleven is one more handful of rice.",
+     "notes":["'Although' — do not swallow the first syllable.","Pause after 'delivered, by me,' — the phrase is deliberately interrupted.","Stress 'eleven' and 'four' both times; the numbers are the point.","'Charity' — CHA-ri-ty, three syllables.","The final sentence is long. Breathe after 'breathes' and finish steadily."]},
+    {"id":"ra7","level":"P6",
+     "text":"The Singapore Botanic Gardens received its UNESCO listing in 2015, more than a century and a half after it was first laid out. What strikes most visitors is not the rarest orchid or the tallest tree, but the ordinary Saturday use of the place: families spreading mats on the lawn, students revising under the rain trees, an elderly couple walking the same loop they have walked for decades. A garden that is only admired becomes a museum. A garden that is used becomes part of a city's daily life, and that, arguably, is the harder thing to achieve.",
+     "notes":["'UNESCO' — read it as a word, you-NESS-ko, not letter by letter.","'2015' — twenty fifteen.","The list in the middle has three items. Keep the same rhythm and pause between them.","Contrast the two short sentences near the end: drop your voice slightly on 'museum', lift it on 'daily life'.","'Arguably' — AR-gyoo-ably, four syllables. Do not rush it."]},
+    {"id":"ra8","level":"P6",
+     "text":"There is a particular silence in a hall thirty seconds before a performance begins. It is not the absence of sound — somebody is always coughing, a chair always creaks — but the absence of anybody wanting to make any. I have felt it from both sides now, as a performer waiting in the wings and as a parent sitting eleven rows back, and I could not honestly tell you which is worse. What I do know is that the silence ends the instant the first note is played, and that everyone in the room, without exception, breathes out.",
+     "notes":["'Particular' — four syllables, par-TIC-u-lar.","The dashes mark an interruption. Drop your pitch slightly for 'somebody is always coughing, a chair always creaks' and come back up.","Stress 'both' in 'from both sides now'.","'Without exception' — separate the two words clearly; do not run them together.","End on 'breathes out' gently. It is a quiet realisation, not an announcement."]}
+  ]
+}

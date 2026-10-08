@@ -1,0 +1,215 @@
+{
+ "set": {
+  "id": "compP3",
+  "title": "Picture composition · P3–P4",
+  "level": "P3",
+  "instruction": "Four pictures tell a story. Write about 120 to 180 words. Use all four pictures, in order. Marks: 10 for content, 10 for language.",
+  "criteria": [
+   {
+    "name": "Content",
+    "max": 10,
+    "bands": [
+     {
+      "label": "9–10 · All four pictures used in order, with extra details of your own and a clear ending",
+      "marks": 10
+     },
+     {
+      "label": "7–8 · All four pictures used, but few details added",
+      "marks": 8
+     },
+     {
+      "label": "5–6 · One picture missed, or the order is muddled",
+      "marks": 6
+     },
+     {
+      "label": "3–4 · Only two pictures used, or the story is hard to follow",
+      "marks": 4
+     },
+     {
+      "label": "0–2 · Does not match the pictures",
+      "marks": 2
+     }
+    ]
+   },
+   {
+    "name": "Language",
+    "max": 10,
+    "bands": [
+     {
+      "label": "9–10 · Past tense throughout, full sentences, capital letters and full stops correct, some good words",
+      "marks": 10
+     },
+     {
+      "label": "7–8 · A few mistakes in tense or punctuation, but easy to read",
+      "marks": 8
+     },
+     {
+      "label": "5–6 · Several tense or full-stop mistakes; short repeated sentences",
+      "marks": 6
+     },
+     {
+      "label": "3–4 · Many mistakes; meaning sometimes unclear",
+      "marks": 4
+     },
+     {
+      "label": "0–2 · Very hard to read",
+      "marks": 2
+     }
+    ]
+   }
+  ],
+  "helper": "1 BEGINNING — who, where, when\n2 PROBLEM — what went wrong (pictures 2 and 3)\n3 ENDING — how it was solved, and how you felt",
+  "tasks": [
+   {
+    "n": 1,
+    "theme": "Honesty",
+    "title": "The Wallet on the Bench",
+    "pictures": [
+     {
+      "caption": "A boy sees a wallet on a bench",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='18' y='70' width='90' height='8' rx='3' fill='#A88B62'/><rect x='26' y='78' width='7' height='20' fill='#8C7350'/><rect x='93' y='78' width='7' height='20' fill='#8C7350'/><rect x='60' y='58' width='26' height='14' rx='3' fill='#8B4A2B'/><rect x='60' y='63' width='26' height='3' fill='#6E381F'/><circle cx='126' cy='52' r='9' fill='#10786A'/><rect x='119' y='62' width='15' height='24' rx='6' fill='#10786A'/><path d='M112 70l-8 8' stroke='#10786A' stroke-width='5' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "He looks around but nobody is there",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='14' y='92' width='132' height='6' rx='3' fill='#C6CEDC'/><circle cx='80' cy='46' r='11' fill='#10786A'/><rect x='71' y='58' width='18' height='30' rx='7' fill='#10786A'/><rect x='66' y='62' width='28' height='12' rx='5' fill='#0B5C51'/><path d='M40 40q8-10 16 0M104 40q8-10 16 0' stroke='#8894AA' stroke-width='3' fill='none' stroke-linecap='round'/><text x='80' y='24' font-size='16' text-anchor='middle' fill='#5C6B85' font-family='system-ui'>?</text></svg>"
+     },
+     {
+      "caption": "He hands it to a shopkeeper",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='20' y='30' width='120' height='16' rx='4' fill='#4E8FA8'/><rect x='30' y='72' width='100' height='10' rx='3' fill='#A88B62'/><circle cx='52' cy='54' r='9' fill='#10786A'/><rect x='44' y='64' width='16' height='10' rx='4' fill='#10786A'/><circle cx='110' cy='52' r='9' fill='#E8865C'/><rect x='101' y='62' width='18' height='12' rx='4' fill='#E8865C'/><rect x='72' y='62' width='18' height='10' rx='3' fill='#8B4A2B'/></svg>"
+     },
+     {
+      "caption": "A woman thanks him",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='14' y='94' width='132' height='6' rx='3' fill='#C6CEDC'/><circle cx='58' cy='48' r='10' fill='#10786A'/><rect x='49' y='59' width='19' height='32' rx='7' fill='#10786A'/><circle cx='104' cy='44' r='11' fill='#B4527A'/><rect x='94' y='56' width='21' height='35' rx='8' fill='#B4527A'/><path d='M70 66l16-4' stroke='#5C6B85' stroke-width='3' stroke-linecap='round'/><path d='M44 30q6-7 12 0' stroke='#E0A800' stroke-width='3' fill='none' stroke-linecap='round'/><path d='M118 28l3 6 6 1-4 4 1 6-6-3-6 3 1-6-4-4 6-1z' fill='#E0A800'/></svg>"
+     }
+    ],
+    "model": "Last Saturday afternoon, I was walking home through the park when I saw a brown wallet lying on a wooden bench.\n\nI picked it up. It was heavy, and when I opened it I could see several notes inside. I looked all around the park, but there was nobody nearby. My heart began to beat faster. For a moment I thought about the model aeroplane I had been saving for.\n\nThen I remembered what my mother always says: never take what is not yours. I walked quickly to the provision shop at the corner and gave the wallet to Uncle Lim, the shopkeeper. He wrote down my name and my block number.\n\nTwo days later, a lady came to our flat. She was the owner of the wallet and she had been looking for it everywhere. She thanked me warmly and gave me a small box of chocolates.\n\nI was very happy, but not because of the chocolates. I was happy because I had done the right thing.",
+    "why": "All four pictures are used in order. The writer adds details the pictures do not show — the day, the park, the model aeroplane, Uncle Lim's name — which is what lifts content into the top band. The ending says how he felt and why, instead of stopping at 'she thanked me'."
+   },
+   {
+    "n": 2,
+    "theme": "Kindness",
+    "title": "The Fallen Groceries",
+    "pictures": [
+     {
+      "caption": "An elderly man carries a heavy bag",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='14' y='96' width='132' height='6' rx='3' fill='#C6CEDC'/><circle cx='70' cy='40' r='11' fill='#9AA7BC'/><rect x='60' y='52' width='21' height='34' rx='8' fill='#6E7C93'/><path d='M82 62l12 6' stroke='#6E7C93' stroke-width='5' stroke-linecap='round'/><rect x='90' y='66' width='22' height='26' rx='3' fill='#C9A227'/><path d='M94 66v-5a7 7 0 0114 0v5' stroke='#8C7013' stroke-width='3' fill='none'/></svg>"
+     },
+     {
+      "caption": "The bag tears and the fruit rolls away",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='14' y='96' width='132' height='6' rx='3' fill='#C6CEDC'/><circle cx='58' cy='40' r='11' fill='#9AA7BC'/><rect x='48' y='52' width='21' height='34' rx='8' fill='#6E7C93'/><path d='M74 70l10 14' stroke='#C9A227' stroke-width='4' stroke-linecap='round'/><circle cx='100' cy='90' r='8' fill='#D6392C'/><circle cx='120' cy='86' r='7' fill='#E8A33D'/><circle cx='136' cy='92' r='6' fill='#5AA84F'/><path d='M86 56l6-8M92 62l9-4' stroke='#8894AA' stroke-width='2.5' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "A girl helps him pick everything up",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='14' y='96' width='132' height='6' rx='3' fill='#C6CEDC'/><circle cx='48' cy='44' r='10' fill='#9AA7BC'/><rect x='39' y='55' width='19' height='31' rx='7' fill='#6E7C93'/><circle cx='104' cy='56' r='10' fill='#B4527A'/><path d='M104 66q-6 14-16 20' stroke='#B4527A' stroke-width='13' stroke-linecap='round'/><circle cx='80' cy='90' r='7' fill='#D6392C'/><circle cx='122' cy='92' r='6' fill='#5AA84F'/></svg>"
+     },
+     {
+      "caption": "She carries the bag to his door",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='96' y='24' width='48' height='72' rx='4' fill='#A88B62'/><circle cx='104' cy='62' r='3.5' fill='#6E5636'/><rect x='14' y='96' width='132' height='6' rx='3' fill='#C6CEDC'/><circle cx='44' cy='46' r='10' fill='#B4527A'/><rect x='35' y='57' width='19' height='31' rx='7' fill='#B4527A'/><rect x='58' y='64' width='20' height='24' rx='3' fill='#C9A227'/><circle cx='80' cy='44' r='10' fill='#9AA7BC'/><rect x='71' y='55' width='19' height='33' rx='7' fill='#6E7C93'/></svg>"
+     }
+    ],
+    "model": "One evening, I was walking back from the playground when I noticed an elderly man struggling with a large paper bag of groceries. He was walking very slowly and the bag looked far too heavy for him.\n\nSuddenly, the bottom of the bag tore open. Apples, oranges and a cabbage rolled all over the pavement. The old man bent down stiffly and tried to gather them, but he could hardly reach.\n\nI ran over at once and began picking up the fruit. \"Thank you, girl,\" he said softly. Together we collected everything and put it into my empty school bag.\n\nI offered to carry the bag home for him. He lived on the second floor of the next block, so it did not take long. At his door, he smiled and said that I reminded him of his own granddaughter.\n\nIt had taken me only ten minutes, but he looked so pleased. Now I always slow down when I pass an elderly neighbour.",
+    "why": "Uses all four pictures and adds the school bag, the second floor and the granddaughter — details invented by the writer. The last two sentences show what changed, which is what turns a description of pictures into a story."
+   },
+   {
+    "n": 3,
+    "theme": "Problem solving",
+    "title": "The Kite in the Tree",
+    "pictures": [
+     {
+      "caption": "Two children fly a kite in the field",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='0' y='96' width='160' height='24' rx='0' fill='#CDE3C9'/><path d='M120 18l12 14-12 14-12-14z' fill='#D6392C'/><path d='M120 46l-30 34' stroke='#8894AA' stroke-width='2'/><circle cx='56' cy='62' r='10' fill='#10786A'/><rect x='47' y='73' width='19' height='24' rx='7' fill='#10786A'/><circle cx='84' cy='66' r='9' fill='#4E8FA8'/><rect x='76' y='76' width='17' height='21' rx='6' fill='#4E8FA8'/></svg>"
+     },
+     {
+      "caption": "The kite gets stuck high in a tree",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='0' y='96' width='160' height='24' fill='#CDE3C9'/><rect x='74' y='54' width='10' height='44' fill='#8C6239'/><circle cx='79' cy='42' r='30' fill='#5AA84F'/><path d='M96 34l10 11-10 11-10-11z' fill='#D6392C'/><circle cx='40' cy='70' r='10' fill='#10786A'/><rect x='31' y='81' width='19' height='17' rx='6' fill='#10786A'/><path d='M50 70l14-10' stroke='#10786A' stroke-width='5' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "They ask a gardener for help",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='0' y='96' width='160' height='24' fill='#CDE3C9'/><circle cx='50' cy='58' r='10' fill='#10786A'/><rect x='41' y='69' width='19' height='28' rx='7' fill='#10786A'/><circle cx='108' cy='50' r='11' fill='#C9772B'/><rect x='98' y='62' width='21' height='35' rx='8' fill='#2F7D4F'/><path d='M124 30l-4 60' stroke='#8C6239' stroke-width='4' stroke-linecap='round'/><path d='M68 66l22-6' stroke='#5C6B85' stroke-width='3' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "The kite is flying again",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='0' y='96' width='160' height='24' fill='#CDE3C9'/><path d='M112 16l13 15-13 15-13-15z' fill='#D6392C'/><path d='M112 46l-8 8-8-6-8 8' stroke='#E0A800' stroke-width='2.5' fill='none'/><path d='M99 46l-40 36' stroke='#8894AA' stroke-width='2'/><circle cx='46' cy='64' r='10' fill='#10786A'/><rect x='37' y='75' width='19' height='22' rx='7' fill='#10786A'/><circle cx='74' cy='68' r='9' fill='#4E8FA8'/><rect x='66' y='78' width='17' height='19' rx='6' fill='#4E8FA8'/><path d='M22 26q6-7 12 0' stroke='#E0A800' stroke-width='3' fill='none' stroke-linecap='round'/></svg>"
+     }
+    ],
+    "model": "Last Sunday morning, my cousin Daniel and I took our new kite to the open field behind our block. The wind was strong and the kite climbed higher and higher until it was only a red dot in the sky.\n\nThen the wind changed direction suddenly. Before I could pull the string, the kite swooped sideways and became tangled in the branches of a tall angsana tree. Daniel and I jumped and jumped, but the kite was far beyond our reach.\n\nWe were about to give up when we saw a gardener trimming the hedges nearby. We ran over and explained what had happened. He smiled and said he had exactly the right tool.\n\nUsing his long pole, the gardener gently hooked the kite and lowered it down. Amazingly, it was not torn at all.\n\nWe thanked him again and again. Within minutes our kite was soaring above the field once more. I have learnt that it is never foolish to ask an adult for help.",
+    "why": "Good use of specific words — angsana, swooped, tangled, soaring. The problem is solved by asking for help rather than by magic, which keeps the story believable. Note how paragraph 3 builds a small moment of hopelessness before the solution arrives."
+   },
+   {
+    "n": 4,
+    "theme": "Friendship",
+    "title": "Caught in the Rain",
+    "pictures": [
+     {
+      "caption": "A boy walks to school under a grey sky",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#DDE4EC'/><rect x='0' y='98' width='160' height='22' fill='#C6CEDC'/><ellipse cx='50' cy='26' rx='26' ry='12' fill='#9FB0C4'/><ellipse cx='104' cy='22' rx='30' ry='13' fill='#9FB0C4'/><circle cx='78' cy='58' r='11' fill='#10786A'/><rect x='68' y='70' width='21' height='28' rx='8' fill='#10786A'/><rect x='88' y='70' width='14' height='18' rx='3' fill='#8B4A2B'/></svg>"
+     },
+     {
+      "caption": "Heavy rain begins and he has no umbrella",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#C9D4E0'/><rect x='0' y='98' width='160' height='22' fill='#A9B6C6'/><g stroke='#7C90A8' stroke-width='2.5' stroke-linecap='round'><path d='M20 14l-7 18M44 10l-7 18M68 18l-7 18M92 12l-7 18M116 16l-7 18M140 12l-7 18M32 42l-6 16M80 46l-6 16M128 44l-6 16'/></g><circle cx='76' cy='62' r='11' fill='#10786A'/><rect x='66' y='74' width='21' height='24' rx='8' fill='#10786A'/><path d='M62 60q-6-8 0-14' stroke='#0B5C51' stroke-width='4' fill='none' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "A friend shares her umbrella",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#C9D4E0'/><rect x='0' y='98' width='160' height='22' fill='#A9B6C6'/><g stroke='#7C90A8' stroke-width='2.5' stroke-linecap='round'><path d='M16 16l-6 16M142 16l-6 16M30 52l-5 14M136 52l-5 14'/></g><path d='M38 44a42 20 0 01 84 0z' fill='#D6392C'/><path d='M80 44v40' stroke='#5C6B85' stroke-width='3'/><circle cx='62' cy='68' r='10' fill='#10786A'/><rect x='53' y='79' width='19' height='19' rx='6' fill='#10786A'/><circle cx='98' cy='68' r='10' fill='#B4527A'/><rect x='89' y='79' width='19' height='19' rx='6' fill='#B4527A'/></svg>"
+     },
+     {
+      "caption": "They arrive at school dry and laughing",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='92' y='20' width='58' height='78' rx='4' fill='#C9A227'/><rect x='104' y='52' width='16' height='46' rx='3' fill='#8C7013'/><rect x='0' y='98' width='160' height='22' fill='#C6CEDC'/><circle cx='38' cy='58' r='10' fill='#10786A'/><rect x='29' y='69' width='19' height='29' rx='7' fill='#10786A'/><circle cx='68' cy='58' r='10' fill='#B4527A'/><rect x='59' y='69' width='19' height='29' rx='7' fill='#B4527A'/><path d='M22 34q6-7 12 0M74 32q6-7 12 0' stroke='#E0A800' stroke-width='3' fill='none' stroke-linecap='round'/></svg>"
+     }
+    ],
+    "model": "One Monday morning, I set off for school without checking the sky. Thick grey clouds were gathering above the void deck, but I was already late and did not want to run back upstairs for my umbrella.\n\nI had walked only halfway when the rain came down. It was not a light drizzle but a proper downpour. Within seconds my shirt was soaked and my school bag was dripping. I stood under a tree, shivering and wondering what to do.\n\nJust then I heard someone calling my name. It was Mei Ling, my classmate, holding a big red umbrella. She hurried over and held it above both of us.\n\nWe walked the rest of the way together, our shoulders bumping under the umbrella, laughing every time a car splashed past. By the time we reached the school gate, I was almost dry again.\n\nI thanked Mei Ling and promised to bring an extra umbrella from then on. A good friend, I realised, always appears at the right moment.",
+    "why": "The first paragraph explains why he has no umbrella, which the pictures cannot show. 'Our shoulders bumping under the umbrella' is a small invented detail that makes the scene real. Notice the past tense is used throughout, without slipping."
+   },
+   {
+    "n": 5,
+    "theme": "Owning up",
+    "title": "The Spilt Paint",
+    "pictures": [
+     {
+      "caption": "Children painting in the art room",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#FBF6EC'/><rect x='16' y='62' width='128' height='10' rx='3' fill='#A88B62'/><rect x='24' y='72' width='7' height='26' fill='#8C7350'/><rect x='129' y='72' width='7' height='26' fill='#8C7350'/><rect x='34' y='40' width='30' height='22' rx='2' fill='#fff' stroke='#C6CEDC' stroke-width='2'/><rect x='96' y='40' width='30' height='22' rx='2' fill='#fff' stroke='#C6CEDC' stroke-width='2'/><circle cx='78' cy='58' r='6' fill='#D6392C'/><circle cx='49' cy='26' r='9' fill='#10786A'/><circle cx='111' cy='26' r='9' fill='#4E8FA8'/></svg>"
+     },
+     {
+      "caption": "A boy knocks over a pot of paint",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#FBF6EC'/><rect x='16' y='62' width='128' height='10' rx='3' fill='#A88B62'/><rect x='24' y='72' width='7' height='26' fill='#8C7350'/><path d='M74 52l16 10-6 10-16-8z' fill='#D6392C'/><path d='M70 72q14 6 22 22 -20 6 -34 -2z' fill='#D6392C'/><circle cx='46' cy='34' r='10' fill='#10786A'/><path d='M56 40l14 8' stroke='#10786A' stroke-width='5' stroke-linecap='round'/><text x='120' y='40' font-size='18' fill='#D6392C' font-family='system-ui'>!</text></svg>"
+     },
+     {
+      "caption": "He tells the teacher what happened",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#FBF6EC'/><rect x='0' y='98' width='160' height='22' fill='#EADFCB'/><circle cx='52' cy='58' r='10' fill='#10786A'/><rect x='43' y='69' width='19' height='29' rx='7' fill='#10786A'/><circle cx='108' cy='46' r='11' fill='#7C4DB5'/><rect x='98' y='58' width='21' height='40' rx='8' fill='#7C4DB5'/><path d='M68 62l20-6' stroke='#5C6B85' stroke-width='3' stroke-linecap='round'/><path d='M42 42q-4-8 4-10' stroke='#0B5C51' stroke-width='3' fill='none' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "They clean it up together",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#FBF6EC'/><rect x='0' y='98' width='160' height='22' fill='#EADFCB'/><circle cx='54' cy='52' r='10' fill='#10786A'/><rect x='45' y='63' width='19' height='24' rx='7' fill='#10786A'/><path d='M64 74l16 10' stroke='#10786A' stroke-width='4' stroke-linecap='round'/><rect x='78' y='82' width='22' height='8' rx='3' fill='#C9A227'/><circle cx='118' cy='50' r='11' fill='#7C4DB5'/><rect x='108' y='62' width='21' height='28' rx='8' fill='#7C4DB5'/><rect x='18' y='84' width='20' height='12' rx='3' fill='#4E8FA8'/></svg>"
+     }
+    ],
+    "model": "Last Friday, our class had an art lesson in the art room. We were painting posters for Racial Harmony Day, and every table was covered with brushes, water pots and jars of paint.\n\nI reached across the table for a brush without looking. My elbow caught the jar of red paint and knocked it right over. The paint poured across the table and dripped onto the floor in a bright red puddle. For a moment I froze. Nobody had seen me do it.\n\nI thought about saying nothing. Then I put down my brush and walked to Mrs Devi's desk. I told her that I had knocked over the paint and that I was sorry.\n\nMrs Devi did not scold me at all. She thanked me for telling her straight away, fetched a bucket and some cloths, and helped me clean up the mess.\n\nIt took us fifteen minutes. My shoes still have a faint pink mark on them, and I do not mind at all.",
+    "why": "The short sentence 'For a moment I froze' slows the story at exactly the right point. 'Nobody had seen me do it' shows the temptation, which is what makes owning up worth writing about. The last sentence is understated rather than preachy."
+   },
+   {
+    "n": 6,
+    "theme": "Caring for animals",
+    "title": "The Injured Bird",
+    "pictures": [
+     {
+      "caption": "A girl finds a small bird on the ground",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='0' y='92' width='160' height='28' fill='#CDE3C9'/><ellipse cx='96' cy='88' rx='13' ry='8' fill='#8B6B3D'/><circle cx='107' cy='83' r='5' fill='#8B6B3D'/><path d='M112 82l5 2-5 2z' fill='#E0A800'/><circle cx='50' cy='46' r='11' fill='#B4527A'/><path d='M50 57q-4 20 -2 32' stroke='#B4527A' stroke-width='16' stroke-linecap='round'/><path d='M62 70l20 14' stroke='#B4527A' stroke-width='5' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "She puts it gently into a box",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='0' y='96' width='160' height='24' fill='#C6CEDC'/><rect x='56' y='62' width='54' height='34' rx='4' fill='#A88B62'/><path d='M56 62h54' stroke='#8C7350' stroke-width='3'/><ellipse cx='83' cy='74' rx='11' ry='7' fill='#8B6B3D'/><circle cx='92' cy='70' r='4' fill='#8B6B3D'/><circle cx='32' cy='48' r='11' fill='#B4527A'/><rect x='22' y='60' width='21' height='34' rx='8' fill='#B4527A'/><path d='M43 66l14 6' stroke='#B4527A' stroke-width='5' stroke-linecap='round'/></svg>"
+     },
+     {
+      "caption": "Her father takes it to the vet",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='94' y='18' width='56' height='78' rx='4' fill='#DCE7F0'/><path d='M116 34h12v6h6v12h-6v6h-12v-6h-6V40h6z' fill='#D6392C'/><rect x='0' y='96' width='160' height='24' fill='#C6CEDC'/><circle cx='36' cy='46' r='11' fill='#2F5D8A'/><rect x='26' y='58' width='21' height='38' rx='8' fill='#2F5D8A'/><rect x='48' y='68' width='26' height='18' rx='3' fill='#A88B62'/><circle cx='78' cy='54' r='9' fill='#B4527A'/><rect x='70' y='64' width='17' height='32' rx='6' fill='#B4527A'/></svg>"
+     },
+     {
+      "caption": "The bird flies away",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#EAF2F8'/><rect x='0' y='94' width='160' height='26' fill='#CDE3C9'/><path d='M92 30q10-10 20 0' stroke='#8B6B3D' stroke-width='3.5' fill='none' stroke-linecap='round'/><path d='M112 30q10-10 20 0' stroke='#8B6B3D' stroke-width='3.5' fill='none' stroke-linecap='round'/><ellipse cx='104' cy='36' rx='9' ry='6' fill='#8B6B3D'/><circle cx='54' cy='52' r='11' fill='#B4527A'/><rect x='44' y='64' width='21' height='30' rx='8' fill='#B4527A'/><path d='M65 62l14-16' stroke='#B4527A' stroke-width='5' stroke-linecap='round'/><path d='M36 34q6-7 12 0' stroke='#E0A800' stroke-width='3' fill='none' stroke-linecap='round'/></svg>"
+     }
+    ],
+    "model": "One morning, while I was watering the plants along our corridor, I heard a weak chirping sound. On the ground near the staircase lay a small brown bird. One of its wings was bent at an odd angle and it could not fly.\n\nI ran inside and found an empty shoebox. My mother helped me line it with an old towel so that the bird would be warm. Very carefully, I lifted the tiny creature with both hands and placed it inside. It was lighter than I had expected and its heart was beating very fast.\n\nThat afternoon, my father drove us to an animal clinic near the market. The vet examined the bird and told us that the wing was only bruised, not broken. She gave us some medicine and told us to keep the bird quiet for a week.\n\nOn the eighth day, we carried the box down to the field and opened it. The bird hopped once, then rose into the air and disappeared over the rooftops.\n\nI felt a little sad, but mostly proud.",
+    "why": "'Lighter than I had expected and its heart was beating very fast' is exactly the kind of detail that earns top language marks — it shows the writer imagining the moment rather than describing a drawing. The two-word emotion at the end is honest and avoids a soppy ending."
+   }
+  ]
+ }
+}

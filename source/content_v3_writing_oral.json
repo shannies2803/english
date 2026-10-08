@@ -1,0 +1,134 @@
+{
+  "situational": {
+    "id": "sitw",
+    "title": "Situational writing · 8 tasks with models",
+    "level": "P5",
+    "tasks": [
+      {
+        "n": 1,
+        "kind": "Formal email · request",
+        "task": "Your class would like to hold a small farewell party for Mdm Lim, the school cleaner on your floor, who is retiring at the end of the month. You need the principal's permission.\n\nWrite an email to your principal, Mr Chandra. You should include:\n• who the party is for and why\n• when and where you would like to hold it\n• what your class will do to keep the disruption small\n• what you would like him to allow",
+        "pac": "Purpose: to request permission. Audience: the principal — formal. Context: four bullet points, each needing one supporting detail.",
+        "model": "To: chandra_r@riverbankpri.edu.sg\nSubject: Request to hold a short farewell for Mdm Lim on 29 May\n\nDear Mr Chandra,\n\nI am writing on behalf of Primary 6 Resilience. Mdm Lim, who has cleaned our floor for the past six years, will be retiring at the end of this month, and we would like to thank her properly before she leaves.\n\nWe hope to hold a short gathering in our own classroom on Friday 29 May, during the second half of recess, lasting about twenty minutes.\n\nTo keep the disruption to a minimum, we will use our own classroom rather than the hall, bring the refreshments ourselves, and clear everything away before the bell. Two pupils have volunteered to stay behind to check the room is spotless.\n\nMay we have your permission to go ahead, and would you be willing to let Mdm Lim know she is expected somewhere at that time without telling her why?\n\nThank you very much for considering our request.\n\nYours sincerely,\nRachel Tan\nPrimary 6 Resilience",
+        "why": "All four points covered, each with one specific detail. Formal throughout — no contractions, no exclamation marks. The final request is concrete and even anticipates a practical problem."
+      },
+      {
+        "n": 2,
+        "kind": "Formal email · complaint",
+        "task": "Your family ordered a birthday cake from Sweet Corner Bakery for collection on Saturday. When you collected it, the name written on it was wrong and the cake was a different flavour from the one ordered.\n\nWrite an email to the bakery manager. You should include:\n• what you ordered and when\n• what was wrong with the cake\n• how this affected your family\n• what you would like the bakery to do",
+        "pac": "Purpose: to complain and seek a remedy. Audience: a manager you do not know — formal. Stay polite; anger loses marks.",
+        "model": "To: manager@sweetcornerbakery.com.sg\nSubject: Incorrect cake collected on Saturday 14 June (order no. 2187)\n\nDear Sir or Madam,\n\nOn Tuesday 10 June my mother ordered a chocolate cake for collection on Saturday 14 June, under order number 2187. The name \"Arun\" was to be written on it.\n\nWhen we collected the cake, the name on it read \"Aaron\", and the cake was a strawberry sponge rather than the chocolate one we had chosen and paid for.\n\nWe only discovered this after we had returned home, by which time the guests had arrived, so we had to serve the cake as it was. My younger brother, whose birthday it was, was quite upset that his name had been spelt incorrectly in front of everyone.\n\nI would be grateful if you could look into how the order was recorded, and I hope you will consider a refund or a replacement cake. I have kept the receipt and a photograph of the cake as it was given to us.\n\nThank you for your attention to this matter.\n\nYours faithfully,\nRachel Tan",
+        "why": "Specific order details make the complaint credible. The effect on the family is described without exaggeration. The remedy requested is reasonable and the writer offers evidence rather than demanding."
+      },
+      {
+        "n": 3,
+        "kind": "Informal email · invitation",
+        "task": "Your cousin Mei Hui lives in Penang. Your school is holding its first Open House and your class is running a stall. You would like her to come when she next visits.\n\nWrite an email to Mei Hui. You should include:\n• what the Open House is and when it is\n• what your class stall will be doing\n• why you would like her to come\n• one practical detail she needs to know",
+        "pac": "Purpose: to invite. Audience: a cousin your own age — informal. Contractions and questions are fine here.",
+        "model": "To: meihui.ong@email.com\nSubject: Come to our Open House in September!\n\nHi Mei Hui,\n\nHow are things in Penang? I've got something to tell you about.\n\nOur school is holding its very first Open House on Saturday 12 September, from ten in the morning until three in the afternoon. The whole school will be open and every class is running something.\n\nOur class is doing a Science stall. We're building a marble run out of recycled cardboard, and visitors get to add one section to it, so by the end of the day it should stretch right across the classroom. I'm in charge of testing whether the marbles actually get to the bottom, which so far they mostly don't.\n\nI'd really like you to come because you're the only person I know who'd enjoy this more than I do, and because I haven't seen you since Chinese New Year. You could stay over on the Friday night if your parents agree.\n\nOne thing to know: there's no parking at school that day, so your family would need to come by MRT and walk from Sengkang station. It's about eight minutes.\n\nLet me know if you can make it!\n\nLove,\nRachel",
+        "why": "Warm and specific without gushing. The self-deprecating joke about the marbles sounds like a real child. The practical detail at the end is genuinely useful, not padding."
+      },
+      {
+        "n": 4,
+        "kind": "Report",
+        "task": "You are the class environment representative. Write a report to your form teacher on your class's two-week effort to reduce paper waste.\n\nYou should include:\n• what the class did\n• the results\n• one problem faced\n• one recommendation",
+        "pac": "Purpose: to report factually. Audience: your form teacher. Use headings and a neutral tone — no chatty language.",
+        "model": "Report on the Primary 6 Resilience Paper Reduction Effort\nBy: Rachel Tan, Class Environment Representative\nDate: 30 May 2026\n\nPurpose\nThis report sets out what our class did during the two-week paper reduction effort from 18 to 29 May, and recommends one change for next term.\n\nWhat we did\nWe placed a single scrap-paper tray beside the printer and agreed that no sheet would be thrown away until both sides had been used. Worksheets were printed double-sided. Three pupils volunteered to check the recycling bin each afternoon for paper that had been thrown away by mistake.\n\nResults\nOur class recycling bin was weighed each Friday. In the week before the effort began, it held 4.6 kilograms. In the second week of the effort, it held 1.9 kilograms, a reduction of just under sixty per cent.\n\nProblem faced\nThe main difficulty was the scrap tray itself. Because it sat beside the printer, pupils frequently took clean paper from it by mistake, which caused some confusion and a few lost worksheets.\n\nRecommendation\nI recommend that the scrap tray be moved to the shelf by the door and labelled clearly on both sides. This would separate it from the clean paper and make it obvious what the tray is for.",
+        "why": "Headings, factual tone, real numbers. The problem is admitted honestly and the recommendation follows directly from it — that link is where the marks are."
+      },
+      {
+        "n": 5,
+        "kind": "Formal email · enquiry",
+        "task": "You have seen a notice about a free holiday coding workshop at the community centre but the notice is missing several details.\n\nWrite an email to the community centre. You should include:\n• where you saw the notice and which workshop you mean\n• two questions you need answered\n• why you are interested\n• how they can reach you",
+        "pac": "Purpose: to enquire. Audience: staff you do not know — formal. Questions must be clear and answerable.",
+        "model": "To: enquiries@sengkangcc.org.sg\nSubject: Enquiry about the December Junior Coding Workshop\n\nDear Sir or Madam,\n\nI saw a notice about the Junior Coding Workshop on the board outside your Level 2 counter last Saturday. The notice gave the dates as 1 to 5 December but did not state the timings.\n\nI would be grateful if you could answer two questions. Firstly, what time does each session begin and end? Secondly, is the workshop suitable for someone who has never written any code before, or is some experience expected?\n\nI am interested because I have been using a block-based coding app at school and would like to learn to write proper programs. My school does not offer this beyond Primary 6.\n\nYou can reply to this email address, or telephone my mother on 9123 4567 in the evenings.\n\nThank you very much for your help.\n\nYours faithfully,\nRachel Tan",
+        "why": "Identifies the notice precisely, asks two genuinely distinct questions, gives a real reason for interest, and supplies two contact routes."
+      },
+      {
+        "n": 6,
+        "kind": "Informal email · apology",
+        "task": "You promised your friend Daniel you would help him prepare for a chess tournament on Sunday, but you forgot and went out with your family instead. He played and lost badly.\n\nWrite an email to Daniel. You should include:\n• what you did wrong\n• why it happened, without making excuses\n• how you think it affected him\n• what you will do about it",
+        "pac": "Purpose: to apologise. Audience: a close friend — informal, but sincerity matters more than tone here. Avoid excuses.",
+        "model": "To: daniel.ong@email.com\nSubject: I'm sorry about Sunday\n\nDaniel,\n\nI let you down on Sunday and I want to say so properly rather than just mumbling it at recess tomorrow.\n\nI promised I'd come over on Saturday evening to go through openings with you before the tournament, and I forgot. My aunt arrived unexpectedly and we went out for dinner, and it simply went out of my head. I'm not offering that as an excuse — I could have sent you one message from the restaurant and I didn't.\n\nI know you'd been preparing for a month, and I think going in without that last run-through probably shook your confidence before you'd even sat down. You told me twice that the openings were the part you were least sure of.\n\nThe next tournament is in August. If you still want my help, I'll come over every Saturday from July, and I'll put it in my mother's calendar so it can't happen again. If you'd rather ask somebody else, I'll understand.\n\nI'm sorry.\n\nRachel",
+        "why": "Owns the failure without softening it, and explicitly refuses to hide behind the excuse. Acknowledges the actual effect on Daniel. The remedy is concrete and leaves him the choice."
+      },
+      {
+        "n": 7,
+        "kind": "Formal email · suggestion",
+        "task": "Your school canteen has long queues at the drinks stall every recess, and many pupils run out of time to eat.\n\nWrite an email to the head of the canteen committee. You should include:\n• what the problem is\n• evidence that it is a real problem\n• one suggestion\n• why your suggestion would work",
+        "pac": "Purpose: to suggest a change. Audience: a teacher in charge — formal. A suggestion is far stronger with evidence behind it.",
+        "model": "To: canteen_committee@riverbankpri.edu.sg\nSubject: Suggestion to reduce the drinks stall queue at recess\n\nDear Mrs Devi,\n\nI am writing about the queue at the drinks stall during the first recess.\n\nOver the past two weeks, some classmates and I timed the queue on eight occasions. The shortest wait was six minutes and the longest was thirteen. Recess is twenty-five minutes, so a pupil who queues for drinks and then queues again for food often has under eight minutes left to eat.\n\nI would like to suggest that bottled water and packet drinks be sold from a separate table at the far end of the canteen, staffed by a prefect, with exact change only.\n\nThis would help because roughly half the pupils in the queue are buying only a bottled drink, and they do not need the stallholder at all. Removing them from the main queue would shorten it considerably without requiring any extra staff or equipment.\n\nI would be happy to help organise a trial for a week if that would be useful.\n\nThank you for considering this.\n\nYours sincerely,\nRachel Tan\nPrimary 6 Resilience",
+        "why": "The evidence is the strongest part: actual timings, not an impression. The suggestion is cheap and specific, and the reasoning explains exactly why it would work."
+      },
+      {
+        "n": 8,
+        "kind": "Informal message · declining",
+        "task": "Your friend Priya has invited you to her birthday outing on Saturday, but you have your grandmother's eightieth birthday dinner the same evening. You want to decline without hurting her feelings.\n\nWrite a message to Priya. You should include:\n• thank her for the invitation\n• explain clearly why you cannot come\n• show you are genuinely sorry to miss it\n• suggest something else",
+        "pac": "Purpose: to decline warmly. Audience: a close friend — informal and short. A declining message goes wrong when it is vague.",
+        "model": "Hi Priya,\n\nThank you so much for inviting me on Saturday — I was really pleased you thought of me.\n\nI'm afraid I can't come. It's my grandmother's eightieth birthday that evening and the whole family is going for dinner. It's been booked since March and I'd never hear the end of it if I missed it, and honestly I wouldn't want to.\n\nI'm genuinely sorry, because the trampoline park was the one thing I actually wanted to do this holiday, and I know you planned it around everyone's schedules.\n\nCould I take you out for bubble tea the following Saturday instead, just the two of us? My treat, and you can tell me everything I missed.\n\nHave a brilliant day.\n\nRachel",
+        "why": "Thanks first, reason second, and the reason is specific enough to be believable. The regret is genuine rather than formulaic, and the alternative offered is concrete with a date."
+      }
+    ],
+    "criteria": [
+      {"name": "Task fulfilment", "max": 9, "bands": [
+        {"label": "8–9 · All four points covered, each with a supporting detail", "marks": 9},
+        {"label": "6–7 · All four covered, but one or two are thin", "marks": 7},
+        {"label": "4–5 · Three points covered", "marks": 5},
+        {"label": "2–3 · Two points covered", "marks": 3},
+        {"label": "0–1 · One point, or largely off task", "marks": 1}
+      ]},
+      {"name": "Language and organisation", "max": 6, "bands": [
+        {"label": "6 · Correct format, consistent tone, almost no errors", "marks": 6},
+        {"label": "5 · Correct format, a few errors, tone mostly right", "marks": 5},
+        {"label": "3–4 · Format mostly right, several errors or tone slips", "marks": 4},
+        {"label": "2 · Format or tone clearly wrong, frequent errors", "marks": 2},
+        {"label": "0–1 · Hard to follow", "marks": 1}
+      ]}
+    ]
+  },
+
+  "oral": [
+    {
+      "id": "sbcD",
+      "title": "Learning a musical instrument",
+      "level": "P5",
+      "stimulus": "<div style=\"font-family:system-ui,sans-serif;background:#2A1F3D;color:#EFE9F8;border-radius:12px;padding:22px 24px;max-width:520px\"><div style=\"font-size:11px;letter-spacing:.16em;color:#B79BE8\">NATIONAL ARTS COUNCIL &middot; YOUTH SURVEY</div><div style=\"font-size:26px;font-weight:800;line-height:1.1;margin:6px 0 14px\">Why children stop playing</div><svg viewBox='0 0 460 150' style='width:100%;margin-bottom:12px'><g font-family='system-ui' font-size='11' fill='#B79BE8'><text x='150' y='22' text-anchor='end'>Too little time</text><text x='150' y='54' text-anchor='end'>Practice is boring</text><text x='150' y='86' text-anchor='end'>Not improving</text><text x='150' y='118' text-anchor='end'>Exam pressure</text></g><rect x='158' y='8' width='252' height='18' fill='#8B5CF6'/><text x='418' y='22' font-size='11.5' fill='#EFE9F8' font-family='system-ui'>63%</text><rect x='158' y='40' width='192' height='18' fill='#A78BFA'/><text x='358' y='54' font-size='11.5' fill='#EFE9F8' font-family='system-ui'>48%</text><rect x='158' y='72' width='148' height='18' fill='#A78BFA'/><text x='314' y='86' font-size='11.5' fill='#EFE9F8' font-family='system-ui'>37%</text><rect x='158' y='104' width='120' height='18' fill='#A78BFA'/><text x='286' y='118' font-size='11.5' fill='#EFE9F8' font-family='system-ui'>30%</text></svg><div style=\"font-size:13.5px;line-height:1.65;border-top:1px solid #443463;padding-top:12px\">Of children who began an instrument before age ten, <b>54%</b> had stopped by age fourteen.<br><br>Among those who continued, the most common reason given was <b>“I play with other people.”</b></div></div>",
+      "questions": [
+        {"n":1,"q":"What do you think of the information in this survey?",
+         "model":"What surprises me most is that more than half of the children who start an instrument have given up by fourteen. I would have guessed it was high, but not that high. Looking at the reasons, I notice that the top two — not enough time and practice being boring — are really about how practice feels day to day, rather than about the instrument itself. I also think the last line is the most interesting part of the whole survey: the children who kept going said it was because they played with other people. That suggests the problem may be less about discipline and more about doing it alone in a room."},
+        {"n":2,"q":"Tell me about something you learnt that was difficult at first.",
+         "model":"I started learning the guzheng in Primary Three and I very nearly stopped in the first year. The finger picks kept slipping and my playing sounded nothing like my teacher's, which was discouraging. What changed was joining the school ensemble in Primary Four. Suddenly I was one part of a sound rather than the whole of it, and even when my own part was imperfect the music still worked. I practised more after that, not because anyone told me to, but because I did not want to be the one letting the group down. I have been playing for four years now."},
+        {"n":3,"q":"Should every child be required to learn an instrument in school?",
+         "model":"I agree to a certain extent, though I would not make it compulsory for years on end. This is because there is real value in every child discovering whether they enjoy music, and many would never find out otherwise, particularly if instruments are expensive at home. However, forcing a child to continue for six years when they clearly dislike it seems likely to produce exactly the outcome this survey describes. What I would suggest is a compulsory year of group music in lower primary, followed by a genuine choice. That way everyone gets the chance, and the ones who continue are continuing because they want to, which the survey suggests is what makes people stay."}
+      ]
+    },
+    {
+      "id": "sbcE",
+      "title": "Helping elderly neighbours",
+      "level": "P6",
+      "stimulus": "<div style=\"font-family:system-ui,sans-serif;background:#FFFBF2;color:#2A2418;border:2px solid #2A2418;border-radius:8px;padding:22px 24px;max-width:520px\"><div style=\"font-size:11px;letter-spacing:.15em;border-bottom:2px solid #2A2418;padding-bottom:8px\">SILVER GENERATION OFFICE</div><div style=\"font-size:26px;font-weight:800;margin:14px 0 4px;line-height:1.12\">One in four lives alone</div><div style=\"font-size:14px;margin-bottom:15px\">Residents aged 65 and above in our estate</div><div style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:13.5px;margin-bottom:14px\"><div style=\"background:#F2E9D6;border-radius:8px;padding:12px\"><b style=\"font-size:19px\">26%</b><br>live alone</div><div style=\"background:#F2E9D6;border-radius:8px;padding:12px\"><b style=\"font-size:19px\">41%</b><br>say they speak to no one on a typical weekday</div><div style=\"background:#F2E9D6;border-radius:8px;padding:12px\"><b style=\"font-size:19px\">12%</b><br>have difficulty using a smartphone for appointments</div><div style=\"background:#F2E9D6;border-radius:8px;padding:12px\"><b style=\"font-size:19px\">3 in 5</b><br>say they would rather not be visited by strangers</div></div><div style=\"font-size:13px;line-height:1.6;border-top:1px solid #DDD3BC;padding-top:12px\">The office is recruiting volunteers for weekly check-ins. Training is provided. Volunteers must be 13 or above, or accompanied by an adult.</div></div>",
+      "questions": [
+        {"n":1,"q":"Which figure on this poster stands out most to you, and why?",
+         "model":"The one that strikes me is that forty-one per cent say they speak to no one on a typical weekday. The figure about living alone is sad but expected; going a whole day without a single conversation is something I find much harder to imagine. What makes it more difficult is the last box, which says three in five would rather not be visited by strangers. So the people who most need company are also the ones least likely to accept it from someone they do not know. That seems to me the real problem the poster is pointing at, even though it does not say so directly."},
+        {"n":2,"q":"Have you ever helped an older person? What happened?",
+         "model":"My grandmother's neighbour, Mr Chia, is eighty-one and lives by himself two doors down. Last year his phone stopped receiving his clinic appointment reminders and he missed one, which upset him a great deal. I spent about half an hour with him going through the settings, and then I wrote the steps out on a piece of card in large handwriting and taped it inside his cupboard door. What I learnt was that the writing-down part mattered more than the fixing part, because he could then do it himself the next time. He has not needed to ask me again."},
+        {"n":3,"q":"What could a school do to help elderly residents nearby?",
+         "model":"I think a school is actually well placed to help, but it has to be done carefully given that most elderly residents do not want strangers at the door. My suggestion would be a regular activity at the community centre rather than home visits — for example, a fortnightly session where pupils help with phones and appointment apps, with the same pupils returning each time. Familiarity is the key point, because after three or four sessions we would no longer be strangers. I would also keep it practical rather than purely social, since asking for help with a phone feels easier for many people than admitting to being lonely."}
+      ]
+    },
+    {
+      "id": "sbcF",
+      "title": "Reading for pleasure",
+      "level": "P6",
+      "stimulus": "<div style=\"font-family:system-ui,sans-serif;background:#fff;color:#17233B;border:1px solid #D8DEE8;border-radius:12px;padding:20px 22px;max-width:530px\"><div style=\"font-size:11px;letter-spacing:.16em;color:#5C6B85\">NATIONAL LIBRARY BOARD &middot; READING HABITS</div><div style=\"font-size:25px;font-weight:800;margin:5px 0 3px\">Minutes read per day, age 10&ndash;12</div><div style=\"font-size:13px;color:#5C6B85;margin-bottom:16px\">Excluding schoolwork</div><svg viewBox='0 0 460 130' style='width:100%'><g font-family='system-ui' font-size='11' fill='#5C6B85'><text x='128' y='22' text-anchor='end'>2015</text><text x='128' y='54' text-anchor='end'>2020</text><text x='128' y='86' text-anchor='end'>2025</text></g><rect x='136' y='8' width='268' height='18' fill='#10786A'/><text x='412' y='22' font-size='11.5' fill='#17233B' font-family='system-ui'>34 min</text><rect x='136' y='40' width='173' height='18' fill='#4E8FA8'/><text x='317' y='54' font-size='11.5' fill='#17233B' font-family='system-ui'>22 min</text><rect x='136' y='72' width='118' height='18' fill='#8FB8C9'/><text x='262' y='86' font-size='11.5' fill='#17233B' font-family='system-ui'>15 min</text></svg><div style=\"font-size:13.5px;line-height:1.6;border-top:1px solid #E6EAF1;padding-top:13px;margin-top:6px\">Children who read for pleasure at least twenty minutes a day scored, on average, <b>nine months ahead</b> in reading age compared with those who read under five minutes.<br><br>The most common reason given for not reading: <b>&ldquo;I can&rsquo;t find a book I like.&rdquo;</b></div></div>",
+      "questions": [
+        {"n":1,"q":"What does this chart tell you, and does it worry you?",
+         "model":"The chart shows that daily reading for pleasure has fallen from thirty-four minutes in 2015 to fifteen in 2025, so it has dropped by more than half in ten years. It does concern me, mainly because of the second figure underneath: children who read at least twenty minutes a day are around nine months ahead in reading age. That means the gap is not only about enjoyment but about ability. What I find slightly more hopeful is the last line, because 'I can't find a book I like' is a solvable problem, unlike simply not wanting to read at all."},
+        {"n":2,"q":"What do you read, and how did you find it?",
+         "model":"I mostly read mysteries and non-fiction about animals. I came to mysteries entirely by accident — my aunt gave me a detective novel two Christmases ago that I assumed I would hate, and I finished it in three days. Since then I have read eleven books in the same series. What I have noticed is that I almost never find books by browsing; I find them because somebody who knows me hands me one. The library has thousands of books and I usually leave empty-handed, but a single recommendation from a friend works almost every time."},
+        {"n":3,"q":"How would you get more children in your school reading?",
+         "model":"I would focus on the reason the poster gives, which is that children cannot find a book they like. Telling people to read more does not solve that. My suggestion would be a shelf at the back of each classroom where pupils leave a book they loved with a handwritten note explaining why, signed with their name. This would work because a recommendation from someone in your own class carries far more weight than a poster or a teacher's list. For instance, everyone in my class read the same graphic novel last year purely because one boy would not stop talking about it. Overall, I think the answer is matching children to books, not asking them to try harder."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+ "paper1": {
+  "id": "paper1a",
+  "title": "Mock Paper 1 · Writing",
+  "totalMarks": 55,
+  "minutes": 70,
+  "type": "writing",
+  "note": "Type your answers, or write on paper and type a short note here instead. At the end you mark yourself against the same bands the examiner uses.",
+  "sections": [
+   {
+    "id": "P1A",
+    "name": "Part 1 · Situational Writing",
+    "marks": 15,
+    "mode": "write",
+    "minutes": 20,
+    "instruction": "Write about 60 to 80 words. Marks are awarded for how completely you cover the points and for the appropriateness of your language.",
+    "task": "Your class has been given permission to keep a small class library in the classroom. You have been asked to write an email to Mr Devan, the school librarian, asking for his help.\n\nWrite an email to Mr Devan. You should include:\n• why your class wants a class library\n• how many books you are hoping to borrow, and for how long\n• where the books will be kept and who will look after them\n• one question you would like to ask him",
+    "planNote": "Purpose: to request. Audience: a teacher you do not know well → semi-formal. Four bullet points, each needing one supporting detail.",
+    "model": "To: devan_k@riverbankpri.edu.sg\nSubject: Request for books for our Primary 6 class library\n\nDear Mr Devan,\n\nI am writing on behalf of Primary 6 Resilience. Our class would like to set up a small class library so that pupils who finish their work early have something worthwhile to read instead of sitting idle.\n\nWe are hoping to borrow about thirty books for one term, and we would be happy to return them earlier if the library needs them.\n\nThe books will be kept in the cupboard beside the whiteboard. Two class librarians, elected last week, will record every loan in a notebook and check the shelf each Friday.\n\nMay I ask whether there are any titles that cannot be borrowed for a whole term?\n\nThank you very much for considering our request.\n\nYours sincerely,\nRachel Tan\nPrimary 6 Resilience",
+    "criteria": [
+     {
+      "name": "Task fulfilment",
+      "max": 9,
+      "bands": [
+       {
+        "label": "8–9 · All four points covered, each with a supporting detail",
+        "marks": 9
+       },
+       {
+        "label": "6–7 · All four covered, but one or two are thin",
+        "marks": 7
+       },
+       {
+        "label": "4–5 · Three points covered",
+        "marks": 5
+       },
+       {
+        "label": "2–3 · Two points covered",
+        "marks": 3
+       },
+       {
+        "label": "0–1 · One point, or largely off task",
+        "marks": 1
+       }
+      ]
+     },
+     {
+      "name": "Language and organisation",
+      "max": 6,
+      "bands": [
+       {
+        "label": "6 · Correct format, consistent tone, almost no errors",
+        "marks": 6
+       },
+       {
+        "label": "5 · Correct format, a few errors, tone mostly right",
+        "marks": 5
+       },
+       {
+        "label": "3–4 · Format mostly right, several errors or tone slips",
+        "marks": 4
+       },
+       {
+        "label": "2 · Format or tone clearly wrong, frequent errors",
+        "marks": 2
+       },
+       {
+        "label": "0–1 · Hard to follow",
+        "marks": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "P1B",
+    "name": "Part 2 · Continuous Writing",
+    "marks": 40,
+    "mode": "write",
+    "minutes": 50,
+    "instruction": "Write a composition of at least 150 words about a promise. Aim for 280 to 380 words. You may use one, two or all three of the pictures, or none of them, but your story must be relevant to the theme.",
+    "theme": "A Promise",
+    "pictures": [
+     {
+      "caption": "A house key on a table",
+      "svg": "<svg viewBox='0 0 160 120'><rect x='0' y='0' width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='18' y='86' width='124' height='6' rx='3' fill='#C6CEDC'/><g transform='translate(50 44) rotate(-18)'><circle cx='12' cy='12' r='11' fill='none' stroke='#5C6B85' stroke-width='4'/><rect x='22' y='9' width='46' height='6' rx='2' fill='#5C6B85'/><rect x='56' y='15' width='5' height='9' rx='2' fill='#5C6B85'/><rect x='64' y='15' width='5' height='7' rx='2' fill='#5C6B85'/></g></svg>"
+     },
+     {
+      "caption": "Two children at a bus stop in the rain",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><g stroke='#9FB3C8' stroke-width='2' stroke-linecap='round'><path d='M22 16l-6 14M44 10l-6 14M66 18l-6 14M120 12l-6 14M142 20l-6 14'/></g><rect x='30' y='40' width='92' height='6' rx='3' fill='#5C6B85'/><rect x='34' y='46' width='5' height='44' fill='#8496AE'/><rect x='113' y='46' width='5' height='44' fill='#8496AE'/><rect x='18' y='90' width='124' height='6' rx='3' fill='#C6CEDC'/><circle cx='62' cy='62' r='8' fill='#10786A'/><rect x='55' y='71' width='14' height='19' rx='6' fill='#10786A'/><circle cx='88' cy='66' r='7' fill='#4E8FA8'/><rect x='82' y='74' width='13' height='16' rx='6' fill='#4E8FA8'/></svg>"
+     },
+     {
+      "caption": "A calendar with one date circled",
+      "svg": "<svg viewBox='0 0 160 120'><rect width='160' height='120' rx='8' fill='#F1F4F9'/><rect x='32' y='24' width='96' height='76' rx='6' fill='#fff' stroke='#C6CEDC' stroke-width='2'/><rect x='32' y='24' width='96' height='16' rx='6' fill='#5C6B85'/><g fill='#C6CEDC'><rect x='42' y='50' width='10' height='8' rx='2'/><rect x='58' y='50' width='10' height='8' rx='2'/><rect x='74' y='50' width='10' height='8' rx='2'/><rect x='90' y='50' width='10' height='8' rx='2'/><rect x='106' y='50' width='10' height='8' rx='2'/><rect x='42' y='64' width='10' height='8' rx='2'/><rect x='74' y='64' width='10' height='8' rx='2'/><rect x='90' y='64' width='10' height='8' rx='2'/><rect x='106' y='64' width='10' height='8' rx='2'/><rect x='42' y='78' width='10' height='8' rx='2'/><rect x='58' y='78' width='10' height='8' rx='2'/><rect x='74' y='78' width='10' height='8' rx='2'/></g><circle cx='63' cy='68' r='11' fill='none' stroke='#D6392C' stroke-width='3'/></svg>"
+     }
+    ],
+    "planNote": "Before writing, finish this sentence: by the end of my story, the reader will see that this story is about ________. One promise, one moment where keeping it becomes difficult, and one outcome.",
+    "model": "See document 05 and document 08 for six full annotated models. A promise story works best when the promise is small and the cost of keeping it is real: a child who promised to be somewhere, and then something better came up.",
+    "criteria": [
+     {
+      "name": "Content",
+      "max": 20,
+      "bands": [
+       {
+        "label": "17–20 · Clearly on theme, one incident developed in depth, climax expanded, real insight at the end",
+        "marks": 18
+       },
+       {
+        "label": "13–16 · On theme, complete plot, climax present but a little thin",
+        "marks": 15
+       },
+       {
+        "label": "9–12 · Relevant but thin, or too many events; little sense of feeling",
+        "marks": 11
+       },
+       {
+        "label": "4–8 · Loosely connected to the theme, or plot confused",
+        "marks": 6
+       },
+       {
+        "label": "0–3 · Off theme or too short to judge",
+        "marks": 2
+       }
+      ]
+     },
+     {
+      "name": "Language",
+      "max": 20,
+      "bands": [
+       {
+        "label": "17–20 · Almost no errors, varied sentences, precise vocabulary, correct dialogue punctuation",
+        "marks": 18
+       },
+       {
+        "label": "13–16 · A few errors, some sentence variety, adequate vocabulary",
+        "marks": 15
+       },
+       {
+        "label": "9–12 · Frequent tense or agreement errors, mostly simple sentences, repetitive words",
+        "marks": 11
+       },
+       {
+        "label": "4–8 · Errors in most sentences, meaning sometimes unclear",
+        "marks": 6
+       },
+       {
+        "label": "0–3 · Very difficult to follow",
+        "marks": 2
+       }
+      ]
+     }
+    ],
+    "task": "Write a composition about a promise.\n\nThe three pictures below are provided to help you think of ideas. You may use one, two or all three of them, or none of them.\n\nYour composition must be relevant to the theme."
+   }
+  ]
+ },
+ "oral": {
+  "readAloud": [
+   {
+    "id": "ra1",
+    "level": "P4",
+    "text": "Every morning before school, my grandfather waters the plants along our corridor. There are eleven pots altogether, and he knows exactly how much water each one needs. The chilli plant, he says, is the fussiest of the lot. If you give it too much, the leaves turn yellow within a week. Last month, he taught me how to check the soil with my finger before pouring. I get it wrong about half the time, but he never seems to mind. He simply says that plants are patient teachers, and that they will wait for me to learn.",
+    "notes": [
+     "Pause slightly at every comma; take a full breath at each full stop.",
+     "Stress the numbers: **eleven** pots, **half** the time.",
+     "Watch the final consonants: waters, needs, leaves, plants, teachers.",
+     "'Fussiest' has three syllables — FUSS-i-est, not 'fussest'.",
+     "Let your voice fall on the last sentence. It is the point of the passage."
+    ]
+   },
+   {
+    "id": "ra2",
+    "level": "P5",
+    "text": "The old cinema on the corner closed down last year. For as long as I can remember, its red sign had glowed above the traffic, spelling out the name of whatever film was showing that week. My mother watched her first film there when she was nine. She says the seats squeaked terribly and the air conditioning was far too cold, and that she loved every minute of it. Now the building is boarded up, and somebody has stuck a notice on the door announcing that a supermarket will open in its place. My mother walked past it with me last Sunday. She did not say anything at all, which told me more than any complaint would have.",
+    "notes": [
+     "'Cinema' — CIN-e-ma, three syllables.",
+     "Slow down for the list in sentence four; the two 'and's need a small pause before each.",
+     "Stress 'nine' — the age matters to the story.",
+     "'Boarded up' — sound the d clearly.",
+     "The last sentence should be read slowly and quietly. It carries the feeling."
+    ]
+   },
+   {
+    "id": "ra3",
+    "level": "P6",
+    "text": "Singapore's first public library opened in 1845 with just a few hundred volumes, most of them donated. Today the network holds more than eight million items and lends out over thirty million a year. What has changed is not only the size of the collection but the purpose of the building itself. A library is no longer only a place to borrow books. It is a place where students revise for examinations, where retirees read newspapers in five languages, and where a child might attend her first storytelling session. The shelves matter, of course. But increasingly, what matters more is the space between them.",
+    "notes": [
+     "Read the numbers clearly and slightly slower: eighteen forty-five, eight million, thirty million.",
+     "'Volumes' here means books — read it with confidence, not hesitation.",
+     "The three 'where' clauses form a list. Keep the same rhythm for each and pause briefly between them.",
+     "Stress 'not only' and 'but'.",
+     "Final sentence: slight pause after 'But increasingly'. Land firmly on 'between them'."
+    ]
+   },
+   {
+    "id": "ra4",
+    "level": "P6",
+    "text": "There is a particular sound a badminton shuttle makes when it is struck cleanly, and anybody who has played the game will recognise it at once. It is not loud. It is a short, dry click, quite unlike the dull thud of a mishit. My coach used to say that she could mark our technique with her eyes closed, simply by listening from the far end of the hall. At the time I assumed she was exaggerating. Years later, standing at the back of a school hall during a training session, I found that I could do exactly the same thing.",
+    "notes": [
+     "'Shuttle', 'struck', 'cleanly' — crisp consonant clusters, do not rush them.",
+     "'A short, dry click' — pause at each comma. The rhythm imitates the sound.",
+     "Contrast 'click' with 'dull thud' in your tone: light, then heavy.",
+     "'Exaggerating' — five syllables, eg-ZAJ-er-ay-ting.",
+     "The last sentence is a quiet realisation. Do not raise your voice for it."
+    ]
+   }
+  ],
+  "conversation": [
+   {
+    "id": "sbcA",
+    "title": "Screen time",
+    "level": "P5",
+    "stimulus": "<div style=\"font-family:system-ui,sans-serif;background:#132A3A;color:#EAF3F8;border-radius:12px;padding:22px 24px;max-width:520px\"><div style=\"font-size:11px;letter-spacing:.16em;color:#7FC6BC\">HEALTH PROMOTION BOARD</div><div style=\"font-size:27px;font-weight:800;line-height:1.1;margin:6px 0 12px\">How much is too much?</div><div style=\"display:flex;gap:14px;margin-bottom:16px\"><div style=\"flex:1;background:#1C3B4E;border-radius:9px;padding:14px\"><div style=\"font-size:26px;font-weight:800;color:#7FC6BC\">4h 12m</div><div style=\"font-size:12.5px;color:#A9CBD6\">average daily screen time, Singapore children aged 7&ndash;12</div></div><div style=\"flex:1;background:#1C3B4E;border-radius:9px;padding:14px\"><div style=\"font-size:26px;font-weight:800;color:#FFD166\">2h</div><div style=\"font-size:12.5px;color:#A9CBD6\">recommended daily limit outside schoolwork</div></div></div><div style=\"font-size:14px;line-height:1.65\">Children who spend more than three hours a day on screens are more likely to report poor sleep, eye strain and difficulty concentrating in class.<br><br><b style=\"color:#7FC6BC\">Try this:</b> no screens in the bedroom &middot; a device-free dinner table &middot; one screen-free day each week</div></div>",
+    "questions": [
+     {
+      "n": 1,
+      "q": "What are your thoughts on the information in this poster?",
+      "model": "I find the difference between the two figures quite striking. The poster says children my age spend over four hours a day on screens, which is double the recommended limit of two hours. Personally, I think this is a fair reflection of what I see around me — during the holidays, several of my classmates spend most of the afternoon gaming or watching videos. What worries me most is the point about concentration, because that affects schoolwork without anyone noticing the cause. I do think the poster is a little simplistic, though, since not all screen time is the same: doing research for a project is different from scrolling through videos."
+     },
+     {
+      "n": 2,
+      "q": "Tell me about a time when you spent too long on a screen. What happened?",
+      "model": "During the December holidays last year, I started watching a series on a Saturday afternoon and did not stop until nearly midnight. I had told myself I would watch two episodes. The next morning I woke up at eleven with a headache, and I felt irritable for most of the day. Worse, I had promised my mother I would help her clear the storeroom that morning, and I was in no state to do it. She did not scold me, which somehow made it worse. Since then I have started setting an alarm before I begin watching anything, which helps more than I expected."
+     },
+     {
+      "n": 3,
+      "q": "Do you think schools should teach pupils about managing screen time?",
+      "model": "Yes, I believe they should, and I would go further than a single assembly talk. This is because most of us know that too much screen time is bad for us, but knowing is not the difficulty — managing the habit is. For instance, my school held a talk last year with very similar statistics to this poster, and nothing changed afterwards. What might work better is a practical activity, such as tracking our own usage for a week and then discussing the results in class, because seeing your own number is far more convincing than seeing an average. Overall, I think schools are the right place for this, provided the lesson is practical rather than just informative."
+     }
+    ]
+   },
+   {
+    "id": "sbcB",
+    "title": "Neighbourhood volunteering",
+    "level": "P6",
+    "stimulus": "<div style=\"font-family:system-ui,sans-serif;background:#FFFCF3;color:#2A2418;border:2px solid #2A2418;border-radius:8px;padding:22px 24px;max-width:520px\"><div style=\"font-size:11px;letter-spacing:.16em;border-bottom:2px solid #2A2418;padding-bottom:8px\">SENGKANG RESIDENTS' NETWORK</div><div style=\"font-size:26px;font-weight:800;margin:14px 0 4px;line-height:1.1\">Two hours. One Saturday. Your block.</div><div style=\"font-size:14.5px;margin-bottom:16px\">We are looking for 40 volunteers aged 10 and above.</div><div style=\"display:grid;grid-template-columns:1fr 1fr;gap:10px;font-size:13.5px\"><div style=\"background:#F4EBD4;border-radius:8px;padding:12px\"><b>Meal delivery</b><br>Bring hot meals to residents who cannot leave their flats.</div><div style=\"background:#F4EBD4;border-radius:8px;padding:12px\"><b>Reading buddies</b><br>Read with children at the study corner.</div><div style=\"background:#F4EBD4;border-radius:8px;padding:12px\"><b>Garden plot</b><br>Water, weed and harvest the community garden.</div><div style=\"background:#F4EBD4;border-radius:8px;padding:12px\"><b>Tech help</b><br>Help older residents use their phones.</div></div><div style=\"font-size:13.5px;margin-top:15px;line-height:1.6\">Last year, 12 of our 40 volunteers came back for a second session. We would like that number to be higher. Tell us what would make you return.</div></div>",
+    "questions": [
+     {
+      "n": 1,
+      "q": "Which of these activities would you choose, and why?",
+      "model": "I would choose the reading buddies role. This is because I have a younger cousin whom I read with most weekends, so I already have some idea of how to keep a child interested when the book gets difficult. I also think it is the role where a primary school pupil can genuinely be useful rather than just present — a younger child may find it easier to read aloud to someone close to their own age than to an adult. Tech help appeals to me too, but I suspect I would be less patient than the job requires."
+     },
+     {
+      "n": 2,
+      "q": "The poster says only 12 out of 40 volunteers came back. Why do you think that is?",
+      "model": "I think there are a few reasons. Firstly, people often sign up for a one-off event without intending it to become a commitment, especially if a school or a parent encouraged them. Secondly, if volunteers are not told what difference they made, the experience can feel forgettable. For instance, when my class collected donations last year, we never found out what happened to the money, and I noticed that fewer people volunteered the second time. Finally, two hours on a Saturday competes with tuition and family time, which is a real obstacle for children my age. I would suggest the organisers send a short follow-up message telling volunteers exactly what their work achieved."
+     },
+     {
+      "n": 3,
+      "q": "Some people say children are too young to volunteer. What do you think?",
+      "model": "I disagree, although I understand the concern. The worry is presumably that children may get in the way or need supervising themselves, and for some tasks that is fair — I would not expect a ten-year-old to deliver meals alone to a stranger's flat. However, there are many roles where being young is actually an advantage. Reading with a small child is one. Helping an elderly resident with a phone is another, because most of us grew up with these devices and can explain them simply. In my view the question is not whether children are too young, but whether the task has been matched properly to the volunteer."
+     }
+    ]
+   },
+   {
+    "id": "sbcC",
+    "title": "Food waste at the school canteen",
+    "level": "P6",
+    "stimulus": "<div style=\"font-family:system-ui,sans-serif;background:#fff;color:#17233B;border:1px solid #D8DEE8;border-radius:12px;padding:20px 22px;max-width:530px\"><div style=\"font-size:11px;letter-spacing:.16em;color:#5C6B85\">RIVERBANK PRIMARY &middot; CANTEEN AUDIT</div><div style=\"font-size:24px;font-weight:800;margin:5px 0 3px\">What ends up in the bin</div><div style=\"font-size:13px;color:#5C6B85;margin-bottom:16px\">Food thrown away per week, by stall</div><svg viewBox='0 0 470 170' style='width:100%'><g font-family='system-ui' font-size='11' fill='#5C6B85'><text x='96' y='28' text-anchor='end'>Rice &amp; noodles</text><text x='96' y='66' text-anchor='end'>Mixed veg rice</text><text x='96' y='104' text-anchor='end'>Drinks stall</text><text x='96' y='142' text-anchor='end'>Snacks</text></g><rect x='104' y='14' width='320' height='20' fill='#D6392C'/><text x='430' y='29' font-size='11.5' fill='#17233B' font-family='system-ui'>48 kg</text><rect x='104' y='52' width='213' height='20' fill='#E8865C'/><text x='323' y='67' font-size='11.5' fill='#17233B' font-family='system-ui'>32 kg</text><rect x='104' y='90' width='53' height='20' fill='#8FB8C9'/><text x='163' y='105' font-size='11.5' fill='#17233B' font-family='system-ui'>8 kg</text><rect x='104' y='128' width='33' height='20' fill='#8FB8C9'/><text x='143' y='143' font-size='11.5' fill='#17233B' font-family='system-ui'>5 kg</text></svg><div style=\"font-size:13.5px;line-height:1.6;border-top:1px solid #E6EAF1;padding-top:13px;margin-top:8px\">Most of the waste is rice left on plates, not unsold food. Pupils were asked why. The two most common answers were <b>&ldquo;the portion was too big&rdquo;</b> and <b>&ldquo;I didn't have time to finish&rdquo;</b>.</div></div>",
+    "questions": [
+     {
+      "n": 1,
+      "q": "What does this audit tell you about food waste in your canteen?",
+      "model": "The chart shows that the rice and noodle stall throws away by far the most, at forty-eight kilograms a week, which is nearly ten times the snack stall. What I find most revealing is the note underneath: the waste is mainly rice left on plates rather than food that went unsold. That means the problem is not the stallholders ordering too much, but what happens after the food is served. The two reasons pupils gave — portions being too large and not having enough time — suggest this is more about how recess is organised than about pupils being careless."
+     },
+     {
+      "n": 2,
+      "q": "Have you ever thrown away food at school? Why?",
+      "model": "Yes, more often than I would like to admit. Last term I frequently left half my rice, mostly because recess is only twenty-five minutes and I would spend the first ten queueing. By the time I sat down I had about eight minutes to eat, and if my friends finished first I would give up and follow them out. Looking back, the food itself was fine — I simply did not allow myself time. Since then I have started going to the shorter queue even when it is not my favourite stall, which has helped."
+     },
+     {
+      "n": 3,
+      "q": "What one change would you suggest to reduce this waste?",
+      "model": "I would suggest offering a smaller rice portion at a slightly lower price, and making pupils choose the size when they order. This is because the audit points directly at portion size as one of the two main reasons, and it is the easier of the two to fix — lengthening recess would need the whole timetable to change. A smaller option also rewards pupils for choosing it, rather than lecturing them. For instance, my cousin's school introduced a 'small rice' option last year and the canteen reported noticeably less waste within a month. Overall, I think practical changes work better than posters telling us not to waste food."
+     }
+    ]
+   }
+  ]
+ }
+}

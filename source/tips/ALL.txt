@@ -1,0 +1,1154 @@
+W1|1|'A piece of cake' means something very easy to do, needing hardly any effort.
+W1|2|'Once in a blue moon' means very rarely — a blue moon is an extra full moon, which hardly ever happens.
+W1|3|'Butterflies in her stomach' describes the fluttery, nervous feeling you get just before something important.
+W1|4|'Face the music' means to own up and accept the punishment or consequences of what you have done.
+W1|5|'Break the ice' means to say or do something that makes strangers feel relaxed with one another.
+W1|6|A 'bookworm' is someone who loves reading and gets through a great many books.
+W1|7|'Over the moon' means extremely happy and delighted about something.
+W1|8|'Under the weather' means feeling slightly unwell or poorly.
+W1|9|'Pulling your leg' means teasing you by saying something untrue as a joke.
+W1|10|'Let the cat out of the bag' means to give away a secret, usually by accident.
+W1|11|'Hit the nail on the head' means to say exactly the right thing, like a hammer striking a nail perfectly.
+W1|12|'Keep an eye on' means to watch someone or something carefully so nothing goes wrong.
+W1|13|'In the same boat' means in the same difficult situation as everybody else.
+W1|14|'A chip off the old block' means a child very like a parent, as a chip matches its wood block.
+W1|15|'A wet blanket' is someone who spoils other people's fun, just as a wet blanket smothers a fire.
+W1|16|'A heart of gold' means being very kind and generous to other people.
+W1|17|'Cold feet' means suddenly feeling too nervous to do something you had planned to do.
+W1|18|'Bury the hatchet' means to make peace and stop quarrelling — a hatchet is a small axe, put away for good.
+W1|19|'Bit off more than she could chew' means took on far more work than she could manage.
+W1|20|'Burnt the midnight oil' means worked or studied very late into the night, from the days of oil lamps.
+W1|21|'Crying over spilt milk' means being upset about something that has happened and cannot be undone.
+W1|22|'Green with envy' means feeling very jealous of what somebody else has.
+W1|23|'Turned a blind eye' means chose to ignore something wrong instead of doing anything about it.
+W1|24|'The last straw' is the final small trouble that makes a difficult situation impossible to bear.
+W1|25|'A blessing in disguise' is something that seems bad at first but turns out to be good.
+W1|26|'Add fuel to the fire' means to do something that makes a bad situation even worse.
+W1|27|'Beating around the bush' means avoiding the main point instead of saying it plainly.
+W1|28|'Bite the bullet' means to make yourself do something difficult or unpleasant that you cannot avoid.
+W1|29|'In the nick of time' means just in time, with only moments to spare.
+W1|30|'Cost an arm and a leg' means to be very expensive indeed.
+W1|31|'Jump to conclusions' means to decide what has happened before you know all the facts.
+W1|32|'Learn the ropes' means learn how things are done in a new place, as new sailors learnt a ship's ropes.
+W1|33|'Out of the blue' means happening suddenly, with no warning at all.
+W1|34|'With a pinch of salt' means not believing something completely, because it may be exaggerated.
+W1|35|'The tip of the iceberg' means the small visible part of a much bigger problem, since most ice hides underwater.
+W1|36|'Think outside the box' means to think in a fresh, creative way instead of the usual way.
+W1|37|'Through thick and thin' means staying loyal through good times and hard times alike.
+W1|38|'You reap what you sow' means you get the results your own actions earned, like a farmer harvesting what was planted.
+W1|39|'Went the extra mile' means did more than was needed or expected in order to help.
+W1|40|'Blowing his own trumpet' means boasting loudly about how good he is.
+W2|1|'Broke down' means stopped working — machines like cars break down when something fails.
+W2|2|'Brought up' means raised and looked after a child until they grew up.
+W2|3|'Called off' means cancelled something that had been arranged.
+W2|4|'Catch up' means to reach the same point as everybody else after falling behind.
+W2|5|'Came across' means found something by chance, without looking for it.
+W2|6|'Cut down on' means to have less of something than before.
+W2|7|'Fill in' means to write the details that are asked for in the spaces on a form.
+W2|8|'Found out' means discovered or learnt something you did not know before.
+W2|9|'Got along with' means had a friendly, easy relationship with people.
+W2|10|'Get over' means to recover from something painful or upsetting.
+W2|11|'Give in' means to stop resisting and do what somebody is forcing you to do.
+W2|12|'Give up' means to stop trying before you have finished.
+W2|13|'Went through' means lived through a hard or painful experience.
+W2|14|'Hand in' means to give your work to the teacher or person in charge.
+W2|15|'Keep up with' means to go as fast as someone else and stay level with them.
+W2|16|'Looking forward to' means feeling pleased and excited about something that is going to happen.
+W2|17|'Looking into' means investigating something carefully to find out the truth.
+W2|18|'Look up' means to search for information in a dictionary, book or list.
+W2|19|'Made up' means invented something that is not true.
+W2|20|'Owned up' means admitted honestly that you did something wrong.
+W2|21|'Passed away' is a gentler, kinder way of saying that someone died.
+W2|22|'Pick up' means to collect someone, usually in a car, and take them home.
+W2|23|'Put off' means delayed something until a later time.
+W2|24|'Put up with' means to bear something annoying without complaining.
+W2|25|'Ran out of' means used up all of something, so none was left.
+W2|26|'Set off' means started a journey.
+W2|27|'Takes after' means looks or behaves like an older relative, such as a parent.
+W2|28|'Took part in' means joined in and was one of the people doing it.
+W2|29|'Turned down' means refused or rejected an offer.
+W2|30|'Turned up' means arrived or appeared, often when numbers were uncertain.
+W2|31|'Turn to' means to open a book at a particular page.
+W2|32|'Goes off' means suddenly makes a loud noise, which is what alarms and bells do.
+W2|33|'Take off' means to remove something you are wearing, such as shoes or a jacket.
+W2|34|'Took up' means started a new hobby or activity.
+W2|35|'Got round' means spread from person to person until everybody knew.
+W2|36|'Owned up to' means admitted that you were responsible for something wrong.
+W2|37|'Put back' means moved an arrangement to a later time than planned.
+W2|38|'Throw away' means to get rid of something you no longer want.
+W2|39|'Switch off' means to turn something electrical off so it stops working.
+W2|40|'Deal with' means to take action to sort out a problem.
+A|1|Words ending in -f often change to -ves, so 'leaf' becomes 'leaves', not 'leafs'.
+A|2|Change the -f to -ves for words like 'thief', so 'thiefs' is wrong.
+A|3|Add -es to 'potato' because it ends in -o after a consonant, not just -s.
+A|5|'Mouse' is an irregular noun that changes its vowels, so never write 'mouses'.
+A|7|'Woman' changes inside the word, not at the end, so 'womans' is wrong.
+A|8|When a word ends in a consonant plus y, change the y to i and add -es.
+A|10|'Tooth' is irregular: the vowels change to make 'teeth', so 'tooths' is wrong.
+A|11|A large group of flying insects like bees is called a swarm, not a herd.
+A|12|Fish swimming together are called a school or shoal, not a flock.
+B|18|'Its' shows belonging, while 'it's' is short for 'it is', which makes no sense here.
+B|23|'Mine' already shows belonging, so we never add an apostrophe and -s to it.
+B|27|Use 'who' for people and 'which' for things or animals.
+B|28|'Whose' shows the bag belongs to the girl, while 'who's' means 'who is'.
+B|29|'Somebody' is one unknown person, so it needs a singular word like 'his' or 'her'.
+B|30|When 'we' do something to ourselves, use the reflexive word 'ourselves', not 'ourself'.
+C|35|Meal names like lunch, breakfast and dinner need no article in front of them.
+D|58|'Everybody' is treated as one person, so the verb takes -s.
+E|63|'Every Saturday' shows a habit, so use the present tense with -s after 'she'.
+E|64|'Listen!' shows it is happening right now, so use 'is' plus the -ing form.
+E|65|'Last December' is finished time, so use the past tense.
+E|68|'Since' plus a year means it began earlier and still continues, so use 'has lived'.
+E|69|'Already' shows the job is just done, so use 'have' with the past form 'finished'.
+E|74|'Last year' is finished time, so use the past form 'broke', never 'breaked'.
+E|76|Two actions going on at the same time in the past both take 'was' plus -ing.
+E|78|The locking happened first, so it takes 'had', and the later action stays simple past.
+E|80|'Never ... before' talks about your whole life up to now, so use 'have' plus 'eaten'.
+E|81|'At the moment' means right now, so use 'is' plus the -ing form.
+E|82|The teaching ended before she retired, so the earlier action takes 'had taught'.
+E|86|'Every day' shows a fact or habit, so add -s to the verb after 'the sun'.
+E|87|'By next December' looks ahead to something finished later, so use 'will have' plus 'completed'.
+F|89|'Bad' is irregular: it becomes 'worse' and then 'worst', never 'baddest'.
+F|93|'Hard' is already an adverb here, and 'hardly' would mean almost not at all.
+F|96|The ride causes the feeling, so use -ing; 'excited' describes the person who feels it.
+F|98|'Than' compares two things, and 'good' changes to 'better', never 'gooder'.
+F|99|Words telling how you do something usually end in -ly, so add -ly to 'fluent'.
+F|100|Longer adjectives use 'most' instead of -est, so 'carefullest' is wrong.
+F|101|Add -ly because the word tells how the baby slept, not what she is like.
+G|103|Use 'at' for a time on the clock, and 'on' for days or dates.
+G|104|'On' is used for days and dates, while 'in' is for months and years.
+G|105|Use 'in' for years and months, but 'on' for a full date.
+G|109|'Under' means below something, while 'over' would mean above it.
+G|110|A bridge goes above the water from one side to the other, so use 'over' or 'across'.
+G|113|'Depends' is always followed by 'on', never 'from' or 'of'.
+G|114|'Good' takes 'at' when you talk about a skill or a school subject.
+G|116|'Afraid' is always followed by 'of', not 'from' or 'with'.
+G|118|'Different' is followed by 'from' in careful writing, not 'than'.
+G|119|You congratulate someone 'on' something good, not 'for' it.
+H|124|Use either 'because' or 'so' to join the two parts, never both in one sentence.
+H|129|'Neither' always pairs with 'nor', while 'either' pairs with 'or'.
+H|130|'Not only' always pairs with 'but also', not with 'and'.
+I|138|'May' asks politely for permission, while 'must' means you have to do it.
+I|141|The sentence is about the past, so use 'could', the past form of 'can'.
+I|142|'Should' gives advice about the best thing to do, while 'may' only means permission.
+Y1|2|Words ending in -lf change to -lves, so 'shelfs' is wrong.
+Y1|6|Add -es to words ending in -x, like 'fox' and 'box'.
+Y1|9|'Goose' is irregular and changes its vowels, so never write 'gooses'.
+Y1|12|'Person' has the special plural 'people'; 'persons' is only used in very formal writing.
+Y1|13|Change the -f to -ves for words like 'loaf', so 'loafs' is wrong.
+Y1|15|Change -lf to -lves, so 'half' becomes 'halves' and not 'halfs'.
+Y1|17|A group of lions is called a pride, not a herd or a pack.
+Y1|18|Grapes grow joined together, so the group is called a bunch, not a bundle.
+Y1|19|Baby animals born together, like puppies or kittens, are called a litter.
+Y1|20|The people who work together on a ship or plane are called the crew.
+Y1|24|One owner takes the apostrophe before -s, while 'brothers'' would mean more than one brother.
+Y2|8|When 'I' do something to myself, use the reflexive word 'myself', not 'me'.
+Y2|12|'We' matches 'ourselves', because more than one person needs the -selves ending.
+Y2|14|'I' is used for the person doing the action, so say 'my sister and I'.
+Y2|16|'Theirs' can stand alone, but 'their' must have a noun after it.
+Y2|17|'Somebody' means one unknown person, so it needs a singular 'his or her'.
+Y2|18|Use 'who' for people, because 'which' is for things and animals.
+Y2|19|After a preposition like 'to', use 'him' instead of 'he'.
+Y3|7|To make a negative in the present tense, put 'do not' before the plain verb.
+Y3|10|This is a fact that is always true, so add -s to the verb after 'the sun'.
+Y3|11|'Tomorrow' points to the future, so use 'will' before the plain verb.
+Y3|12|'Last year' is finished, and 'teach' has the irregular past form 'taught'.
+Y3|13|'Now' means it is happening as we speak, so use 'are' plus the -ing form.
+Y3|14|'Yesterday' tells you it is finished, so use the past form 'wrote', not 'writed'.
+Y3|15|A science fact stays in the present tense, so add -s to the verb after 'water'.
+Y3|17|'Last week' is over, so add -ed to the verb to make the past tense.
+Y3|19|'Listen!' shows it is happening right now, so use 'is' plus the -ing form.
+Y3|20|'We' takes 'have', not 'has', even though this happens every Friday.
+Y3|21|'Last night' is finished, and 'fall' has the irregular past form 'fell'.
+Y3|22|'Yesterday' shows finished time, and 'buy' changes to 'bought', never 'buyed'.
+Y3|25|'Yesterday' means it is over, and 'see' becomes 'saw', not 'seen' on its own.
+Y4|1|'Under' means below something, while 'on' would put the cat on top.
+Y4|5|Use 'on' for a flat surface something touches, like a wall or a table.
+Y4|6|Use 'in' when something goes inside a closed space like a fridge.
+Y4|7|'Through' means going in one side of an opening and out the other.
+Y4|9|The ball stopped below the table, so 'under' shows that position.
+Y4|10|'Across' means from one side to the other, so it fits crossing a bridge.
+Y4|12|'Afraid' is always followed by 'of', never 'from' or 'with'.
+Y4|13|'Wait' takes 'for' before the person or thing you are waiting for.
+Y4|14|'Listen' always takes 'to' before the person or thing you hear.
+Y4|15|'Between' is used for two things, while 'among' is for three or more.
+Y4|16|Something that lands on a flat surface is 'on' the floor, not 'in' it.
+Y4|19|'Over' shows the cat went above the wall and past it.
+Y5|2|Comparing three or more things needs -est, so 'heavy' becomes 'heaviest' with y changed to i.
+Y5|5|Comparing just two people needs -er, and 'than' is the clue to use 'faster'.
+Y5|7|'Good' is irregular, so comparing them all gives 'best', never 'goodest'.
+Y5|8|Add -ly because the word tells how the baby slept, not what the baby is like.
+Y5|17|'Than' compares two terms, and 'good' changes to 'better', not 'gooder'.
+Y5|20|Add -ly to tell how they waited, since 'patient' alone would describe the children.
+GA1|15|'Everybody' sounds like many people but is a singular subject, so it takes a singular verb.
+GA1|31|'Trousers' is always plural in form, like jeans and shorts, so the verb is plural.
+GA1|32|The subject is 'box', not 'photographs', so the verb must be singular.
+GA1|37|'Scissors' names one tool with two blades but is always plural, so the verb is plural.
+GA1|40|'Shoes' is a plural noun, so it needs a plural verb.
+GA1|43|'Politics' ends in -s but is treated as one single subject, so the verb is singular.
+GA1|46|'Somebody' is a singular pronoun, so it pairs with the singular 'has'.
+GA2|3|'Last June' is a finished time in the past, so the simple past is needed.
+GA2|6|'Already' shows a recently completed action that still matters now, so the present perfect is used.
+GA2|7|'Since' plus a starting point links past to present, so the present perfect is needed.
+GA2|12|A longer action interrupted by a shorter past action takes the past continuous.
+GA2|14|The switching happened before he left, so the past perfect shows the earlier action; 'switched' is also acceptable.
+GA2|15|'Never' here means at no time up to now, which calls for the present perfect.
+GA2|16|'At the moment' means happening right now, so the present continuous is needed.
+GA2|17|The thirty years finished before he retired, so the past perfect shows which came first.
+GA2|21|A regular, repeated fact about nature takes the present simple.
+GA2|25|The waiting carried on right up to a past moment, so the past perfect continuous is used.
+GA2|27|After 'if' about the future, the present tense is used in the condition and 'will' in the result.
+GA2|28|The lack of news still matters now, so the present perfect fits; 'told' is also acceptable.
+GA2|29|'In 1998' is a finished past time, so the simple past is needed.
+GA2|31|The singing was in progress when the bell rang, so the past continuous is used.
+GA2|32|'Again' shows a result that is still true now, so the present perfect fits; 'forgot' also works.
+GA2|33|'Every morning' shows a habit, so the present simple is needed.
+GA2|36|'Twice already' counts experience up to now, so the present perfect is used.
+GA2|38|'Yesterday' is a finished past time, so the simple past is needed.
+GA2|39|The reading was complete by a point in the past, so the past perfect is used.
+GA2|41|'An hour ago' is a finished past time, so the simple past is needed.
+GA2|42|'For six years now' means it is still true, so the present perfect is used.
+GA2|44|A short completed action in the past takes the simple past.
+GA2|46|'Since June' runs from the past to now, so the present perfect is needed.
+GA2|49|'Just' means only a moment ago with the news still fresh, so the present perfect is used.
+GA3|2|'During' shows that something happens inside a period of time.
+GA3|8|'Until' marks the moment that the waiting continues up to and then stops.
+GA3|9|'In' is used for being inside an enclosed space such as a drawer.
+GA3|10|'On' is used for something touching a flat surface like a wall.
+GA3|14|'Over' shows movement up and across the top of something.
+GA3|17|'Opposite' means facing it from the other side of the road.
+GA3|20|'Depend' always takes 'on' (or 'upon'); no other preposition works with it.
+GA3|21|'Good at' is the fixed pairing when talking about a skill or subject.
+GA3|23|'Afraid of' is a fixed pairing; the thing feared follows 'of'.
+GA3|26|'Different from' is the standard fixed pairing for comparing two things.
+GA3|27|You always congratulate someone 'on' an achievement.
+GA3|28|'Consist of' is fixed and means being made up of those parts.
+GA3|29|'Suffer from' is the fixed pairing used with illnesses.
+GA3|30|'Believe in' means accepting that something exists or is real.
+GA3|31|'Succeed in' is fixed and is followed by a verb ending in -ing.
+GA3|34|'Accused of' is fixed; the wrongdoing follows 'of'.
+GA3|35|You blame a person 'for' the thing that went wrong.
+GA3|36|'Complain about' is the usual fixed pairing for the thing that annoys you.
+GA3|37|'Insist on' is fixed and is followed by a verb ending in -ing.
+GA3|38|'Prevent someone from' is fixed and takes a verb ending in -ing.
+GA3|39|'Remind someone of' is used when something brings back a memory.
+GA3|40|'Rely on' (or 'upon') is fixed and means trusting someone to do something.
+GA5|2|After the preposition 'to' you need an object pronoun, even when it is joined to a name.
+GA5|5|'Who' is the relative pronoun for a person doing the action in the clause.
+GA5|9|'Its' shows belonging, while 'it's' is short for 'it is'.
+GA5|10|'Themselves' is the correct plural reflexive pronoun; 'theirselves' is not a real word.
+GA5|14|The pronoun receives the action of 'praised', so the object form is needed.
+GA5|18|'Hour' begins with a vowel sound because the h is silent, so 'an' is used.
+GA5|36|Written as one word, it is a pronoun meaning an unknown person.
+GA6|13|'Ought to' advises what is the right thing to do, more gently than a firm order.
+GA6|20|'I must admit' is a set expression used when owning up to something.
+GA6|22|A negative statement takes a positive tag, and the tag copies the auxiliary 'have'.
+GA6|28|A negative statement takes a positive tag, and 'there' is repeated as the subject.
+GA6|29|A positive statement takes a negative tag, and the tag copies 'were' with 'there'.
+GA6|30|A positive statement takes a negative tag, copying the modal and matching the pronoun.
+GA6|31|A positive statement takes a negative tag, and the tag copies the auxiliary 'has'.
+GA6|32|A positive statement takes a negative tag, and 'will not' shortens to 'won't'.
+GA6|37|A positive statement takes a negative tag, and 'this' becomes 'it' in the tag.
+GA6|38|A positive statement takes a negative tag, and the tag copies the modal 'must'.
+GA6|40|A positive statement takes a negative tag, and the tag copies the modal 'would'.
+GA11|13|Forgetting to skim came before the rice turned greasy, so the past perfect shows the earlier action; 'forgot' is also acceptable.
+Y7|10|Keep the 'wh' opening used by question words like what, when and where.
+Y7|24|Split it as 'be' plus 'cause': the whole word 'cause' is hiding inside.
+Y7|33|Keep the full verb 'happen' and simply add -ed, giving a double p but one n.
+Y7|34|Belonging needs an apostrophe, and because 'children' is already plural the apostrophe comes before the s.
+Z2|34|A plural subject needs the plural reflexive pronoun; 'theirselves' is not a real word.
+Z2|36|'Without' means not doing the action, so the door was left unlocked as he ran.
+W3|6|'Accept' means to receive or agree to something, while 'except' means apart from.
+W3|8|'Break' means to smash or damage, while a 'brake' is what stops a vehicle.
+W3|13|'Its' shows belonging and never takes an apostrophe.
+W3|14|'It's' is the short form of 'it is', so the apostrophe stands for the missing letter.
+W3|18|'Lose' means to misplace something, while 'loose' means not tight.
+W3|22|'Peace' means calm and quiet, while a 'piece' is a part of something.
+W3|27|'Quiet' means making little noise, while 'quite' means fairly or rather.
+W3|28|'Quite' means fairly or rather, and here it tells you how difficult the test was.
+W3|34|'Weather' means sun, wind and rain, while 'whether' introduces a choice.
+W3|39|'Your' shows belonging, while 'you're' is short for 'you are'.
+W4|2|You 'make' a mistake; you never 'do' a mistake in English.
+W4|7|'Take a risk' is the fixed pairing for choosing to do something dangerous.
+W4|8|'Take notes' is the fixed pairing for writing down what you hear.
+W4|14|'Keep a secret' is the fixed pairing meaning you do not tell anyone.
+W4|15|'Keep calm' is a fixed pairing; 'stay' and 'remain' also fit here.
+W4|16|'Keep in touch' means going on contacting each other; 'stay in touch' works too.
+W4|18|You 'catch' a bus or train, meaning you reach it before it leaves.
+W4|20|You 'break' a promise when you fail to do what you said, the opposite of keeping it.
+W4|22|Traffic is described as 'heavy' when there is a lot of it, never 'big' or 'strong'.
+W4|24|Opinions are described as 'strong' when they are firmly held, not 'big' or 'heavy'.
+W4|26|Breaths are described as 'deep', which means filling your lungs fully.
+VA7|22|The suffix -ness turns the adjective 'dark' into a noun naming that quality.
+VA7|23|The suffix -ness turns the adjective 'weak' into a noun naming that state.
+VA7|26|The suffix -ess once marked a female performer, though 'actor' is now used for anyone.
+VA7|28|The suffix -ful means 'having' or 'full of', making an adjective from the noun.
+VA7|30|The suffix -less means 'without', so he showed no fear at all.
+VA7|32|The suffix -ly turns the adjective into an adverb telling you how the dog waited.
+VA7|33|The suffix -ed makes an adjective here, describing a hall filled with people.
+VA7|36|The suffix -iour turns the verb 'behave' into a noun, and British spelling keeps the u.
+X|2|'Elegant' means graceful and beautifully formed, while the other choices all describe messy writing.
+X|4|'Restore' means to repair something back to its earlier condition, while 'demolish' means knock down.
+X|6|'Modest' means not boasting about yourself, which fits thanking his teammates.
+X|8|'Delayed' means made later, while 'hastened' would mean they arrived sooner.
+X|11|'Conclusive' means proving something beyond doubt, while 'flimsy' would mean weak evidence.
+X|12|'Remarkable' means unusually good and worth noticing, while the other choices describe a poor memory.
+X|13|'Contrasting' means strikingly different, matching one loud brother and one quiet one.
+X|14|'Acknowledged' means accepted that the complaint was fair, which is why a refund followed.
+X|15|'Optimistic' means expecting a good result, which is the surprise 'despite the setback' points to.
+X|17|'Indistinctly' means unclearly, which explains why the words could hardly be made out.
+X|19|'Determination' is the firm will to keep going, while 'reluctance' means not wanting to.
+X|20|'Narrow' means not wide, which is exactly why they had to walk one behind another.
+X|21|'Seasoned' means added salt or spice for flavour, while 'diluted' means watered down.
+X|22|A 'compromise' is an agreement where each side gives something up, while a 'deadlock' means no agreement.
+X|23|'Tightly' means gripping firmly, which fits a child frightened by thunder.
+X|25|'Extensive' means large and wide-ranging, covering a great deal.
+X|26|'Reach' means to arrive at a place, while 'descend' would mean going back down.
+X|27|'Rapidly' means very quickly, which matches spreading within one recess.
+X|29|'Soothing' means gentle and calming, which is what a frightened child needs.
+X|30|'Astonishing' means very surprising, because winning after trailing badly was unexpected.
+X|32|'Straightforward' means simple and easy to follow, while 'obscure' means hard to understand.
+X|33|A 'burst' of applause is a sudden loud outbreak of clapping.
+X|34|'Violating' means breaking rules, which explains why the company was fined.
+X|35|'Silence' means no sound at all, which fits the awkward moment after an argument.
+X|38|'Thorough' means complete and detailed, leaving nothing out.
+X|39|'Conflicting' means disagreeing with each other, so both accounts could not be true.
+X|40|'Sincerely' means genuinely meaning it, while 'grudgingly' would mean apologising unwillingly.
+Z6|9|A past-tense speaking verb is needed after 'never', and the very same word appears again in the final paragraph.
+Z6|10|After 'to', use the base form of a verb meaning discover, echoing 'found' earlier; several words fit here.
+Z6|16|'As long as I can ___' is a fixed expression about memory needing a base verb after 'can'; two words are accepted.
+Z6|23|After the number 'eleven' a plural noun counting occasions is needed, since it tells us how often the guitar was played.
+Z6|27|After 'did not' a base-form verb is needed, and several words about setting off for the pool are accepted.
+Z6|29|The present perfect after 'have never' needs a past participle meaning spoke about, matching 'talking about a habit' next; several fit.
+Z7|8|She is caught in a storm and lent his, so the noun repeated throughout the passage is the one needed.
+Z7|12|'Have since ___ that' needs a past participle meaning worked out; many words fit, so several answers are accepted.
+Z7|14|Earlier the borrower 'must remember to return it', so a word showing the umbrella coming to him again fits; two are accepted.
+Z7|16|'Three rows from the back on the left' tells us he needs a noun for where one sits; several words are accepted.
+Z7|17|A past-tense verb is needed, and never learning their names shows nobody in the group ever said anything; two words fit.
+Z7|19|'Look out of the ___' on a bus is a set phrase, and only one part of the bus makes sense.
+Z7|20|A past-tense verb is needed after 'fell asleep', showing he went past his stop; three answers are accepted.
+Z7|21|'After that' marks a beginning, and the past-tense verb must be one that can be followed by '-ing'; two fit.
+Z7|23|'Never' makes it a negative sentence, so the pronoun before 'else' must be an 'any-' word; two spellings are accepted.
+Z7|24|Changing jobs ended the journeys for good, so an adverb meaning completely follows 'that bus'; three words are accepted.
+Z7|25|It is paired with 'a time of night', so a noun naming the shared journey is needed; three answers fit.
+Z7|26|After 'I am fairly' an adjective showing how strongly he believes it is needed; three words are accepted here.
+Z7|28|An adverb of degree is needed after 'known me', picking up the idea of knowing somebody deeply; several words fit.
+C9|4|Use the paragraph where she admits being rude about her glasses; two marks, so name the apology and why it stays inadequate.
+C11|1|The opening sentence explains the role, so lift what learning the part meant and that performing was unlikely; one mark.
+C13|5|Look at what Mr Rahim tells the class on the bus; two marks, so include Kai's request and the teacher's agreement.
+C14|2|The paragraph introducing chlorophyll states its job, so lift that line and put it in your own words; one mark.
+C14|6|Use the paragraph where the green fades; it names something extra that certain trees make, which gives one mark.
+VA8|1|'Bury the hatchet' means to make peace after a quarrel, like putting a weapon away so it cannot be used.
+VA8|2|'Jump the gun' means to start or act too soon, like a runner who moves before the starting gun fires.
+VA8|3|'Miss the boat' means to lose a chance by being too late, like arriving after the boat has sailed.
+VA8|4|'Steal the show' means to win all the attention and praise, even when others were expected to.
+VA8|5|'Turn the tide' means to change a situation completely, usually from losing to winning.
+VA8|6|'Clear the air' means to talk openly so bad feelings disappear, like fresh air blowing away smoke.
+VA8|7|'Add insult to injury' means to make a bad situation even worse by doing something else unpleasant.
+VA8|8|'Rock the boat' means to upset a calm situation by causing trouble or disagreeing.
+VA8|9|'Drop the ball' means to be careless and fail at something you were trusted to do.
+VA8|10|'Cutting it fine' means leaving yourself barely enough time, with almost no room for delay.
+VA8|11|'Plain sailing' means easy and smooth, with no problems, like a ship on calm water.
+VA8|12|'In the bag' means already certain to be won or achieved.
+VA8|13|'Up in the air' means still undecided, like something floating that has not yet landed.
+VA8|14|'On thin ice' means in a risky position where one more mistake brings trouble, like ice about to crack.
+VA8|15|'Set in stone' means fixed and impossible to change, like words carved into stone.
+VA8|16|'Pass the buck' means to blame someone else or push your own responsibility onto them.
+VA8|17|'Hold the fort' means to look after things while the person in charge is away.
+VA8|18|'Take the reins' means to take charge, like a rider taking the reins to control a horse.
+VA8|19|'Shed light' means to make something clearer or easier to understand by giving new information.
+VA8|20|'Throw cold water' on an idea means to discourage it by pointing out the problems.
+VA8|21|'Draw a blank' means to fail completely to remember or find something.
+VA8|22|'A breath of fresh air' means someone or something pleasantly new, easy and refreshing.
+VA8|23|"Water off a duck's back" means criticism with no effect, because water runs straight off oily duck feathers.
+VA8|24|'A bitter pill' means an unpleasant fact you must accept, like nasty-tasting medicine you must swallow.
+VA8|25|'Music to our ears' means news that is very welcome and pleasant to hear.
+VA8|26|'A thorn in my side' means a constant annoyance that keeps bothering you, like a thorn you cannot remove.
+VA8|27|'By the skin of his teeth' means only just managing, succeeding by the narrowest possible margin.
+VA8|28|'With flying colours' means very successfully; ships once came home with their flags, or colours, still flying.
+VA8|29|'Hands down' means winning easily and by a wide margin, with no real contest.
+VA8|30|'Take it in his stride' means to handle something calmly, like a horse clearing a fence without breaking step.
+VA8|31|'Quiet as a mouse' means completely silent, saying nothing at all.
+VA8|32|'Never too late' means you can still start or change something, whatever your age.
+VA8|33|'Water under the bridge' means an unpleasant thing in the past that no longer matters, having flowed away.
+VA8|34|'A lost cause' means something with no hope of succeeding, so the effort is wasted.
+VA8|35|'Struck gold' means found great success or something very valuable, like a miner finding gold.
+VA8|36|'Throw in the towel' means to give up; a boxer's helpers threw a towel in to stop the fight.
+VA8|37|'Count your chickens' means to assume success too early, from 'do not count your chickens before they hatch'.
+VA8|38|'Hold your horses' means wait and slow down, as a driver pulls back horses to halt them.
+VA8|39|'The penny dropped' means you suddenly understood, like a coin dropping to make an old slot machine work.
+VA8|40|'A steal' means something bought so cheaply that the bargain feels almost like stealing.
+VA9|1|'Called off' means cancelled, so the meeting did not take place at all.
+VA9|2|'Turn down' means to refuse or reject something that is offered to you.
+VA9|3|'Fill in' means to write the details needed in the spaces on a form.
+VA9|4|'Give up' means to stop doing something for good, especially a habit.
+VA9|5|'Make off' means to hurry away, usually after stealing something.
+VA9|6|'Make out' means to manage to see or read something that is unclear.
+VA9|7|'Put off' means to delay something until a later time.
+VA9|8|'Put out' means to stop something burning, so the fire is extinguished.
+VA9|9|'Put up' someone means to give them a bed in your home for a night or more.
+VA9|10|'Run into' means to meet someone by chance, without any plan to do so.
+VA9|11|'Run out of' means to use up all of something, so none is left.
+VA9|12|'Go over' means to check or examine something carefully again.
+VA9|13|'Gone off' means food or drink has spoilt and is no longer fit to eat.
+VA9|14|'Went off' means the alarm suddenly rang or sounded.
+VA9|15|'Take after' means to resemble an older relative in looks or in character.
+VA9|16|'Take on' means to accept extra work or responsibility, agreeing to do it.
+VA9|17|'Took off' means the plane left the ground and began flying.
+VA9|18|'Take in' means to understand and absorb information you hear or read.
+VA9|19|'Took off' here means grew very quickly and became successful.
+VA9|20|'Look after' means to care for someone or something, keeping them safe and fed.
+VA9|21|'Look into' means to investigate a matter to find out the facts.
+VA9|22|'Look up to' means to admire and respect someone.
+VA9|23|'Look out' means be careful, because there is danger.
+VA9|24|'Pull down' means to demolish a building, knocking it to the ground.
+VA9|25|'Pull off' means to succeed in something difficult, often when nobody expected it.
+VA9|26|'Pull up' means a vehicle slows down and comes to a stop.
+VA9|27|'Take over' means to take control of something from whoever ran it before.
+VA9|28|'Get along' means to have a friendly relationship with someone.
+VA9|29|'Get over' means to recover from something upsetting and feel better again.
+VA9|30|'Get by' means to manage with only a little money or help.
+VA9|31|'Get through' means to succeed in reaching someone by telephone.
+VA9|32|'Back out of' means to withdraw from something you had agreed to do.
+VA9|33|'Back down' means to stop arguing and admit you were wrong.
+VA9|34|'Back up' means to save a second copy of your work in case it is lost.
+VA9|35|'Break off' means to stop talking suddenly, before you have finished.
+VA9|36|'Break out' means a fire, war or disease starts suddenly.
+VA9|37|'Break in' means to enter a building by force, usually in order to steal.
+VA9|38|'Broke down' means lost control of his feelings and began crying.
+VA9|39|'Hand out' means to give one to each person in a group.
+VA9|40|'Handed down' means passed on from parents to children over several generations.
+VA4|1|'Enormous' means extremely large, so 'gigantic' matches; 'tiny' and 'narrow' describe small size or width instead.
+VA4|2|'Courageous' means brave when facing danger, which is what 'valiant' means; 'timid' is the opposite.
+VA4|3|'Abandon' means to leave something behind for good, and 'desert' here is the verb, not the sandy place.
+VA4|4|'Conceal' means to keep something out of sight, while 'reveal' and 'display' mean the opposite, to show it.
+VA4|5|'Weary' means very tired; do not mix it up with 'wary', which means careful or cautious.
+VA4|6|'Peculiar' means strange or unusual, so 'ordinary', 'common' and 'plain' are its opposites.
+VA4|7|'Assist' means to help someone, while 'hinder' means almost the opposite, to get in their way.
+VA4|8|'Furious' means extremely angry, so 'calm' and 'content' are opposites rather than close matches.
+VA4|9|'Scarce' means hard to find because there is very little; 'cheap' is about price, not amount.
+VA4|10|'Commence' is a formal word meaning to begin, so 'finish' and 'cancel' are not close in meaning.
+VA4|11|'Fragile' means easily broken, so 'delicate' fits; 'sturdy' and 'tough' mean strong instead.
+VA4|12|'Abundant' means there is more than enough of something, so 'scarce' and 'empty' are opposites.
+VA4|13|'Reluctant' means unwilling to do something, so 'eager', 'keen' and 'ready' are all opposites.
+VA4|14|'Vanish' means to disappear suddenly, while 'appear' means to come into sight, the opposite.
+VA4|15|'Stubborn' means refusing to change your mind, which is exactly what 'obstinate' means.
+VA4|16|'Precise' means exact and accurate, so 'vague' and 'rough' mean the opposite.
+VA4|17|'Mend' means to fix something that is damaged, so 'break' is its opposite.
+VA4|18|'Halt' means to stop moving or stop happening, so 'continue' and 'begin' are opposites.
+VA4|19|'Gloomy' means dark and miserable, which is what 'dismal' means; 'cheerful' is the opposite.
+VA4|20|'Swift' means very fast; 'steady' only means even or regular in speed, which is not the same.
+VA4|21|'Generous' means happy to give and share, and 'liberal' here means giving freely, nothing political.
+VA4|22|'Anxious' means worried about what might happen, which is what 'apprehensive' means.
+VA4|23|'Enquire' means to ask for information, so 'answer' and 'reply' are the opposite action.
+VA4|24|'Sufficient' means just enough, while 'excessive' means far too much, which is not the same.
+VA4|25|'Detest' means to hate something strongly, so 'adore' and 'admire' are its opposites.
+VA4|26|'Wealthy' means having plenty of money, which is what 'affluent' means; 'needy' is the opposite.
+VA4|27|'Attempt' means to try to do something, and 'endeavour' is a more formal word for trying.
+VA4|28|'Vacant' means empty and not in use, so 'occupied' is its opposite even though it sounds related.
+VA4|29|'Tremble' means to shake slightly from cold or fear, while 'freeze' means to stay completely still.
+VA4|30|'Conclude' means to bring something to an end, while 'pause' is only a short break.
+VA4|31|'Cautious' means taking care to avoid danger, so 'reckless', 'bold' and 'hasty' are opposites.
+VA4|32|'Brief' means short, and 'concise' means saying a lot in few words; 'lengthy' is the opposite.
+VA4|33|'Permit' means to allow something, so 'forbid' and 'prevent' mean the opposite.
+VA4|34|'Strenuous' means needing a great deal of effort, so 'easy' and 'effortless' are opposites.
+VA4|35|'Grateful' means thankful for something; 'ungrateful' looks almost the same but means the opposite.
+VA4|36|'Obtain' means to get or gain something, which is what 'acquire' means; 'lose' is the opposite.
+VA4|37|'Feeble' means weak and lacking strength, so 'robust', 'sturdy' and 'powerful' are opposites.
+VA4|38|'Hostile' means unfriendly and ready to fight, so 'friendly', 'warm' and 'kind' are opposites.
+VA4|39|'Swiftly' means quickly, so 'hastily' fits best; 'gradually' means slowly, bit by bit.
+VA4|40|'Remarkable' means so unusual that people notice it, so 'ordinary', 'common' and 'dull' are opposites.
+VA5|1|'Ancient' means from very long ago, so 'antique', 'aged' and 'old' are synonyms, not opposites.
+VA5|2|'Permanent' means lasting for ever, so its opposite is 'temporary', meaning only for a short time.
+VA5|3|'Humble' means not proud or boastful, so 'modest' and 'meek' are synonyms; 'arrogant' is the opposite.
+VA5|4|'Transparent' means you can see right through it, while 'opaque' means light cannot pass through.
+VA5|5|'Increase' means to become larger, so 'diminish', meaning to become smaller, is its opposite.
+VA5|6|'Voluntary' means done by choice, so 'optional' and 'willing' are synonyms; 'compulsory' means you must.
+VA5|7|'Praise' means to say how good someone is, so 'applaud' and 'commend' are synonyms, not opposites.
+VA5|8|'Artificial' means made by people rather than found in nature, so 'synthetic' and 'fake' are synonyms.
+VA5|9|'Accept' means to agree to take something, so 'receive' and 'welcome' are close, not opposite.
+VA5|10|'Shallow' means not deep, so 'deep' is the opposite; 'flat' and 'level' describe a surface instead.
+VA5|11|'Generous' means happy to give and share, so 'miserly', meaning unwilling to spend, is its opposite.
+VA5|12|'Ascend' means to go up, so 'climb', 'rise' and 'mount' are synonyms; 'descend' means to go down.
+VA5|13|'Guilty' means having done wrong, while 'accused' and 'charged' only mean someone has been blamed.
+VA5|14|'Fertile' land grows plenty, so 'productive' and 'lush' are synonyms; 'barren' land grows nothing.
+VA5|15|'Conceal' means to keep out of sight, so 'hide', 'bury' and 'mask' are synonyms, not opposites.
+VA5|16|'Rigid' means stiff and unable to bend, so 'hard', 'stiff' and 'firm' are synonyms instead.
+VA5|17|'Majority' means more than half, so 'bulk' and 'most' are synonyms; 'minority' is the smaller part.
+VA5|18|'Expand' means to grow bigger, so 'contract' here means to shrink, not a written agreement.
+VA5|19|'Optimistic' means expecting good things, so 'hopeful' and 'positive' are synonyms, not opposites.
+VA5|20|'Abundant' means there is plenty, so 'ample' and 'plentiful' are synonyms; 'scarce' means very little.
+VA5|21|'Arrive' means to reach a place, so 'depart' means to leave; 'approach' only means coming nearer.
+VA5|22|'Victory' means winning, so 'triumph' and 'success' are synonyms; 'defeat' means losing.
+VA5|23|'Tighten' means to make something firmer, so 'fasten' and 'secure' are synonyms, not opposites.
+VA5|24|'Familiar' means well known to you, so 'strange', meaning unknown or unusual, is its opposite.
+VA5|25|'Encourage' means to give someone confidence to carry on, while 'discourage' takes that confidence away.
+VA5|26|'Wealthy' means rich, so 'affluent' and 'prosperous' are synonyms; 'impoverished' means made very poor.
+VA5|27|'Noisy' means full of loud sound, so 'deafening' and 'rowdy' are synonyms; 'tranquil' means peaceful.
+VA5|28|'Construct' means to build, so 'erect' and 'assemble' are synonyms; 'demolish' means to knock down.
+VA5|29|'Ally' means someone who is on your side, so 'partner' and 'supporter' are synonyms, not opposites.
+VA5|30|'Obedient' means doing as you are told, so 'dutiful' and 'docile' are synonyms; 'defiant' refuses.
+VA5|31|'Frequent' means happening often, so 'rare' is the opposite; 'regular' just means at fixed times.
+VA5|32|'Retreat' means to move back away from danger, so 'withdraw' and 'flee' are synonyms, not opposites.
+VA5|33|'Fatigue' means great tiredness, so 'vigour', meaning strength and energy, is its opposite.
+VA5|34|'Approximate' means roughly right but not exact, so 'rough' and 'estimated' are synonyms instead.
+VA5|35|'Superior' means better or higher in rank, so 'inferior', meaning lower or worse, is its opposite.
+VA5|36|Here 'transparent' means open and easy to see through, so 'honest' and 'open' are synonyms.
+VA5|37|'Surplus' means more than is needed, so 'excess' and 'spare' are synonyms; 'shortage' means too little.
+VA5|38|'Considerate' means thoughtful of other people's feelings, and adding 'in-' flips it to the opposite.
+VA5|39|'Permit' means to allow, so 'let' and 'approve' are synonyms; 'prohibit' means to forbid.
+VA5|40|'Fiction' means made-up writing, so 'novel' and 'tale' are kinds of fiction; 'fact' is what is true.
+VA1|1|'Narrow' means not wide, and walking in single file only makes sense on a path too thin for two.
+VA1|2|Years of gardening make skin 'rough' — hard and uneven — so 'soft' is the opposite of what hard work does.
+VA1|3|'Mischievous' means naughty in a playful way, fitting a puppy that keeps chewing shoes; 'obedient' is the opposite.
+VA1|4|You 'lower' your voice to make it softer; 'raise' would wake the sleeping baby.
+VA1|5|Milk that has gone off turns 'sour' — sharp and unpleasant — which explains the terrible smell.
+VA1|6|'Vague' means unclear and lacking detail, matching an answer that told us almost nothing; 'detailed' says the opposite.
+VA1|7|'Slippery' means so smooth and wet that feet slide, which is why you would walk carefully after rain.
+VA1|8|'Timid' means easily frightened, which explains crying at loud noises; 'brave' is its opposite.
+VA1|9|An old gate 'creaked', making a harsh squeaking noise; whispering, humming and singing all belong to voices.
+VA1|10|You 'folded' paper into four to make it small enough for a pocket; 'tore' would ruin the letter.
+VA1|11|'Thick' soup is too heavy and needs water to thin it; you would not water down 'thin' soup.
+VA1|12|'Breathless' means out of breath, exactly what running all the way home does to you.
+VA1|13|'Darted' means moved suddenly and very fast, fitting a kitten startled by the doorbell; 'strolled' is far too slow.
+VA1|14|Someone 'strict' insists that rules are kept, which explains hating lateness; 'relaxed' and 'careless' are opposites.
+VA1|15|With only three pupils inside, the room seemed 'empty'; 'crowded' and 'packed' mean the exact opposite.
+VA1|16|'Sorted' means separated into groups, which is what putting rubbish into the correct bins means; 'mixed' is opposite.
+VA1|17|'Stale' bread is old, dry and hard, which is why it was difficult to chew; 'fresh' is opposite.
+VA1|18|'Loudly' means with a strong voice, which people at the back need; 'quietly' and 'softly' are opposites.
+VA1|19|'Humorous' means funny and amusing, fitting someone who tells jokes all dinner; 'serious' and 'grumpy' are opposites.
+VA1|20|'Dimmer' means less bright, which is what happens to a room as the sun goes down.
+VA1|21|You 'dragged' something heavy by pulling it along the floor, because it was too heavy to lift.
+VA1|22|'Annoyed' means slightly angry, the natural feeling about forgotten books; 'pleased' and 'grateful' do not suit a mistake.
+VA1|23|'Clear' water is completely see-through; 'muddy', 'dirty' and 'cloudy' all mean you cannot see through it.
+VA1|24|'Selfish' means thinking only of yourself, which explains never sharing snacks; 'generous' is its opposite.
+VA1|25|You 'pitch' a tent, meaning put it up — a fixed phrase; 'packed' and 'folded' mean putting it away.
+VA1|26|'Gleaming' means shining and spotlessly clean, which is how a floor looks after mopping; 'filthy' is opposite.
+VA1|27|'Tossed' means threw lightly and gently, which fits a ball that was easily caught.
+VA1|28|'Bitter' is the sharp, unpleasant taste medicine often has; 'sweet' would not need the word 'but'.
+VA1|29|'Restless' means unable to keep still, exactly what the sentence describes; 'calm' and 'sleepy' are opposites.
+VA1|30|A 'torn' bag has a hole in it, so the books could fall out; 'sealed' would keep them in.
+VA1|31|'Overjoyed' means extremely happy, the natural feeling on hearing that you have won.
+VA1|32|A road that 'curved' bends round, and only this word fits 'sharply to the left'.
+VA1|33|'Scalding' means hot enough to burn, so you blow on it; 'barely' and 'slightly' are far too weak.
+VA1|34|You 'opened' a window to let air in; 'shut' and 'locked' would keep the fresh air out.
+VA1|35|'Faded' means the colour has slowly grown paler, which is what happens to old photographs.
+VA1|36|A walking 'stick' supports someone with a bad knee; brooms and brushes are only for sweeping.
+VA1|37|'Silent' means completely without sound, the usual reaction when the principal enters; 'rowdy' is the opposite.
+VA1|38|'Divided' means separated into parts, which is what cutting a cake into eight equal pieces does.
+VA1|39|'Fluffy' means light and furry to touch, which goes naturally with soft fur; 'rough' contradicts 'soft'.
+VA1|40|'Disappointed' means sad because something you hoped for did not happen, such as finding the shop shut.
+VA1|41|'Scattered' means blew them apart in all directions; 'gathered' means the opposite, bringing them together.
+VA1|42|'Thoughtful' means considerate towards others, which explains helping younger pupils; 'selfish' and 'rude' are opposites.
+VA1|43|'Melt' means turn from solid into liquid, which a warm hand does to ice cream; 'freeze' is opposite.
+VA1|44|'Packed' means completely full of people, which three hundred people would make a hall; 'empty' is opposite.
+VA1|45|'Chuckled' means laughed, the only laughing word here; 'wept', 'sighed' and 'frowned' all show unhappiness.
+VA1|46|A 'blunt' pencil has no point left, so it cannot write; 'sharp' is its opposite.
+VA1|47|'Pleased' means happy and satisfied, the natural feeling about a room cleaned without being asked.
+VA1|48|Dogs 'bark'; purring belongs to cats, and humming or whistling to people.
+VA1|49|A 'winding' path twists and turns, which is why it is hard to follow; 'straight' is opposite.
+VA1|50|'Exhausted' means extremely tired, which two nights of poor sleep would cause; 'energetic' and 'alert' are opposites.
+VA2|1|'Remarkable' means unusually great, so it praises the patience; 'noisy' and 'careless' cannot describe patience at all.
+VA2|2|'Untidy' means messy, which is why the teacher made her copy it again; 'neat' would need no rewriting.
+VA2|3|'Swift' means very quick, matching a recovery completed within a fortnight; 'slow' contradicts that short time.
+VA2|4|'Unambiguous' means having only one possible meaning, which is why nobody was left in any doubt.
+VA2|5|'Sizeable' means fairly large, fitting a crowd gathered early; 'sparse' and 'tiny' would mean too few people.
+VA2|6|'Pessimistic' means expecting the worst, which matches expecting to lose; 'optimistic' and 'confident' are opposites.
+VA2|7|'Decay' means to rot and slowly fall apart, which is what an abandoned building does.
+VA2|8|'Feeble' means weak and unconvincing, so even young pupils saw through it; 'solid' and 'convincing' are opposites.
+VA2|9|'Erratic' means changing unpredictably, matching winning one match then losing; 'consistent' and 'reliable' mean steady.
+VA2|10|'Tirelessly' means without stopping to rest, fitting work that lasted all night; 'briefly' and 'lazily' are opposites.
+VA2|11|'Authority' means confident command that makes people obey, so nobody dared interrupt; 'doubt' would invite interruption.
+VA2|12|'Swiftly' means very quickly, which is how news must travel if everybody knows by noon.
+VA2|13|'Reluctant' means unwilling, fitting someone still enjoying the party; 'eager' and 'keen' mean wanting to go.
+VA2|14|'Scanty' means far too little, and weak evidence is why a case is dismissed; 'conclusive' would prove it.
+VA2|15|'Thoughtless' means said without caring about feelings, which explains days of upset; 'polite' and 'kind' are opposites.
+VA2|16|'Enthralled' means held everyone spellbound with delight, the expected effect of a fine pianist.
+VA2|17|'Receded' means moved back and went down, which floodwater does after a storm; 'rose' is the opposite.
+VA2|18|'Humility' means being modest rather than boastful, which 'genuine' praises; 'arrogance' and 'conceit' are opposites.
+VA2|19|'Conflicting' means disagreeing with each other, the reason for mentioning two witnesses; 'matching' and 'identical' mean the same.
+VA2|20|'Barren' land is so poor that nothing can grow there; 'fertile' and 'rich' mean the opposite.
+VA2|21|'Invariably' means always, without exception, matching never once being late; 'seldom' and 'rarely' mean hardly ever.
+VA2|22|'Meagre' means far too small an amount, which is why everyone still wanted more; 'filling' is opposite.
+VA2|23|'Passion' means a very strong love for something, strong enough to keep you training through the monsoon.
+VA2|24|A 'stern' look is serious and disapproving, the look a librarian gives pupils who start laughing.
+VA2|25|'Severely' means very badly, the only degree serious enough to force demolition; 'slightly' and 'barely' are too weak.
+VA2|26|'Bravery' means courage in danger, which earns praise for a rescue; 'cowardice' and 'panic' would not.
+VA2|27|'Commended' means praised formally, which excellent behaviour deserves; 'scolded' and 'blamed' are for bad behaviour.
+VA2|28|'Extensive' means very wide and covering a great deal, which is why the ranger was impressed.
+VA2|29|'Utterly' means completely, the only word that strengthens 'silent'; 'almost' and 'nearly' would weaken it.
+VA2|30|'Emaciated' means extremely thin from hunger, which is why the ribs showed; 'plump' is the opposite.
+VA2|31|To 'shoulder' blame is to accept and carry it yourself, protecting his friend; 'shifted' means passing it on.
+VA2|32|'Pungent' means having a very strong, sharp smell, which is why it filled the corridor; 'faint' is opposite.
+VA2|33|'Deepened' means grew stronger, which shared hardship does to friendship; 'faded' and 'weakened' are opposites.
+VA2|34|'Irreversible' means impossible to change back, which is why no appeal was allowed; 'temporary' is the opposite.
+VA2|35|Here 'utter' means complete or total, as in the set phrase 'utter nonsense'; 'credible' means believable.
+VA2|36|'Riddled' means full of holes all over, the usual word used with potholes; 'smooth' contradicts it.
+VA2|37|A 'token' effort is a tiny one made only for show, which is why it showed so plainly.
+VA2|38|'Fury' means violent anger, the feeling a bad decision 'provoked' in both sets of fans.
+VA2|39|'Invaluable' means extremely valuable, so the advice proved well worth having; 'worthless' and 'useless' are opposites.
+VA2|40|'Insatiable' means impossible to satisfy, explaining curiosity strong enough to lead it into a washing machine.
+VA2|41|'Doggedly' means stubbornly refusing to give up, which fits pressing on 'despite' the heat.
+VA2|42|'Thorough' means complete and leaving nothing out, which even the strictest examiner would accept; 'vague' is opposite.
+VA2|43|A 'toneless' voice is flat and without expression, which is why listeners fell asleep; 'lively' is opposite.
+VA2|44|'Curt' means so short it seems rude, matching walking on without stopping; 'warm' is the opposite.
+VA2|45|'Perilous' means dangerous, which is why the bridge was closed; 'sturdy', 'sound' and 'solid' mean safe.
+VA2|46|'Fastidious' means very fussy about details, fitting someone refusing all fried food; 'casual' and 'flexible' are opposites.
+VA2|47|'Sparsely' means with very little, matching just a bed and a desk; 'lavishly' means the opposite.
+VA2|48|Spirits that 'sag' sink and grow low, as tiredness causes late in a hike; 'soar' is opposite.
+VA2|49|'Wary' means cautious and distrustful, which explains clinging to his mother near strangers; 'fond' is the opposite.
+VA2|50|An 'acknowledgement' is public recognition of what someone has done, fitting an award for forty years' service.
+VA3|1|'Incoherent' means muddled and not making sense; an account changing three times cannot be 'consistent'.
+VA3|2|'Affable' means warm and easy to talk to, which is why the new pupils felt welcome.
+VA3|3|'Meticulous' means extremely careful about small details, matching repeating each experiment nine times.
+VA3|4|'Scepticism' means doubt; 'met with' usually introduces resistance, and the other three all mean the committee agreed.
+VA3|5|'Impartiality' means treating everyone equally and fairly, exactly what 'treats every pupil alike' describes.
+VA3|6|'Evasive' means dodging a straight answer, which is how a reply commits him to nothing.
+VA3|7|A 'fragile' peace could break easily, which fits a peace nobody trusted; the others mean long-lasting.
+VA3|8|'Vivid' means so clear and lifelike that you can picture it, as though you were there.
+VA3|9|'Garrulous' means very talkative; 'taciturn' is the trap, since it means saying very little.
+VA3|10|'Rigidly' means strictly and without bending, which matches 'no exceptions for anyone'.
+VA3|11|'Effusive' means gushing and over-the-top, which is why the praise sounded insincere.
+VA3|12|'Doomed' means certain to fail from the start, matching 'never had a chance'.
+VA3|13|'Fluency' means speaking smoothly and easily, the natural result of thirty years' practice.
+VA3|14|'Irreconcilable' means the two cannot both be made to fit; 'compatible' means the opposite.
+VA3|15|'Remained' shows the village stayed as it was, so 'untouched' — unspoilt by tourism — fits.
+VA3|16|'Attention to detail' is a set phrase meaning careful notice of small things; the others mean ignoring it.
+VA3|17|'Abruptly' means suddenly and without warning, fitting a queue vanishing the moment the counter closed.
+VA3|18|'Adamant' means completely firm and unwilling to change your mind, so she refused to discuss it.
+VA3|19|'Speculative' means based on guesswork rather than proof, which is why it was hard to verify.
+VA3|20|'Unwarranted' means undeserved or unjustified, and 'every point was fair' shows the criticism was deserved.
+VA3|21|'Insatiable' means impossible to satisfy, matching someone who devours four books every month.
+VA3|22|'Costly' means expensive, echoing 'cost the company a great deal'; the others all mean unimportant.
+VA3|23|'Lucid' means clear and easy to follow; 'convoluted' is the trap, meaning twisted and confusing.
+VA3|24|'Prodigious' means remarkably great, fitting a memory that still recalls events from 1962.
+VA3|25|'Compromise' means an agreement in which each side gives way; 'deadlock' is the trap, meaning no agreement.
+VA3|26|'Nimbly' means quickly and lightly, which is why her fingers were hard to follow.
+VA3|27|'But' signals a contrast with 'competent', so the first attempt was 'dismal' — thoroughly poor.
+VA3|28|'Exceeding' means going beyond the limit, which is what earns a fine; 'observing' means obeying it.
+VA3|29|'Stoicism' means bearing trouble calmly without complaint, which matches the clue word 'quiet'.
+VA3|30|'Impassable' means impossible to travel along, which is why the path had to be closed.
+VA3|31|'Peremptory' means so commanding that argument is impossible, matching 'nobody argued'.
+VA3|32|'Compelling' means so convincing that people are won over; 'flimsy' arguments would persuade nobody.
+VA3|33|'Rapidity' means great speed, and only speed could make the spread 'alarming'.
+VA3|34|'Intolerant of' means unable to put up with, which fits taking every remark personally.
+VA3|35|'Unrivalled' means having no equal, the kind of praise a fine museum collection earns.
+VA3|36|'Deliberation' means weighing things up slowly, so it pairs with 'careful', never with 'hasty' or 'brief'.
+VA3|37|'Oblique' means indirect and roundabout, which is why the question was left unanswered.
+VA3|38|'Fortitude' means brave endurance in hardship, the quality worth praising during a flood.
+VA3|39|'Divergent' means clearly different and moving apart, matching one calm brother and one volatile one.
+VA3|40|'Affection' means warm fondness, the natural feeling behind speaking obviously happily of one's childhood.
+VA3|41|'Needlessly' means unnecessarily, showing the plan was more complicated than nine-year-olds required.
+VA3|42|'Integrity' means firm honesty, which is why he returned every cent he had found.
+VA3|43|'Though' signals weaker evidence, and 'circumstantial' means indirect — suggesting guilt without proving it outright.
+VA3|44|'Generations' are the successive parents and children of a family, the only group a recipe passes through.
+VA3|45|'Comprehensive' means complete and covering everything, which is why nothing important was left out.
+VA3|46|'Rapturous' means wildly delighted — real applause, unlike 'silent' applause, which is a contradiction.
+VA3|47|'Rather than passing' demands a word meaning long-lasting, and 'abiding' means exactly that.
+VA3|48|'Contradictory' means each account says the opposite of the other, so both cannot be true.
+VA3|49|'Candid' means frankly honest, and only honesty lets someone admit being wrong; pride would prevent it.
+VA3|50|'Tenacity' means refusing to give up, which is how a team wins in the closing minutes.
+Z3|1|'Eager anticipation' is the usual phrase for excited waiting; a hushed, expectant audience is not 'bored'.
+Z3|3|'Restore' means bring back to its former good state, which is what a damaged reputation needs.
+Z3|4|'Frailty' means weakness, usually from old age, explaining why the short walk took twenty minutes.
+Z3|5|'Meticulous' means extremely careful and thorough, matching a collection missing no stamp since 1965.
+Z3|6|A 'heated' debate is angry and passionate, which is why the decision took four hours.
+Z3|7|'Dignity' means calm self-respect; 'resentment' is the trap, but she promised to improve instead.
+Z3|8|Putting words into other languages is 'translating'; 'duplicated' would only repeat the same language.
+Z3|9|Stomachs 'rumble' — a deep growling noise; the other verbs describe soft, gentle sounds.
+Z3|10|'Inconsistent' means not staying the same, exactly what a story changing three times does.
+Z3|11|'Obscured' means hid from view, which is what thick fog does; 'revealed' means the opposite.
+Z3|12|A 'hearty' appetite is a big, healthy one, fitting someone who finishes a plate for two.
+Z3|13|'Selflessness' means putting others before yourself, the quality flood volunteers are praised for.
+Z3|15|'Treacherous' means dangerously slippery and unsafe, which is why weeks of rain made them turn back.
+Z3|16|'Patience' means staying calm without getting annoyed, which endless questions really test.
+Z3|17|A 'truce' is an agreed pause in quarrelling, fitting the uneasy calm after an argument.
+Z3|19|'Fastidious' means very fussy and particular, which is why he refuses anything fried.
+Z3|20|'But' contrasts with 'competent', so her first attempt was 'dismal' — thoroughly poor.
+Z3|21|'Elated' means overjoyed, the natural feeling when tired hikers finally spot their shelter.
+Z3|22|'Conviction' means firm, sure belief, and speaking with it is what made the class believe him.
+Z3|23|'Barren' soil grows nothing; 'fertile' and 'rich' are traps meaning the very opposite.
+Z3|24|'Remarkable' means surprisingly good, fitting a recovery quick enough to return within a week.
+Z3|26|'Impossibly' means to an unbelievable degree, the only word strong enough for needing a magnifying glass.
+Z3|27|A 'firm' tone is decided and leaves no doubt, while hesitant or uncertain tones create doubt.
+Z3|28|'Half-hearted' means done without real effort, which explains why the fence collapsed the next day.
+Z3|29|A 'pinch' is the tiny amount held between finger and thumb, the right measure for seasoning.
+Z3|31|'Contradictory' means the two accounts say opposite things, so they cannot both be true.
+Z3|32|'Wary of' means cautious and distrustful of, which is why he clung to his mother.
+Z3|33|'Recognition' means honouring what somebody has done, which is what an award for long service is.
+Z3|34|'Invariably' means always, without exception, matching five years without a single late arrival.
+Z3|35|'Sparsely' means with very little, matching a room holding only a bed and a chair.
+Z3|36|To 'shoulder' blame is to take it on yourself, which saves the teammate from punishment.
+Z3|37|'Overpowering' means so strong that it overwhelms you, fitting a smell that filled a whole lift.
+Z3|38|'Deepened' means grew stronger, the natural result of many years of shared hardship.
+Z3|39|'Final' means settled and unchangeable, which is why no appeal would be considered.
+Z3|40|Birds gather in a 'flock'; 'herd' suits cattle, 'pack' wolves and 'school' fish.
+Z3|41|'Utter' means complete, and 'utter nonsense' is the usual phrase for something wholly untrue.
+Z3|42|'Riddled with' means full of, especially holes, so it suits a road covered in potholes.
+Z3|44|'Dreary' means dull and dispiriting, the only word that suits an unchanging monotone.
+Z3|45|Only 'outrage' — furious anger — explains a decision that upset both sets of supporters at once.
+Z3|46|'Invaluable' means extremely useful, which good advice proves to be when it solves a later problem.
+Z3|47|'Insatiable' means never satisfied, and only such strong curiosity would lead the kitten inside.
+Z3|48|Answering without once checking his notes shows he was sure of himself, which 'confidently' means.
+Z3|49|A 'layer' is a flat covering spread over a surface, which is how mud settles after flooding.
+Z3|50|'Modest' means not boastful, the only word that makes 'far too ... to boast' sensible.
+VA6|2|The subject slot needs a noun, so the verb 'succeed' becomes 'success'; 'successful' is an adjective.
+VA6|4|After 'was' the slot describes the garden, so the noun 'beauty' becomes the adjective 'beautiful'.
+VA6|5|'Safety' is the noun used before 'instructions' in this fixed pairing; 'safe instructions' would mean the instructions are safe.
+VA6|7|The slot after 'His' needs a noun, so the verb 'know' becomes the noun 'knowledge'.
+VA6|8|'Plan to' signals a verb, and '-en' turns the adjective 'high' into the verb 'heighten'.
+VA6|9|After 'grew' the slot describes the crowd, so the noun 'anger' becomes the adjective 'angry'.
+VA6|11|After 'with obvious' a noun is needed, and 'proud' has the irregular noun form 'pride'.
+VA6|12|'Your' signals a noun, so 'apply' becomes 'application'; 'appliance' means a machine, not a form.
+VA6|13|'Going to' needs a verb, and '-en' turns 'wide' into 'widen', meaning to make wider.
+VA6|14|'His' before the blank signals a noun, so the adjective 'generous' becomes 'generosity'.
+VA6|15|'The' and 'of' need a noun between them, so the verb 'discover' becomes 'discovery'.
+VA6|16|After 'the' a noun is needed, and 'true' has the irregular noun form 'truth'.
+VA6|17|'His' before the blank signals a noun, so the adjective 'able' becomes 'ability'.
+VA6|18|'An excellent' signals a countable noun, so the verb 'choose' becomes the noun 'choice'.
+VA6|19|'To' marks a verb, and '-en' turns 'deep' into 'deepen', meaning to make deeper.
+VA6|20|After 'my' a noun is needed, so the adjective 'responsible' becomes 'responsibility'.
+VA6|22|'With' is a preposition and needs a noun, so 'happy' becomes 'happiness', with '-y' changing to '-i'.
+VA6|24|The passive 'was ______ by' needs a past-tense verb, and 'long' gives 'lengthened'; 'longed' means yearned for.
+VA6|25|'With great' signals a noun, so 'patient' becomes 'patience'; 'patients' would mean sick people.
+VA6|26|'The' before the blank needs a noun, so the verb 'compete' becomes 'competition'.
+VA6|27|'The' and 'of' need a noun, so the adjective 'dangerous' becomes the noun 'danger'.
+VA6|29|'Their' signals a noun, and '-dom' turns the adjective 'free' into 'freedom'.
+VA6|30|'The' before the blank needs a noun, so 'perform' becomes 'performance'; 'performer' is a person.
+VA6|31|'The' and 'of' need a noun, so the adjective 'wise' becomes the irregular noun 'wisdom'.
+VA6|33|The subject of the sentence must be a noun, so the adjective 'poor' becomes 'poverty'.
+VA6|35|'Her' before the blank signals a noun, so the adjective 'anxious' becomes 'anxiety'.
+VA6|36|'Will' needs a verb, and '-en' turns the noun 'strength' into the verb 'strengthen'.
+VA6|37|'His sudden' signals a noun, so the verb 'appear' becomes 'appearance'.
+VA6|38|'His' and 'of' need a noun between them, so the adjective 'jealous' becomes 'jealousy'.
+VA6|39|'No' before the blank signals a noun, so the verb 'prove' becomes the noun 'proof'.
+VA6|40|'Her' and 'about' need a noun between them, so the adjective 'curious' becomes 'curiosity'.
+VA6|41|'Let me' is followed by a verb, and '-ify' turns the adjective 'simple' into 'simplify'.
+VA6|44|The slot describes 'driver', so an adjective is needed; 'careless' would contradict never having an accident.
+VA6|45|The meaning is negative, so 'help' takes '-ful' and 'un-' to make the adjective 'unhelpful'.
+VA6|47|The slot describes 'gift', so the noun 'thought' takes '-ful' to make the adjective 'thoughtful'.
+VA6|48|The subject slot needs a noun, so the verb 'attend' becomes 'attendance'; 'attendant' is a person.
+VA6|49|'The' and 'of' need a noun, so 'organise' becomes 'organisation', spelt with '-s-' in British English.
+GA4|3|Finishing while exhausted is a contrast, which needs a contrast linker; 'so' and 'therefore' both show result.
+GA4|4|Full marks followed from weeks of revising, so a result linker is needed, not a contrast one.
+GA4|6|This warns of the bad alternative if they do not hurry; 'and' would simply join two equal actions.
+GA4|7|The closed shop caused them to go home, so a result conjunction fits; 'because' would reverse cause and effect.
+GA4|8|'Not only' is always paired with 'but also' — a fixed pattern worth learning by heart.
+GA4|9|'Neither' is always paired with 'nor', just as 'either' pairs with 'or'.
+GA4|10|A full clause follows, so a contrast conjunction is needed; 'Despite' and 'In spite of' need noun phrases.
+GA4|13|The detour resulted from the closed road, so a result linker fits; 'however' would signal contrast instead.
+GA4|14|Speaking well but writing weakly is a contrast, so a contrast linker fits, not the result words.
+GA4|15|A full clause follows, so the contrast conjunction fits; 'Despite' and 'In spite of' must be followed by nouns.
+GA4|16|The umbrella is a precaution against possible rain, which this phrase shows; 'unless' means 'if not'.
+GA4|17|Catching the first bus is his purpose, and purpose before a clause needs 'so that'; 'in order' needs 'to'.
+GA4|18|A time link before a clause is needed; 'Scarcely', 'No sooner' and 'Hardly' all require inverted word order.
+GA4|21|'So' goes straight before an adjective, as in 'so salty that'; 'such' needs a noun phrase.
+GA4|22|Before 'a' plus adjective plus noun, 'such' is used, and 'so' cannot go there.
+GA4|23|Going out depends on a condition, and this phrase means 'only if'; 'unless' would reverse the meaning.
+GA4|24|'Indeed' adds emphasis, confirming just how hard he works; 'however' would wrongly signal contrast.
+GA4|26|'Otherwise' means 'if we do not', warning what will happen; 'therefore' would show a result instead.
+GA4|27|Volunteering despite two jobs is a contrast, so a contrast linker is needed, not the three result words.
+GA4|28|The walk came after the meal, so a time conjunction showing the earlier action is needed.
+GA4|29|'Until' marks the point at which the waiting stopped; the others show contrast or condition.
+GA4|30|A noun phrase follows, so 'owing to' fits; 'because' would need a full clause after it.
+GA4|31|A full clause follows, so 'Although' fits; 'Due to', 'Despite' and 'In spite of' all need noun phrases.
+GA4|32|'Neither' is always paired with 'nor', never with 'or' or 'and'.
+GA4|33|This phrase tells us when the meeting had started — before he arrived; the others add or contrast.
+GA4|34|'Besides' means 'in addition to' before an '-ing' word; 'Beside' means next to something.
+GA4|35|'Between' is used for two people, while 'among' is for three or more.
+GA4|36|Her improvement came from practising daily, so a result linker is needed, not a contrast one.
+GA4|37|'However hard' means 'no matter how hard', which is the pattern being tested here.
+GA4|38|'Even so' means 'despite that', showing contrast with the film's length; the other three all signal result.
+GA4|39|This shows one thing replacing another before an '-ing' word; 'Despite finishing' would mean she did finish.
+GA4|40|'But' shows the contrast between apologising and the damage remaining; 'so' would wrongly signal result.
+VA17|1|The title and 'no wider than a doorway' point to a tiny market shop, which a 'stall' is.
+VA17|2|The title tells us he mended umbrellas, so a past-tense verb is needed; 'mended' or 'fixed' fit too.
+VA17|3|The people who 'brought him' broken umbrellas are his customers, and 'His' needs a plural noun.
+VA17|4|The slot pairs with the adverb 'slowly' and is explained by never losing his temper.
+VA17|5|Prices are named, so a past-tense verb about asking for money fits; 'paid' would reverse who pays.
+VA17|6|'Than' shows a comparison, so a comparative adjective is needed, and buying new costs less than mending.
+VA17|7|He gives a reason after 'that', so a past-tense speech verb is needed; 'replied' would also work.
+VA17|8|Customers coming since the nineties come often, so an adjective meaning frequent fits; 'loyal' works too.
+VA17|9|'Finally', his age of seventy-eight and the closed stall show he stopped working for good.
+VA17|10|People lined up on his last afternoon, so a noun for a line of waiting people fits; 'crowd' works too.
+VA17|11|They gave him gifts, so a past-tense verb of giving is needed, and 'brought' is the past of 'bring'.
+VA17|12|'Taken up' needs a noun for his skilled line of work; 'business' would also fit here.
+VA17|13|'Shutters down' shows the stall is now unused, so an adjective meaning unoccupied fits; 'closed' works too.
+VA17|14|'Still' with a present-tense verb about the past means they recall the sound; 'recall' fits too.
+VA17|15|A noun naming his line of work is needed again, contrasting his quiet mending with the noisy market.
+VA17|16|'Seems' needs an adjective, and the colon explains a choice that is plain to see.
+VA17|17|'If you' needs a present-tense verb about watching carefully for a week; 'watch' would also fit.
+VA17|18|The older pupils act oppositely to the younger ones who fight over it, so a verb meaning shun fits.
+VA17|19|The slot before 'has nothing to do with the view' needs a noun meaning the explanation.
+VA17|20|'Until whoever is beside them stands up' shows the pupil cannot get out, so an adjective meaning stuck fits.
+VA17|21|'Gives you ______ over when you leave' needs a noun meaning the power to decide.
+VA17|22|'Hardly' and the later 'it matters a great deal' show a present-tense verb meaning is important.
+VA17|23|Getting out is hard when the bus is full, so an adjective like 'crowded' or 'packed' fits.
+VA17|24|The change happens slowly across six years, so an adverb of manner is needed, not an adjective.
+VA17|25|'Has ______ this for twenty years' needs a past participle about observing; 'seen' would also fit.
+VA17|26|The little ones rush to take the window seat, so a present-tense verb meaning grab for themselves fits.
+VA17|27|These pupils are contrasted with 'the little ones', so a comparative adjective about age is needed.
+VA17|28|'Less a choice than a ______ they grow into' needs a noun for behaviour learnt over time.
+VA17|29|'Refuses a window ______' needs the noun the whole passage is about, matching 'window seat' earlier.
+VA17|30|After 'are simply' an '-ing' verb is needed, and thinking ahead about leaving is what they do.
+V2|2|The notice says residents "should use Lift A, which will continue to run as usual" while Lift B is replaced.
+V3|2|The P4 bar is labelled 240, so read straight across from the P4 row to its number.
+V4|1|The Day column for Comic Workshop reads "Tue & Thu", while every other programme lists only one day.
+V4|2|Story Explorers' Ages column says 4–7, so an eleven-year-old is too old for that session.
+V4|3|The Room column shows "L4 Studio" for both Comic Workshop and Robotics Taster.
+V4|4|The shaded box says places "are allocated by ballot, not by order of registration".
+V4|5|The shaded box says participants "must attend both Tuesday and Thursday sessions", so one day alone is not allowed.
+V4|6|The last line of the shaded box says children "aged 8 and below must be accompanied by an adult at all times".
+V4|7|The shading and the word "Important" make conditions like the two-day rule and the ballot hard to skip over.
+V4|8|The bottom line says ballot results "will be sent by email on 22 November", which is two days later.
+V5|1|The table's 119 row says "Withdrawn — replaced by 82", and its first bus and frequency are dashes.
+V5|2|The shaded box under "If you normally take Service 119" says to "Board Service 82 instead".
+V5|3|The same box says the journey to the interchange "will be about 6 minutes longer".
+V5|4|Read across the 84 row to the Peak frequency column, which shows "every 12 min".
+V5|5|The box says Compassvale Road passengers must "walk to Anchorvale Link (about 4 minutes) for Service 84".
+V5|6|The box about Service 119 says "the fare is unchanged", so nobody pays more.
+V5|7|Mentioning "a six-month study of passenger loads" shows the changes came from real data, not someone's guess.
+V5|8|The small print at the bottom gives "Feedback: transit.gov.sg/feedback" as the way to comment.
+V6|1|The subtitle calls it "a four-week challenge", and the Weeks row gives 6 May – 31 May.
+V6|3|The "Read this part carefully" box says measuring per pupil means "a small class has no advantage".
+V6|4|The same box says "Food brought from home does not count towards your class total".
+V6|5|The box says "Liquids must be poured into the grey drum before plates are scraped".
+V6|6|The same sentence warns that otherwise "the weight will be recorded against your class".
+V6|7|The Prize row says the class with the lowest waste per pupil "chooses the Term 3 excursion".
+V6|8|The last line says "Weekly results go up outside the general office every Monday".
+V7|1|The highest point on the line is 2022 at 20.4 books per pupil, just above 2021's 19.2.
+V7|3|After falling from 20.4 to 14.1 and then 9.0, the line rises again in 2025 to 10.2.
+V7|4|The note below says e-book loans are "not included" and "rose from 0 to 6.8 per pupil".
+V7|5|The last line says "Opening hours were reduced in 2024 after a staffing change", limiting borrowing chances.
+V7|7|Saying e-books are counted separately warns readers not to judge children's reading from the printed-book line alone.
+V7|8|The falling line, e-book loans rising to 6.8 and the shorter opening hours together show a shift plus less access.
+V8|1|Read across the Zone B row to the "Both ways" column, which gives $84.
+V8|3|The shaded box says "Pupils in Zone A who live within 700 m of the school are not eligible".
+V8|4|The shaded box says "There is no refund for days missed", so a week's absence changes nothing.
+V8|6|The line under the heading says the monthly fare is "payable by the 5th of each month".
+V8|7|The heading warns families to read the sibling half-price and eligibility rules first, so they do not pay the wrong amount.
+V9|1|The 4–6 bar is 1.3 hours, only 0.7 below the dashed "recommended limit 2h" line — the smallest gap.
+V9|3|The 13–15 bar reads 5.0 hours, and 5.0 − 2 = 3 hours above the dashed limit line.
+V9|4|The note below says figures are "self-reported by parents" who "underestimate by roughly 20%".
+V9|6|The last line says children with a bedroom screen averaged "1.6 hours more" daily "in every age group".
+V10|1|The line under the heading says "The lost property box is outside the general office".
+V10|2|The Open row of the table says "Recess and after school".
+V10|3|The "Not kept in the box" panel says water bottles "are washed and put on the blue rack by the canteen".
+V10|4|The same panel says watches and anything valuable are kept inside the office — "ask Mrs Selvam".
+V10|5|A lunchbox is a food container, and the panel says those "are thrown away at the end of each day".
+V10|6|The "Kept for" row says items stay "4 weeks, then donated".
+V10|7|The tip says "permanent marker, on the inside" — the notice wants a lasting mark, and inside surfaces are rubbed less.
+V10|8|The table tells the reader to bring "Your name and class", so it is speaking directly to children in the school.
+V11|2|The Ages row gives 10–14 for Adventure Camp, so a nine-year-old is a year too young.
+V11|3|Adventure Camp runs 8–12 Dec and Maker Camp 10–14 Dec, so the shared days are 10, 11 and 12 December.
+V11|5|The "Before you choose" box calls it a materials deposit "that is returned if no tools are damaged".
+V11|6|The box says Adventure Camp is cancelled for a red weather warning and "fees are refunded in full".
+V11|7|Its fee is $150 against $220, it has only 16 places, and places go "in order of registration".
+V11|8|The Times row gives 8.30 a.m. – 5 p.m. and the Fee row says "$220 (lunch included)".
+M|175|Use 'who' for a person, and no commas because the clause tells us which boy is meant.
+M|176|Use 'which' or 'that' for a thing, standing in for the pen as the object of 'gave'.
+M|177|'Whose' shows possession, because the mother belongs to the girl.
+M|178|'Where' is the relative word for a place, replacing 'here' in the second sentence.
+M|180|'Which' or 'that' replaces the thing being watched, so the clause sits right after 'film'.
+M|181|'When' is the relative word for a time, replacing 'on that day'.
+M|182|'Whom' is the object form for a person, because the man follows the preposition 'for'.
+M|183|'Who' is used for a person and here it is the subject doing the working.
+M|184|'Which' or 'that' replaces the cake, the thing your aunt baked, so no commas are needed.
+N|185|A positive statement takes a negative tag, and the tag copies the verb 'is' with the pronoun.
+N|186|A negative statement takes a positive tag, and the tag copies the auxiliary 'have'.
+N|187|There is no auxiliary in the statement, so a past-tense sentence borrows 'did' for the negative tag.
+N|188|Sentences beginning with 'Let's' always take this fixed tag, because they are suggestions.
+N|189|'I am' has no short negative of its own, so English uses this special tag form instead.
+N|191|A command has no subject or auxiliary, so it takes a tag asking the listener to agree.
+N|192|The statement is negative, so the tag turns positive and keeps 'there' as its subject.
+O|193|'Although' joins two ideas that contrast, so it starts a clause with a comma before the main one.
+O|194|'Despite' is a preposition, so it must be followed by an '-ing' form or a noun, never a clause.
+O|195|'Too' takes the pattern 'too + adjective + for someone + to + verb', dropping the repeated object.
+O|196|'So ... that' needs an adjective after 'so' and a full result clause after 'that'.
+O|197|'Such' goes before a noun phrase with 'a', while 'so' would go before an adjective alone.
+O|198|Starting with the object forces the passive, so use 'was' plus the past participle and drop 'someone'.
+O|199|Reported speech shifts 'will' to 'would', 'you' to 'me', and 'tomorrow' to 'the next day'.
+O|200|'Neither ... nor' joins the two subjects, and the verb turns positive because 'neither' already means not.
+O|201|'Not only ... but also' must link two matching parts, here the two things she does.
+O|203|'Unless' already means 'if not', so the 'not' is dropped from the verb after it.
+O|204|'It was not until' needs the time word next and 'that' before the rest of the sentence.
+O|205|'By' must be followed by an '-ing' verb, because it shows the method he used.
+O|206|Beginning with '-ing' turns the action into the subject, replacing the 'It is ... to' pattern.
+O|207|'So that' shows purpose, so it needs a subject plus 'could' before the verb.
+O|208|'Because of' is a preposition, so the clause must become a noun phrase with no verb.
+O|209|A reported question keeps normal word order, so the verb moves after the subject and shifts to past.
+O|210|'Prefer' is always followed by 'to', never 'than', when two things are compared.
+O|211|If nobody else is as tall, he must be the tallest, so use the superlative form.
+O|212|'Since' marks the starting point of something still going on, which needs the present perfect continuous.
+O|213|'Although' introduces the surprising contrast, so it opens the sentence with a comma after its clause.
+O|214|'So' takes the adjective and 'that' takes the whole result clause that follows.
+O|215|A reported negative order uses 'warned' plus the person plus 'not to' and the verb.
+O|216|'Too' needs 'for + somebody + to + verb', so 'so ... that' becomes this shorter pattern.
+O|217|Comparing with 'as ... as' after a negative subject says the same thing as the superlative.
+Q|1|'Well known' is always followed by the fixed preposition 'for' when giving the reason for fame.
+Q|2|The paragraph describes a daily habit, so use the present simple, and 'most of us' takes the plural form.
+Q|4|'Last month' places everything in the past, so the verb takes its past simple form.
+Q|6|A scorching sun and cheerful work clash, so a contrast linking word is needed here.
+Q|8|The harm depends on a condition, so a linking word introducing that condition fits the blank.
+Q|9|'The sea' is singular, so the present-tense verb must take the '-s' ending.
+Q|10|'Understand ... important it is' needs the question word that goes before an adjective in this pattern.
+Q|11|The clause gives extra information about a person and sits between commas, so a relative pronoun for people is needed.
+Q|13|'Every morning' shows a habit, and the singular 'she' makes the present-tense verb take '-s'.
+Q|14|'Teach me ... to bake' needs the question word that pairs with 'to' plus a verb.
+Q|15|The comparative 'easier' is always followed by 'than' before what it is compared with.
+Q|16|The word describes how she mixed, so the adjective must change into an adverb ending in '-ly'.
+Q|17|'While' shows two actions happening at once in the past, so use the past continuous.
+Q|18|'Filled' is followed by the fixed preposition 'with' before the thing that fills something.
+Q|19|Long adjectives form the superlative with 'most' after 'the', not with an '-est' ending.
+Q|20|'Proud' always takes the fixed preposition 'of' before the person or thing.
+R|1|The colon introduces what the parents chose, so a noun meaning a choice made fits; 'announcement' also works.
+R|2|The worried questions that follow show shock, so an adjective meaning very upset is needed.
+R|3|'However' later shows things improved, so the first days need the superlative of a difficult-meaning word.
+R|4|A phone is kept somewhere on you, so a word naming that place fits; 'hand' or 'bag' also work.
+R|5|Boredom needs a verb meaning to keep yourself entertained, and it must fit before 'myself with'.
+R|6|The good surprises that follow need an adjective meaning unexpected here.
+R|7|The novel had sat on the shelf for months, so a word meaning never read or opened fits.
+R|8|'My brother and I' shows two people building one thing, so a word meaning jointly is needed.
+R|9|Sitting round the table instead of on screens shows a past-tense verb meaning talked.
+R|10|'Much' before the blank needs a comparative, and losing the midnight screen improved his sleep.
+R|11|Falling asleep quickly leads to an adjective meaning rested on waking.
+R|12|The phones were handed back, so a past-tense verb meaning came to a close fits the week.
+R|13|'As excited as I had' needs a past participle about what he thought would happen.
+R|15|'Make a big ... to' is a fixed expression about causing a change.
+S|1|'Frantic' means wild with worry, which fits a child who has lost sight of her mother.
+S|2|'Sweltering' means unpleasantly hot, and 'Despite' tells us the heat was a problem, not mild.
+S|3|'Commended' means praised, while blamed, scolded and accused are all negative.
+S|4|'Sneaked' means moved quietly and secretly, unlike 'marched' or 'stomped', which are noisy.
+S|5|'Generous' means happy to share, which is shown by giving snacks away.
+S|6|'Exhausted' means completely worn out, the natural result of a four-hour hike.
+S|7|'Dilapidated' means old and falling apart, which explains the urgent repairs.
+S|8|'Hushed' means very soft and quiet, while 'booming' and 'shrill' would wake the baby.
+S|9|'Urged' means strongly encouraged, while 'forced' and 'dragged' wrongly suggest physical pressure.
+S|10|'Tactless' means speaking without thinking of feelings; the other three all mean polite.
+S|11|'Captivated' means held their attention completely, which a good magician does.
+S|12|'Philanthropic' means generous in giving to good causes, the opposite of 'miserly'.
+S|13|'Valour' means great bravery in danger, while the other three all mean fear.
+S|14|'Honoured' means kept a promise, proved by returning every cent; 'broke' means the opposite.
+S|15|'Flooded' means covered with water, while 'drained' means the water was taken away.
+S|16|'Reluctant' means unwilling, which fits someone slow to admit a mistake.
+S|17|'Evidence' means facts that prove something, unlike gossip or rumour, which are unproven talk.
+S|18|'Illegible' means impossible to read; 'legible' is the trap because it means the opposite.
+S|19|'Tirelessly' means working hard without stopping, which clearing storm debris needs.
+S|20|'Passion' means a very strong love for something, which explains the daily practice.
+T|1|'Deafening' means painfully loud, matching thunder strong enough to shake the windows.
+T|2|'Hesitated' means paused before acting, which matches 'for a moment'.
+T|3|'Drenched' means soaked right through, the result of running out into the rain.
+T|4|'Gathered' means came together in one place, which is what a crowd does.
+T|5|'Sheltered' means stayed under cover, protected from the rain.
+T|6|'Rummaged' means searched by moving things around inside, which suits hunting through a bag.
+T|7|An adverb is needed after 'Stepping', and a slippery floor calls for one meaning carefully.
+T|8|'Subsided' means grew weaker and died down, which storms do when they end.
+Y8|1|'Frightened' means afraid, the feeling of a small boy who cannot find his mother.
+Y8|2|'Thirsty' means needing a drink, which is what running about causes.
+Y8|3|'Unsafe' means not safe, which explains why crossing was not allowed.
+Y8|4|'Set the table' is the fixed phrase for laying out plates; 'sit' is only for people.
+Y8|5|'Cool' means become less hot, while 'boil' and 'burn' would make it hotter.
+Y8|6|'Cries' is the loud sound a hungry baby makes, unlike laughing or whispering.
+Y8|7|'Careful' means taking care not to break it; 'careless' means the opposite.
+Y8|8|'Soaked' means completely wet, which heavy rain makes you.
+Y8|9|'Kind' means caring and helpful, matching someone who helps anyone in need.
+Y8|10|'Neat' means tidy, which is the result of tidying up.
+Y8|11|'Noisy' means full of loud sound, which is why the teacher could not be heard.
+Y8|12|'Wag' is the special verb for the way a happy dog moves its tail.
+Y8|13|'Woke' is the past tense of 'wake', and 'wake up' pairs with 'up'.
+Y8|14|'Thrilled' means very excited and pleased, which fits winning first prize.
+Y8|15|'Tight' means firmly fixed and hard to turn; 'loose' would open easily.
+Y8|16|'Narrow' means not wide, describing a thin path through a forest.
+Y8|17|We 'tell' someone or a story, but we 'say' words, so 'told' fits before 'the story'.
+Y8|18|'Melt' means turn to liquid in heat, the opposite of 'freeze' or 'harden'.
+Y8|19|'Afraid' always pairs with 'of' and means scared of something.
+Y8|20|After 'Please' a command needs the base verb; 'clothes' and 'cloth' are nouns.
+Y8|21|'Sprinted' means ran very fast, which is how you cross the line first.
+Y8|22|A birthday present is 'given' to keep, while 'lent' things must be returned.
+Y8|23|You 'borrow' when you take something briefly, but the owner is the one who 'lends'.
+Y8|24|'Salty' means tasting of salt, which too much salt causes.
+Y8|25|'Patiently' means waiting calmly without getting annoyed, even for a late bus.
+VA10|1|'Swarm' goes with bees, and also with flies, locusts and other insects.
+VA10|2|'Pack' goes with wolves, and also with dogs, hounds and playing cards.
+VA10|3|'Pride' is used only for lions.
+VA10|4|'School' goes with fish, and also with whales, dolphins and porpoises.
+VA10|5|'Flock' goes with geese, and also with birds and sheep.
+VA10|6|'Herd' goes with cattle, and also with elephants, deer and buffaloes.
+VA10|7|'Colony' goes with ants, and also with bees, termites and penguins.
+VA10|8|'Troop' goes with monkeys, and also with baboons and soldiers.
+VA10|9|'Litter' means babies born together, so it goes with kittens, puppies and piglets.
+VA10|10|'Fleet' goes with ships, and also with lorries, taxis and aircraft.
+VA10|11|'Gang' goes with thieves, and also with robbers and labourers.
+VA10|12|'Band' goes with musicians, and is also used for a band of robbers.
+VA10|13|'Crew' goes with sailors, and also with the staff of a ship or aeroplane.
+VA10|14|'Cluster' goes with stars, and also with grapes, flowers and houses.
+VA10|15|'Bunch' goes with grapes, and also with bananas, flowers and keys.
+VA10|16|'Bouquet' is used for flowers arranged and tied as a gift.
+VA10|17|'Row' is used for things in a straight line, such as books, seats or houses.
+VA10|18|'Bunch' goes with keys held together, and also with grapes, bananas and flowers.
+VA10|19|'Team' goes with players, and also with horses or oxen working together.
+VA10|20|'Flock' goes with sheep, and also with birds and geese.
+VA10|22|'Loaf' is the whole baked shape of bread, before it is cut up.
+VA10|23|'Slice' is a thin piece cut from bread or cake, and 'three' makes it plural.
+VA10|24|'Grain' is one tiny piece, used for rice, and also for sand, wheat and salt.
+VA10|25|'Bar' goes with soap, and also with chocolate.
+VA10|27|Luggage cannot be counted, so it needs 'pieces', made plural after 'two'.
+VA10|28|'Pinch' is the amount held between finger and thumb, used for salt and pepper.
+VA10|29|'Glass' goes with water, and also with milk or juice.
+VA10|30|'Layer' is a covering spread over a surface, used for dust, paint or snow.
+K|151|The object moves to the front, 'chased' becomes 'was chased', and the old subject follows 'by'.
+K|153|The present continuous becomes 'are being' plus the past participle, and the papers move to the front.
+K|154|After 'will' comes 'be' plus the past participle, and the vague 'they' is simply left out.
+K|155|The past perfect keeps 'had' but adds 'been' before the past participle, and the window moves to the front.
+K|156|The cake becomes the subject, 'baked' becomes 'was baked', and Mother moves behind 'by'.
+K|158|With two objects, either one may become the subject, so both rewritings work; 'to' is needed before 'me'.
+K|160|'People' is a general agent, so it drops out, and 'speak' becomes 'is spoken' to match the new subject.
+K|161|Going back to active, the 'by' agent becomes the subject, 'was written' shrinks to 'wrote', and 'by' disappears.
+K|162|The 'by' agent becomes the subject, 'were planted' becomes the plain past, and the trees move to the end.
+J|143|Inverted commas enclose the spoken words, the question mark goes inside them, and 'Mother' as a name is capitalised.
+J|144|A comma, placed inside the closing inverted commas, separates the spoken words from 'said Siti'.
+J|145|A shout takes an exclamation mark, which goes inside the inverted commas, so no comma is added.
+J|146|Commas separate the items in a list, but no comma is needed before the final 'and'.
+J|148|An apostrophe replaces the missing 'o' in 'do not', and the comma sits inside the inverted commas.
+J|150|A pair of commas encloses the extra description of Mr Tan, and another comma separates the day from the date.
+L|163|'I' becomes 'he', 'am' shifts back to 'was', and the inverted commas go; 'that' is optional.
+L|166|A yes/no question needs 'whether' or 'if', the words take statement order, and the question mark goes.
+L|167|An order becomes 'told' plus a person plus 'to' with the verb, so no tense shift is needed.
+L|169|The simple past shifts back to the past perfect 'had finished', and 'yesterday' becomes 'the day before'.
+L|170|A polite request becomes 'asked' plus a person plus 'to', 'please' drops out, and 'me' becomes 'her'.
+L|171|A suggestion takes 'suggested' with an -ing verb, or 'suggested that we should', so either rewriting is accepted.
+L|172|Exclamations are reported with 'exclaimed that', the exclamation mark goes, and 'is' shifts back to 'was'.
+L|174|'Can' shifts back to 'could' and 'I' becomes 'he', because the reporting verb is in the past.
+Y6|9|A pair of commas encloses the extra description of Mrs Tan, and her title and name take capital letters.
+Y6|11|The question mark belongs inside the inverted commas, and 'Father' used as a name takes a capital letter.
+Y6|17|Split speech needs inverted commas round both halves, with a comma before 'Mother said' and another after it.
+Y6|18|A comma inside the closing inverted commas separates the speech from 'said the nurse', and 'Dr Lim' takes capitals.
+Y6|19|Commas separate the places listed, no comma comes before the final 'and', and each country needs a capital.
+GA7|4|After 'will' comes 'be' plus the past participle, and the vague 'they' need not be named.
+GA7|6|The present continuous becomes 'is being' plus the past participle, with Mother moving behind 'by'.
+GA7|10|'People' is a general agent, so it disappears, and 'grow' becomes 'is grown' to match 'rice'.
+GA7|11|The present perfect keeps 'have' but adds 'been', and 'have' is plural to match 'all the papers'.
+GA7|13|The present continuous becomes 'is being built', and the vague 'they' is left out altogether.
+GA7|14|'Several roofs' is plural, so the verb becomes 'were damaged', and the storm moves behind 'by'.
+GA7|15|After a modal like 'can' comes 'be' plus the past participle, and 'we' can be dropped.
+GA7|16|'Someone' is unknown, so it drops out, and 'left' becomes 'was left' before 'running'.
+GA7|17|The present perfect adds 'been' after 'have', which stays plural to match 'forty saplings'.
+GA7|18|The simple present becomes 'are repaired', plural to match 'watches', with my uncle following 'by'.
+GA7|20|The present continuous becomes 'are being considered', plural to match 'three proposals', with the committee after 'by'.
+GA7|21|The 'by' agent becomes the subject, 'was written' shrinks to 'wrote', and 'by' is dropped.
+GA7|22|The 'by' agent becomes the subject, 'were planted' becomes the simple past, and the trees move to the end.
+GA7|23|The agent becomes the subject, 'been' is removed, and 'has' becomes 'have' to match 'the boys'.
+GA7|24|The agent becomes the subject, and 'will be released' loses 'be' and the participle, becoming 'will release'.
+GA7|25|'Was being decorated' becomes the past continuous 'was decorating', with my sister as the new subject.
+GA7|26|'Is swept' becomes the plain present 'sweep', plural to match 'the cleaners', and 'every morning' stays at the end.
+GA7|27|Nadia becomes the subject, 'was told' becomes 'told', and 'I' becomes the object 'me'.
+GA7|28|After the modal 'must', 'be completed' becomes the plain verb 'complete', with the applicants as subject.
+GA7|29|The agent becomes the subject, and 'had been stolen' loses 'been', leaving the past perfect 'had stolen'.
+GA8|5|The present perfect 'have lost' shifts back to 'had lost', 'my' becomes 'his', and 'that' is optional.
+GA8|6|'Can' shifts back to 'could' and 'I' becomes 'he', since the words are reported later.
+GA8|7|'May' shifts back to 'might', and 'I' becomes 'she' to match the speaker.
+GA8|10|The question word 'when' stays, the words take statement order, 'did arrive' shifts to 'had arrived', and the question mark goes.
+GA8|12|A yes/no question needs 'whether' or 'if', 'have eaten' shifts to 'had eaten', and statement order replaces the question mark.
+GA8|13|The question word 'why' stays, 'are you laughing' becomes the statement order 'I was laughing', and the question mark goes.
+GA8|18|Exclamations are reported with 'exclaimed that', 'What a' is dropped, and 'is' shifts back to 'was'.
+GA8|20|The simple past shifts back to the past perfect 'had seen', and 'last week' becomes 'the week before'.
+GA8|21|'Am going' shifts back to 'was going', and 'next month' becomes 'the following month'.
+GA8|22|A negative order becomes 'told' plus a person plus 'not to', so no tense shift happens.
+GA8|23|'How much' stays, the helper 'does' disappears, and the verb shifts back to the past in statement order.
+GA8|24|The present perfect shifts back to 'had been', 'never' keeps its place, and 'I' becomes 'she'.
+GA8|25|An order becomes 'reminded' plus a person plus 'to', and 'your' becomes 'our'.
+GA8|26|'Who' is the subject, so the word order stays, 'broke' shifts to 'had broken', and 'to know' follows 'demanded'.
+GA8|27|'Did not take' shifts back to 'had not taken', and 'I' becomes 'he' after the reporting verb.
+GA8|28|'Congratulations' becomes the verb 'congratulated', which needs a person straight after it, and 'your' becomes 'my'.
+GA8|29|An apology becomes 'apologised for' plus an -ing verb, so 'forgot' turns into 'forgetting'.
+GA9|1|'Who' replaces 'she' and the clause slots in straight after 'the woman', with no commas as it says which woman.
+GA9|7|'Whom' replaces the object 'him' and moves to the front of its clause; 'who' or 'that' is also acceptable.
+GA9|8|'Who' replaces 'he' because a person is described, and the clause follows 'brother' with no commas.
+GA9|9|'Which' replaces the object 'it' for a thing and moves to the front of its clause; 'that' also works.
+GA9|10|'Whose' replaces 'its' to show possession, and it sits directly before the thing owned.
+GA9|11|'Which' replaces 'it' for a thing, and the clause sits between 'the bus' and 'was full'.
+GA9|12|'Whose' replaces 'her' to show possession and comes immediately before 'bicycle'.
+GA9|13|'Which' replaces the object 'it', which is then not repeated; 'that' is equally acceptable.
+GA9|15|'Where' replaces 'here' because the noun is a place, so no preposition is needed.
+GA9|16|'Who' replaces 'they' for people, and the clause goes between 'the pupils' and 'were praised'.
+GA9|17|'Which' replaces the object 'it', so 'it' is not repeated later in the clause.
+GA9|19|'Who' replaces 'she' for a person, and after 'the only' either 'who' or 'that' is used.
+GA9|20|'Whose' replaces 'her' to show possession, and it comes straight before 'son'.
+GA9|21|'Which' replaces 'it', so the clause splits the main sentence between 'the letter' and 'arrived today'.
+GA9|22|'Who' replaces 'he' for a person, and the clause follows the noun it describes.
+GA9|23|'Which' replaces 'it' for a thing, and the clause sits right after 'the road'.
+GA9|24|The clause adds extra information instead of saying which cousin, so a pair of commas encloses it.
+GA9|26|'Whose' replaces 'her' to show possession, and the whole clause comes before the main verb.
+GA9|27|'Which' replaces the object 'it', which is then dropped; 'that' is equally correct.
+GA9|28|'Whose' replaces 'their' to show possession, so 'ladder' follows immediately and 'their' disappears.
+GA9|29|'When' is used because the noun is a time, and it replaces 'that year' in the clause.
+GA12|3|The fragment has no subject or main verb, so a complete clause must be added after the comma.
+GA12|4|Two complete sentences are run together, so a comma and a joining word such as 'so' are needed.
+GA12|5|'Although' opens a subordinate clause, which cannot stand alone, so a main clause must follow the comma.
+GA12|6|A comma alone cannot join two sentences, so a joining word such as 'so' must be added after it.
+GA12|9|A clause beginning with 'which' must attach to a main clause, so a sentence for it to describe comes first.
+GA12|10|A comma alone cannot join two complete sentences, so 'and' must be added, or a full stop used instead.
+GA12|11|One clause becomes subordinate with 'when', and the two remaining actions share one subject joined by 'and'.
+GA12|12|'Because' turns the first sentence into a subordinate reason clause, and a comma follows it when it comes first.
+GA12|13|The fragment has no subject or verb, so 'there was' is added and 'such' needs a 'that' result clause.
+GA12|14|Two complete sentences are run together, so 'and' must join them where the second subject begins.
+GA12|15|'Barking loudly' wrongly describes 'I', so the dog must become the subject of its own clause.
+GA12|16|An infinitive phrase is not a sentence, so a subject and main verb must be put in front of it.
+GA12|17|Two sentences are run together, and because the ideas contrast, a comma plus 'but' joins them.
+GA12|18|'Who' replaces 'she', and the relative clause goes straight after 'the girl' with no commas.
+GA12|19|'After' makes this a subordinate clause, which cannot stand alone, so a main clause must follow the comma.
+GA12|20|The comma splice is mended by making the first clause subordinate with 'although', since the two ideas contrast.
+GA12|25|A comma cannot join two sentences, so 'when' turns the first one into a subordinate time clause.
+GA12|26|'Even though' begins a subordinate clause, so a main clause must be placed in front of it.
+GA12|27|The two sentences must be separated by a comma, and 'but' is needed because the ideas contrast.
+GA12|28|'Which' replaces 'it', and the relative clause goes after 'the book', before the main verb.
+GA12|30|'Although' makes the first clause subordinate, which removes the comma splice and shows the surprising contrast.
+V|4|'So' goes before the adjective and 'that' introduces the result, so the two sentences become one.
+V|8|'Because' opens the reason clause, and a comma is needed because that clause comes first.
+V|10|'By the time' opens the clause in the simple past, while the earlier action keeps the past perfect 'had left'.
+V|13|'As soon as' already shows one action followed the other immediately, so 'immediately' is no longer needed.
+V|16|The comparative 'spicier' becomes the superlative 'spiciest', and 'never' turns into 'ever'.
+V|18|'Only after' goes before the condition, which shifts to the past perfect 'had finished' as it happened first.
+V|19|The cause becomes the adjective after 'so' and the result follows 'that', so the two sentences swap places.
+V|23|'Unless' already means 'if not', so its clause stays positive and 'must' and 'otherwise' are dropped.
+V|24|'Who' replaces 'he' and the clause goes straight after 'the boy', while the main verb stays passive.
+V|27|'In order to' shows purpose, so 'wanted to' is dropped and the second part needs no subject.
+V|30|'It was not until' takes the time, 'that' introduces what then happened, and 'only' is dropped.
+V|31|'Even though' opens the contrast clause, a comma follows it, and the main clause keeps 'still'.
+V|36|'Too … to' becomes 'so … that', which needs a new subject and a negative verb like 'cannot'.
+V|38|The object becomes the subject, so 'have not repaired' becomes 'has not been repaired' to match 'escalator'.
+V|41|'The moment' works like 'as soon as', so it opens the first clause and 'at once' is dropped.
+V|44|'Although' opens the contrast clause, and a comma separates it from the main clause that follows.
+V|46|'Too' needs the pattern 'too + adjective + for + person + to + verb', and 'grandfather's' takes an apostrophe.
+V|47|The phrase replaces the second sentence, needs an apostrophe before the 's', and is followed by a comma.
+V|49|After a negative, the superlative becomes an 'as … as' comparison, so 'tallest' changes back to 'tall'.
+Z1|1|'Too + adjective + for + person + to + verb' replaces 'could not', so the negative word disappears.
+Z1|2|'Because' opens the reason clause, and a comma follows it because it stands first in the sentence.
+Z1|5|'Whose' replaces 'her' to show possession, and the clause sits between 'the girl' and the main verb.
+Z1|8|'The moment' means 'as soon as', so it opens the first clause and 'immediately' is dropped.
+Z1|9|An order becomes 'told' plus the listeners plus 'to', 'your' becomes 'their', and the inverted commas go.
+Z1|11|'By the time' opens the clause about arriving, while the earlier action keeps the past perfect 'had begun'.
+Z1|12|A negative comparison becomes a superlative, so 'better' changes to 'the best' and 'nobody' is dropped.
+Z1|13|'By' must be followed by an -ing verb, so 'saved' becomes 'saving' and its subject is dropped.
+Z1|15|'Unless' means 'if not', so its clause stays positive while 'must' and 'otherwise' are dropped.
+Z1|16|'So' goes before the adjective and 'that' introduces the result, making one sentence out of two.
+Z1|17|The object becomes the subject, so 'have not announced' becomes 'have not been announced'.
+Z1|18|'It was not until' takes the time clause and 'that' introduces the action, so 'only' is dropped.
+Z1|20|'Too + adjective + to + verb' replaces the result clause, so 'could not' disappears.
+Z1|21|'So that' shows purpose and needs a subject and a modal like 'could' after it.
+Z1|23|'Such' goes before 'a' and the whole noun phrase, not the adjective alone, and 'that' introduces the result.
+Z1|26|The learning still continues, so the present perfect continuous with 'for five years' replaces 'five years ago'.
+Z1|27|'Although' opens the contrast clause, a comma follows it, and the main clause keeps 'still'.
+Z1|31|'Because of' must be followed by a noun phrase, not a clause, so the verb disappears.
+Z1|33|'Where' replaces 'here' because the noun is a place, so no preposition is needed.
+Z1|35|'So' goes before 'heavy' and 'that' introduces the result, joining the two sentences into one.
+Z1|37|'Not only' goes before the first subject and 'but also' before the second, and the verb stays plural.
+Z1|39|'Because' introduces the reason, and no comma is needed when the reason clause comes second.
+Z1|40|'Too … for … to' replaces the negative result, so 'nobody' becomes 'anybody' after 'for'.
+Z1|42|'Despite' must be followed by a noun or an -ing verb, so 'broke down' becomes 'breaking down'.
+Z1|43|A negative order becomes 'warned' plus the listeners plus 'not to', and the inverted commas are removed.
+Z1|44|'So' goes before 'difficult' and 'that' introduces the result, while 'even' adds emphasis before 'my father'.
+Z1|45|The 'as … as' comparison after a negative becomes a superlative, so 'popular' changes to 'the most popular'.
+Z1|46|'Even though' opens the contrast clause, a comma follows it, and the main clause keeps 'still'.
+Z1|48|'Such' comes before the whole noun phrase 'a slow queue', and 'that' introduces the result.
+Z1|49|'In order to' shows purpose, so 'wanted to' is dropped and no new subject is needed.

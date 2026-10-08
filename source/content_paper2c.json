@@ -1,0 +1,836 @@
+{
+ "visualText": {
+  "id": "vtE",
+  "title": "Bus Service Changes",
+  "level": "P6",
+  "html": "<div style=\"font-family:system-ui,sans-serif;background:#F7F4EE;color:#241F17;border:2px solid #241F17;border-radius:8px;padding:20px 22px;max-width:540px\"><div style=\"display:flex;justify-content:space-between;font-size:11px;letter-spacing:.14em;border-bottom:2px solid #241F17;padding-bottom:8px\"><span>NORTH EAST TRANSIT</span><span>EFFECTIVE 1 MARCH</span></div><div style=\"font-size:25px;font-weight:800;margin:14px 0 12px;line-height:1.1\">Changes to Services 82, 84 and 119</div><table style=\"width:100%;border-collapse:collapse;font-size:13.5px\"><thead><tr><th style=\"text-align:left;padding:7px 8px;border-bottom:1.5px solid #241F17\">Service</th><th style=\"text-align:left;padding:7px 8px;border-bottom:1.5px solid #241F17\">Change</th><th style=\"text-align:left;padding:7px 8px;border-bottom:1.5px solid #241F17\">First bus</th><th style=\"text-align:left;padding:7px 8px;border-bottom:1.5px solid #241F17\">Peak frequency</th></tr></thead><tbody><tr><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\"><b>82</b></td><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\">Extended to Riverbank Ave</td><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\">5.50 a.m.</td><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\">every 8 min</td></tr><tr><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\"><b>84</b></td><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\">No longer serves Compassvale Rd</td><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\">6.10 a.m.</td><td style=\"padding:7px 8px;border-bottom:1px solid #DAD3C6\">every 12 min</td></tr><tr><td style=\"padding:7px 8px\"><b>119</b></td><td style=\"padding:7px 8px\">Withdrawn &mdash; replaced by 82</td><td style=\"padding:7px 8px\">&mdash;</td><td style=\"padding:7px 8px\">&mdash;</td></tr></tbody></table><div style=\"background:#EFE7D6;border-left:4px solid #A8842C;padding:12px 14px;margin:15px 0;font-size:13px;line-height:1.6\"><b>If you normally take Service 119</b><br>Board Service 82 instead. Your journey to the interchange will be about 6 minutes longer, but the fare is unchanged. Concession card holders are not affected.<br><br><b>If you board at Compassvale Road</b><br>Walk to Anchorvale Link (about 4 minutes) for Service 84, or take Service 82 from the same stop.</div><div style=\"font-size:12.5px;line-height:1.6\">Printed timetables will be displayed at all affected stops from 22 February. Feedback: <b>transit.gov.sg/feedback</b>. Changes were made after a six-month study of passenger loads.</div></div>",
+  "questions": [
+   {
+    "n": 1,
+    "q": "Which service will no longer run at all?",
+    "options": [
+     "82",
+     "84",
+     "119",
+     "None of them"
+    ],
+    "correct": 2
+   },
+   {
+    "n": 2,
+    "q": "A passenger who used Service 119 should now take which bus?",
+    "options": [
+     "84",
+     "82",
+     "A taxi",
+     "Any of them"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 3,
+    "q": "What will happen to that passenger's journey time?",
+    "options": [
+     "It will be about 6 minutes shorter",
+     "It will be unchanged",
+     "It will be about 6 minutes longer",
+     "It will double"
+    ],
+    "correct": 2
+   },
+   {
+    "n": 4,
+    "q": "How often does Service 84 run during peak hours?",
+    "options": [
+     "Every 8 minutes",
+     "Every 12 minutes",
+     "Every 6 minutes",
+     "It does not say"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 5,
+    "q": "Someone boards at Compassvale Road and must take Service 84. What must she do?",
+    "options": [
+     "Wait longer at the same stop",
+     "Walk about four minutes to Anchorvale Link",
+     "Buy a new concession card",
+     "Board Service 119"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 6,
+    "q": "What does the notice say about fares for former Service 119 passengers?",
+    "options": [
+     "They will rise slightly",
+     "They stay the same",
+     "They will fall",
+     "Only concession holders pay more"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 7,
+    "q": "Why does the notice mention the six-month study at the end?",
+    "options": [
+     "To fill space",
+     "To show the changes were based on evidence rather than guesswork",
+     "To advertise the transit company",
+     "To explain the delay"
+    ],
+    "correct": 1
+   },
+   {
+    "n": 8,
+    "q": "A resident wants to complain about the withdrawal of Service 119. What does the notice tell her to do?",
+    "options": [
+     "Call the interchange",
+     "Write to her Member of Parliament",
+     "Use the feedback website",
+     "Wait until 22 February"
+    ],
+    "correct": 2
+   }
+  ]
+ },
+ "paper": {
+  "id": "paper2c",
+  "title": "Mock Paper 2C · Language Use and Comprehension",
+  "totalMarks": 95,
+  "minutes": 110,
+  "note": "The third and hardest of the three Paper 2s. Sit this one closest to the exam.",
+  "sections": [
+   {
+    "id": "A1",
+    "name": "Booklet A · Grammar",
+    "marks": 10,
+    "mode": "mcq",
+    "instruction": "Choose the most suitable answer.",
+    "questions": [
+     {
+      "n": 1,
+      "q": "A collection of rare stamps ______ donated to the museum last year.",
+      "options": [
+       "were",
+       "are",
+       "was",
+       "have been"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 2,
+      "q": "No sooner ______ the announcement than the hall fell silent.",
+      "options": [
+       "they heard",
+       "had they heard",
+       "did they hear",
+       "they had heard"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 3,
+      "q": "The committee could not agree ______ a suitable date.",
+      "options": [
+       "with",
+       "to",
+       "on",
+       "for"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 4,
+      "q": "She insisted on ______ the bill herself.",
+      "options": [
+       "settle",
+       "to settle",
+       "settling",
+       "settled"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 5,
+      "q": "Had I known about the change, I ______ left earlier.",
+      "options": [
+       "will have",
+       "would have",
+       "had",
+       "would"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 6,
+      "q": "Few of the volunteers ______ willing to work on a public holiday.",
+      "options": [
+       "was",
+       "is",
+       "were",
+       "has been"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 7,
+      "q": "The exhibition, ______ opened in June, has already attracted thousands.",
+      "options": [
+       "that",
+       "which",
+       "who",
+       "what"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 8,
+      "q": "He talks as though he ______ the only person who understands the problem.",
+      "options": [
+       "is",
+       "was",
+       "were",
+       "has been"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 9,
+      "q": "Not a single mistake ______ found in her entire essay.",
+      "options": [
+       "were",
+       "was",
+       "have been",
+       "are"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 10,
+      "q": "By the time the guests arrive, we ______ everything.",
+      "options": [
+       "prepare",
+       "will prepare",
+       "will have prepared",
+       "would prepare"
+      ],
+      "correct": 2
+     }
+    ]
+   },
+   {
+    "id": "A2",
+    "name": "Booklet A · Vocabulary",
+    "marks": 5,
+    "mode": "mcq",
+    "instruction": "Choose the most suitable word.",
+    "questions": [
+     {
+      "n": 11,
+      "q": "The coach's criticism was harsh, but it was not __________ — every point he made was fair.",
+      "options": [
+       "accurate",
+       "unjustified",
+       "detailed",
+       "public"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 12,
+      "q": "After three failed attempts, his confidence began to __________.",
+      "options": [
+       "soar",
+       "waver",
+       "harden",
+       "expand"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 13,
+      "q": "The library's __________ silence was broken by a single dropped book.",
+      "options": [
+       "noisy",
+       "cheerful",
+       "profound",
+       "brief"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 14,
+      "q": "She is admired for her __________; she treats every pupil exactly the same.",
+      "options": [
+       "favouritism",
+       "impartiality",
+       "impatience",
+       "indifference"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 15,
+      "q": "The evidence was too __________ to convince anyone.",
+      "options": [
+       "overwhelming",
+       "conclusive",
+       "flimsy",
+       "detailed"
+      ],
+      "correct": 2
+     }
+    ]
+   },
+   {
+    "id": "A3",
+    "name": "Booklet A · Vocabulary Cloze",
+    "marks": 5,
+    "mode": "mcq",
+    "passage": "My uncle repairs watches in a shop no bigger than a wardrobe. The work requires a (16)______ that I have never possessed: he can sit with a loupe pressed to his eye for two hours without once shifting in his chair. Customers sometimes bring him watches that are worth almost nothing, and he will spend an afternoon on them all the same, because, as he puts it, the value of the object and the value of the (17)______ are two different things. Last year a large chain offered to buy his shop. He (18)______ without appearing to think about it for more than a second. When I asked why, he said that he had spent forty years becoming (19)______ at one small thing, and that he did not intend to spend his last working years becoming (20)______ at something else.",
+    "instruction": "Read the passage and choose the most suitable word for each blank.",
+    "questions": [
+     {
+      "n": 16,
+      "q": "Blank 16",
+      "options": [
+       "patience",
+       "curiosity",
+       "strength",
+       "talent"
+      ],
+      "correct": 0
+     },
+     {
+      "n": 17,
+      "q": "Blank 17",
+      "options": [
+       "shop",
+       "repair",
+       "customer",
+       "chain"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 18,
+      "q": "Blank 18",
+      "options": [
+       "agreed",
+       "hesitated",
+       "declined",
+       "apologised"
+      ],
+      "correct": 2
+     },
+     {
+      "n": 19,
+      "q": "Blank 19",
+      "options": [
+       "adequate",
+       "excellent",
+       "interested",
+       "famous"
+      ],
+      "correct": 1
+     },
+     {
+      "n": 20,
+      "q": "Blank 20",
+      "options": [
+       "expert",
+       "mediocre",
+       "wealthy",
+       "busy"
+      ],
+      "correct": 1
+     }
+    ]
+   },
+   {
+    "id": "A4",
+    "name": "Booklet A · Visual Text",
+    "marks": 8,
+    "mode": "mcq",
+    "visual": "vtE",
+    "instruction": "Study the notice and answer the questions.",
+    "useVisual": true
+   },
+   {
+    "id": "B1",
+    "name": "Booklet B · Grammar Cloze",
+    "marks": 10,
+    "mode": "auto",
+    "instruction": "Fill each blank with one suitable word.",
+    "passage": "For three years my sister kept a diary that nobody in the family (1)______ allowed to read. It sat on her shelf in plain view, which I always thought was a strange place (2)______ hide something.\n\nWhen she left for university, she took almost everything (3)______ the diary. I found it while clearing the room, and I confess that I sat on the floor with it in my hands (4)______ a very long time.\n\nI did not open it. I would like to say this was because I am an honourable person, (5)______ the truth is simpler: I was afraid of what I might find about myself.\n\nTwo months later she came home for the holidays. I told her the diary was still there, and that I (6)______ (not read) it. She looked at me for a moment and then laughed.\n\n\"There is nothing in it,\" she said. \"I stopped writing (7)______ 2019. I only kept it on the shelf (8)______ that you would think there was something worth hiding.\"\n\nI have never been sure (9)______ she was telling the truth. Knowing my sister, it is entirely possible that the diary is full, and that this was simply the most efficient way of making certain (10)______ would never open it.",
+    "answers": [
+     {
+      "n": 1,
+      "a": [
+       "was"
+      ],
+      "tip": "Passive: 'nobody was allowed'."
+     },
+     {
+      "n": 2,
+      "a": [
+       "to"
+      ],
+      "tip": "'A strange place to hide something.'"
+     },
+     {
+      "n": 3,
+      "a": [
+       "except",
+       "but",
+       "besides"
+      ],
+      "tip": "She left the diary behind."
+     },
+     {
+      "n": 4,
+      "a": [
+       "for"
+      ],
+      "tip": "Duration."
+     },
+     {
+      "n": 5,
+      "a": [
+       "but"
+      ],
+      "tip": "Contrast."
+     },
+     {
+      "n": 6,
+      "a": [
+       "had not read",
+       "hadn't read",
+       "did not read"
+      ],
+      "tip": "Reported speech shifts back."
+     },
+     {
+      "n": 7,
+      "a": [
+       "in"
+      ],
+      "tip": "A year takes 'in'."
+     },
+     {
+      "n": 8,
+      "a": [
+       "so"
+      ],
+      "tip": "'So that' — purpose."
+     },
+     {
+      "n": 9,
+      "a": [
+       "whether",
+       "if"
+      ],
+      "tip": "Indirect yes/no question."
+     },
+     {
+      "n": 10,
+      "a": [
+       "I",
+       "nobody"
+      ],
+      "tip": "'Making certain I would never open it.'"
+     }
+    ]
+   },
+   {
+    "id": "B2",
+    "name": "Booklet B · Editing",
+    "marks": 12,
+    "mode": "edit",
+    "instruction": "There is one spelling or grammar error in each numbered line. Write the correction.",
+    "questions": [
+     {
+      "n": 1,
+      "q": "Our school hold an annual talent show at the end of Term Three.",
+      "a": [
+       "holds"
+      ],
+      "m": "holds",
+      "tip": "The error was “hold”. Singular subject."
+     },
+     {
+      "n": 2,
+      "q": "This year, over forty pupil auditioned for just twelve places.",
+      "a": [
+       "pupils"
+      ],
+      "m": "pupils",
+      "tip": "The error was “pupil”. Plural after 'over forty'."
+     },
+     {
+      "n": 3,
+      "q": "My friend Nadia and me decided to perform a duet.",
+      "a": [
+       "I"
+      ],
+      "m": "I",
+      "tip": "The error was “me”. It is part of the subject."
+     },
+     {
+      "n": 4,
+      "q": "We practised every lunchtime for a month, which were exhausting.",
+      "a": [
+       "was"
+      ],
+      "m": "was",
+      "tip": "The error was “were”. 'Which' refers to the practising."
+     },
+     {
+      "n": 5,
+      "q": "On the day of the audition, my hands was shaking uncontrollably.",
+      "a": [
+       "were"
+      ],
+      "m": "were",
+      "tip": "The error was “was”. 'Hands' is plural."
+     },
+     {
+      "n": 6,
+      "q": "Nadia, who is far more confident than me, whispered that I should breath slowly.",
+      "a": [
+       "breathe"
+      ],
+      "m": "breathe",
+      "tip": "The error was “breath”. The verb is 'breathe'."
+     },
+     {
+      "n": 7,
+      "q": "Her advise turned out to be exactly right.",
+      "a": [
+       "advice"
+      ],
+      "m": "advice",
+      "tip": "The error was “advise”. The noun is 'advice'."
+     },
+     {
+      "n": 8,
+      "q": "We got through the audition and was told the results a week later.",
+      "a": [
+       "were"
+      ],
+      "m": "were",
+      "tip": "The error was “was”. 'We' takes 'were'."
+     },
+     {
+      "n": 9,
+      "q": "Unfortunately, only one of us were chosen.",
+      "a": [
+       "was"
+      ],
+      "m": "was",
+      "tip": "The error was “were”. 'One of us' is singular."
+     },
+     {
+      "n": 10,
+      "q": "I will not pretend that I was not disapointed.",
+      "a": [
+       "disappointed"
+      ],
+      "m": "disappointed",
+      "tip": "The error was “disapointed”. Spelling — double p."
+     },
+     {
+      "n": 11,
+      "q": "However, Nadia insisted that I helped her with the choreography.",
+      "a": [
+       "help"
+      ],
+      "m": "help",
+      "tip": "The error was “helped”. 'Insisted that' takes the base form."
+     },
+     {
+      "n": 12,
+      "q": "On the night of the show, I clap more loudly than anyone else in the hall.",
+      "a": [
+       "clapped"
+      ],
+      "m": "clapped",
+      "tip": "The error was “clap”. The whole account is in the past tense."
+     }
+    ]
+   },
+   {
+    "id": "B3",
+    "name": "Booklet B · Comprehension Cloze",
+    "marks": 15,
+    "mode": "auto",
+    "instruction": "Fill each blank with one suitable word.",
+    "passage": "The Man Who Counted Birds\n\nEvery morning for thirty-one years, Mr Sivaraman walked the same two-kilometre stretch of the park connector and wrote down every bird he (1)______. He did this in a series of small notebooks, in pencil, in handwriting that grew steadily less (2)______ as the decades passed.\n\nHe was not a scientist. He had been a bus (3)______ until he retired at sixty. He began counting birds, he once told my father, because after forty years of driving he found that he could not simply (4)______ walking without also doing something.\n\nFor most of those thirty-one years, nobody paid the slightest (5)______. He was the elderly man with the notebook, and people nodded at him without stopping.\n\nThen, in 2019, a research team from the university put out an appeal for historical records of urban bird (6)______. They were trying to establish how the building of the new estate had affected local species, and they had almost no data from (7)______ the estate was built.\n\nMr Sivaraman brought them fourteen notebooks in a plastic bag.\n\nThe team spent eight months entering his observations into a database. What they found was that three species had (8)______ from the area entirely within four years of construction, and that two others had (9)______ in number by more than half. Without his notebooks, none of this could have been (10)______, because no official survey had been carried out before the work began.\n\nHe was invited to the university to be (11)______ for his contribution. By all accounts he was deeply uncomfortable throughout the ceremony and left as soon as it was (12)______ polite to do so.\n\nMr Sivaraman died last year, at eighty-four. The park connector now has a small (13)______ near the entrance with his name on it, and a line explaining what he did.\n\nI walk past it most weekends. What strikes me is not that his notebooks turned out to be (14)______ — that was luck. What strikes me is that he filled fourteen of them without any expectation that they ever would be, which seems to me a far rarer sort of (15)______.",
+    "answers": [
+     {
+      "n": 1,
+      "a": [
+       "saw",
+       "spotted",
+       "observed",
+       "noticed"
+      ],
+      "tip": "Past tense, matching 'wrote down'."
+     },
+     {
+      "n": 2,
+      "a": [
+       "legible",
+       "readable",
+       "neat",
+       "steady"
+      ],
+      "tip": "Handwriting worsening with age."
+     },
+     {
+      "n": 3,
+      "a": [
+       "driver",
+       "captain"
+      ],
+      "tip": "His job before retirement — the next paragraph mentions driving."
+     },
+     {
+      "n": 4,
+      "a": [
+       "go",
+       "start",
+       "take",
+       "enjoy"
+      ],
+      "tip": "He could not just walk without a purpose."
+     },
+     {
+      "n": 5,
+      "a": [
+       "attention",
+       "notice",
+       "heed"
+      ],
+      "tip": "'Paid the slightest attention.'"
+     },
+     {
+      "n": 6,
+      "a": [
+       "populations",
+       "numbers",
+       "sightings",
+       "species"
+      ],
+      "tip": "What the researchers needed records of."
+     },
+     {
+      "n": 7,
+      "a": [
+       "before"
+      ],
+      "tip": "They lacked data from the period preceding construction."
+     },
+     {
+      "n": 8,
+      "a": [
+       "disappeared",
+       "vanished",
+       "gone"
+      ],
+      "tip": "The species left entirely."
+     },
+     {
+      "n": 9,
+      "a": [
+       "fallen",
+       "dropped",
+       "declined",
+       "decreased"
+      ],
+      "tip": "Reduced by more than half."
+     },
+     {
+      "n": 10,
+      "a": [
+       "proved",
+       "known",
+       "established",
+       "discovered"
+      ],
+      "tip": "Without his data it could not have been shown."
+     },
+     {
+      "n": 11,
+      "a": [
+       "thanked",
+       "honoured",
+       "recognised",
+       "awarded"
+      ],
+      "tip": "A ceremony for his contribution."
+     },
+     {
+      "n": 12,
+      "a": [
+       "reasonably",
+       "decently",
+       "barely"
+      ],
+      "tip": "He left the moment courtesy allowed."
+     },
+     {
+      "n": 13,
+      "a": [
+       "plaque",
+       "sign",
+       "bench",
+       "memorial"
+      ],
+      "tip": "Something bearing his name."
+     },
+     {
+      "n": 14,
+      "a": [
+       "useful",
+       "valuable",
+       "important",
+       "significant"
+      ],
+      "tip": "They turned out to matter."
+     },
+     {
+      "n": 15,
+      "a": [
+       "dedication",
+       "devotion",
+       "persistence",
+       "virtue"
+      ],
+      "tip": "The quality the writer admires."
+     }
+    ]
+   },
+   {
+    "id": "B4",
+    "name": "Booklet B · Synthesis and Transformation",
+    "marks": 10,
+    "mode": "self",
+    "instruction": "Rewrite each sentence using the word given. The meaning must stay the same. Each question is worth 2 marks.",
+    "questions": [
+     {
+      "n": 1,
+      "q": "The instructions were very complicated. None of us could follow them. **(too)**",
+      "m": "The instructions were too complicated for any of us to follow",
+      "marks": 2
+     },
+     {
+      "n": 2,
+      "q": "He only understood the joke an hour later. **(It was not until)**",
+      "m": "It was not until an hour later that he understood the joke",
+      "marks": 2
+     },
+     {
+      "n": 3,
+      "q": "\"Where have you put the spare key?\" Mother asked me. **(Begin: Mother asked me …)**",
+      "m": "Mother asked me where I had put the spare key",
+      "marks": 2
+     },
+     {
+      "n": 4,
+      "q": "She practised every evening. She became the best player in the club. **(By)**",
+      "m": "By practising every evening, she became the best player in the club",
+      "marks": 2
+     },
+     {
+      "n": 5,
+      "q": "The council has not repaired the playground. Residents have complained for months. **(despite)**",
+      "m": "The council has not repaired the playground despite months of complaints from residents",
+      "marks": 2
+     }
+    ]
+   },
+   {
+    "id": "B5",
+    "name": "Booklet B · Comprehension",
+    "marks": 20,
+    "mode": "read",
+    "instruction": "Read the passage and answer the questions. Note the marks for each question.",
+    "passage": [
+     "My father has never once said that he is proud of me, and I stopped waiting for it somewhere around the age of nineteen.",
+     "This is not a complaint. He is not a cold man. He drove four hours each way to my graduation and stood at the back of the hall, and when it was over he asked whether I had eaten. That is how it works in our house. Food is the vocabulary.",
+     "So when my daughter came home last month having placed second in a national art competition, and my father happened to be visiting, I found myself watching him closely.",
+     "He looked at the certificate for a long time. He turned it over, as though there might be something on the back. Then he said, \"Second,\" in a tone that could have meant anything at all, and put it down on the kitchen counter.",
+     "Maya is eight. She went very quiet, and took the certificate upstairs, and I felt an old and specific anger rise in my chest — the kind that has been waiting thirty years for something to attach itself to.",
+     "I did not say anything. I have learnt that much.",
+     "The following morning I came down at six and found him at the kitchen table with a ruler, a pencil and a sheet of thick card, cutting a mount for the certificate. He had measured it three times. There were pencil marks all over the table, which he would later apologise for. He had gone out the previous evening — I had not noticed — and bought a frame from the shop near the MRT.",
+     "\"The paper will curl,\" he said, not looking up. \"They print these on rubbish card.\"",
+     "He worked on it for over an hour. When Maya came down, he had it finished and standing on the counter, and he said only, \"Where do you want it.\"",
+     "She chose the wall by the front door, which is where you see it first when you come in. He put a spirit level on it. It took him twenty minutes to hang a frame that any of us would have hung in three.",
+     "I have thought a great deal since about the word he did not say.",
+     "I do not think he cannot say it. I think that somewhere along the line he decided that saying it was cheap, and that if he was going to mean it he would have to do something that cost him an hour, a trip to the shops, and the risk of getting the measurements wrong.",
+     "Maya is eight, and she will probably remember the frame long after she has forgotten the competition. I am forty-two, and I have only just worked out that there was a frame in my house too."
+    ],
+    "questions": [
+     {
+      "n": 1,
+      "q": "What has the narrator's father never said to him? (1m)",
+      "marks": 1,
+      "a": "That he is proud of him."
+     },
+     {
+      "n": 2,
+      "q": "Give two pieces of evidence that the father is not, in fact, a cold man. (2m)",
+      "marks": 2,
+      "a": "He drove four hours in each direction to attend the narrator's graduation. He also asked whether the narrator had eaten, which in their family is how care is expressed."
+     },
+     {
+      "n": 3,
+      "q": "Explain what the narrator means by \"Food is the vocabulary.\" (2m)",
+      "marks": 2,
+      "a": "He means that in his family affection is not expressed in words but through practical acts of care such as feeding people, so an offer of food carries the meaning that a spoken expression of love would carry elsewhere."
+     },
+     {
+      "n": 4,
+      "q": "Why did the narrator feel \"an old and specific anger\"? (2m)",
+      "marks": 2,
+      "a": "Because seeing his father respond so flatly to his daughter's achievement reminded him of the praise he himself had never received as a child, so the anger was not really about Maya but about thirty years of his own disappointment."
+     },
+     {
+      "n": 5,
+      "q": "In your own words, describe what the father did the next morning. (2m)",
+      "marks": 2,
+      "a": "He got up early and carefully cut a card surround for the certificate using a ruler and pencil, having already bought a frame the evening before without telling anyone."
+     },
+     {
+      "n": 6,
+      "q": "Why does the writer mention that the father \"had measured it three times\"? (2m)",
+      "marks": 2,
+      "a": "It shows how much care and effort he was putting into the task, and suggests that the work was his way of expressing feelings he could not put into words."
+     },
+     {
+      "n": 7,
+      "q": "What is the effect of the father's words \"Where do you want it\" being written without a question mark? (2m)",
+      "marks": 2,
+      "a": "It makes the line sound flat and undramatic rather than warm, which matches his character — the feeling is carried entirely by what he has done, not by how he speaks."
+     },
+     {
+      "n": 8,
+      "q": "Explain what the narrator means in the final sentence when he says \"there was a frame in my house too\". (3m)",
+      "marks": 3,
+      "a": "Firstly, he means that his own father must have done similar wordless things for him when he was a child. In addition, he is admitting that he failed to recognise them as expressions of pride at the time, because he was waiting for words instead. Finally, the realisation reframes his whole childhood — the pride he thought was missing had been there all along, in a form he did not know how to read."
+     },
+     {
+      "n": 9,
+      "q": "Do you think the narrator was right not to say anything when Maya went quiet? Give reasons. (4m)",
+      "marks": 4,
+      "a": "Yes, on balance. Firstly, speaking up in anger would have embarrassed both his father and his daughter in the moment. In addition, his anger was really about his own childhood rather than about Maya, so acting on it would have been unfair to his father. Furthermore, saying nothing allowed his father the chance to respond in his own way, which turned out to be far more meaningful than an apology. However, it could be argued that an eight-year-old should not be left to feel dismissed overnight, and that a few words of comfort to Maya alone would have cost nothing. (Either answer is accepted if the reasoning is developed.)"
+     }
+    ]
+   }
+  ]
+ }
+}

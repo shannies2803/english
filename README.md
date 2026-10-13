@@ -22,9 +22,9 @@ column, and reaching the oral sets meant scrolling past everything else.
 
 ## What is in it
 
-- **176 practice sets, 3,653 questions**, grouped the way the exam is: grammar
-  and sentence work (1,667), vocabulary (1,253), comprehension (359), visual
-  text and listening (225), writing (70) and oral (79).
+- **182 practice sets, 3,717 questions**, grouped the way the exam is: grammar
+  and sentence work (1,667), vocabulary (1,253), comprehension (389), visual
+  text and listening (259), writing (70) and oral (79).
 - **8 timed mock papers**, 462 questions: **three at Primary 3** (A, B and C —
   same 60 marks and 75 minutes, meant to be sat a few days apart), one at
   Primary 4, three PSLE-format Paper 2s and one PSLE-format Paper 1. The papers
@@ -33,10 +33,13 @@ column, and reaching the oral sets meant scrolling past everything else.
   printable as a worksheet with its own answer key.
 - **An error log** that collects every question got wrong, groups them by set
   and brings them back on a spaced schedule (1, 3, 7 then 21 days).
-- **Every question that can carry an explanation has one.** The 124 that do not
-  are listening items, where the read-aloud script is the explanation, and
-  reading-aloud and planning tasks, which carry the model and the examiner's
-  bands instead.
+- **Every question that can carry an explanation has one**, with these
+  exceptions: the four upper-primary listening papers (80 items, where the
+  read-aloud script is the explanation), the reading-aloud and planning tasks,
+  which carry the model and the examiner's bands instead, and the upper-primary
+  oral stimuli, which take the page's own Point–Elaborate–Example–Link advice.
+  Both **Primary 3** listening papers have one per item, naming the words in the
+  script that settle the answer, so an adult can resolve an argument about it.
 
 ## Deploying
 

@@ -2614,3 +2614,285 @@ But the stools are still against the wall, and on Saturdays I am now in charge o
 **9.** She is willing to change how people use the space around her stall, because she listens to what customers actually want, but she will not change what she thinks makes the stall hers — the food, and being known by her number rather than by a signboard. She adapts without copying.  `[3m]`
 
 > Set the stools against the signboard. Ask what each one would have cost her.
+
+---
+
+## The Shortcut
+
+*Narrative · about 279 words · 10 questions · 17 marks · suggested for P3 and above*
+
+There are two ways from my block to the school gate.
+
+The long way goes round the carpark, past the provision shop and up the ramp. It takes eleven minutes. I know, because I have counted.
+
+The short way goes through a gap in the hedge, across a strip of grass and over a low wall. It takes four.
+
+My mother has told me twice not to use it. She says the wall is higher on the other side than it looks.
+
+On Tuesday I woke up late.
+
+I ran down the stairs with my shoes in my hand and one sock on. The lift was busy. By the time I reached the hedge it was twenty-five past seven, and assembly begins at half past.
+
+I went through the gap.
+
+The grass was wet, which I had not expected, and my socks were soaked before I had taken five steps. At the wall I put one hand down, swung my legs over, and landed badly.
+
+My knee hit the concrete first. My water bottle rolled under a parked car.
+
+I sat on the ground for a moment. Nothing was broken, but my knee was bleeding and my shorts were torn along the edge.
+
+Then I had to crawl under the car for my bottle, which took three minutes.
+
+I walked into assembly at twenty to eight, late anyway, with a bleeding knee and one wet sock.
+
+Mrs Devi did not ask what had happened. She looked at my knee, then at my shorts, and said only, "The long way is eleven minutes."
+
+I use the long way now. It is eleven minutes, and I leave at twenty past seven.
+
+### Questions
+
+**1.** How long does each of the two ways to school take? *(2m)*
+
+**2.** Give two things the writer passes on the long way. *(2m)*
+
+**3.** Why had the writer's mother told him not to use the short way? *(1m)*
+
+**4.** How do we know the writer was in a hurry on Tuesday morning? *(2m)*
+
+**5.** What had the writer not expected about the grass? *(1m)*
+
+**6.** Give two things that went wrong when the writer landed. *(2m)*
+
+**7.** Was the short way faster for the writer that morning? Explain your answer. *(2m)*
+
+**8.** Which word in the passage means 'completely wet'? *(1m)*
+
+**9.** Mrs Devi said only, "The long way is eleven minutes." Why do you think she said nothing else? *(2m)*
+
+**10.** How has the writer's behaviour changed since Tuesday? *(2m)*
+
+### Model answers
+
+**1.** The long way takes eleven minutes and the short way takes four.  `[2m]`
+
+> Both times are given, in two different paragraphs.
+
+**2.** Any two of: the carpark; the provision shop; the ramp.  `[2m]`
+
+> Three things are listed in one sentence. Two of them will do.
+
+**3.** She said the wall is higher on the other side than it looks.  `[1m]`
+
+> Her reason is given in the same sentence as the warning.
+
+**4.** He ran down the stairs carrying his shoes with only one sock on, because he had woken up late and the lift was busy.  `[2m]`
+
+> Look at what he is carrying and what he is wearing, not just at the word 'ran'.
+
+**5.** That it would be wet. His socks were soaked within five steps.  `[1m]`
+
+> One short clause says it directly.
+
+**6.** Any two of: his knee hit the concrete and began to bleed; his shorts were torn along the edge; his water bottle rolled under a parked car.  `[2m]`
+
+> Three things went wrong across two paragraphs.
+
+**7.** No. He reached assembly at twenty to eight, ten minutes after it began, so he was late anyway — and he had lost three minutes crawling under the car for his bottle.  `[2m]`
+
+> Compare the time he arrived with the time assembly starts. The point of the story is in that comparison.
+
+**8.** 'Soaked'.  `[1m]`
+
+> Look in the paragraph about the grass.
+
+**9.** She could see from his knee and his torn shorts exactly what he had done, so there was no need to ask or to scold him. Repeating the time was enough to make the point, and letting him work it out himself was stronger than telling him off.  `[2m]`
+
+> Think about what she had already worked out before she spoke, and why she chose those words.
+
+**10.** He now uses the long way and leaves ten minutes earlier, at twenty past seven.  `[2m]`
+
+> The last sentence gives two changes, not one.
+
+---
+
+## The Jar of Buttons
+
+*Narrative · about 274 words · 10 questions · 17 marks · suggested for P3 and above*
+
+My grandmother keeps a glass jar of buttons on the shelf above her sewing machine.
+
+There must be two hundred of them. Most are white or brown and perfectly ordinary. A few are not.
+
+When I was small she let me pour them onto the floor and sort them into piles: round ones, square ones, the ones with four holes, the ones with two.
+
+I always kept three buttons apart from the rest.
+
+The first is wooden and almost black, and larger than a fifty-cent coin. The second is bright red glass. The third has a tiny silver anchor on it.
+
+Last month I asked her where the three had come from.
+
+She put down her sewing. The wooden one, she said, came off her father's coat. He wore that coat for twenty-two years and the button is the only part of it left.
+
+The red glass one came from a dress she wore to her own wedding. There were nine on the dress. Eight are still on it, in a box under her bed. This one came off on the day and was never sewn back.
+
+The silver anchor came from a sailor's jacket that somebody left on a bus in 1971. Nobody claimed it, so the bus company gave it away, and my grandmother cut off the buttons before she used the cloth for a cushion.
+
+"Every button in this jar came off something," she said. "Most of them I cannot remember. Those three I can."
+
+She has said I may have the jar one day.
+
+I will not sort them into piles any more. But I will keep those three apart.
+
+### Questions
+
+**1.** Where does the grandmother keep the buttons? *(1m)*
+
+**2.** How did the writer play with the buttons when she was small? *(2m)*
+
+**3.** Describe the three buttons the writer always kept apart. *(2m)*
+
+**4.** What is special about the wooden button? *(2m)*
+
+**5.** How many buttons were on the wedding dress, and where are the others now? *(2m)*
+
+**6.** Explain how the silver anchor button came to be in the jar. *(2m)*
+
+**7.** Which word in the passage means 'said that something belonged to them'? *(1m)*
+
+**8.** What does the grandmother mean when she says, "Every button in this jar came off something"? *(2m)*
+
+**9.** Why do you think the writer will no longer sort the buttons into piles? *(2m)*
+
+**10.** Give one piece of evidence that the grandmother trusts the writer with something important. *(1m)*
+
+### Model answers
+
+**1.** In a glass jar on the shelf above her sewing machine.  `[1m]`
+
+> The first sentence says both the container and the place.
+
+**2.** She poured them onto the floor and sorted them into piles — round ones, square ones, ones with four holes and ones with two.  `[2m]`
+
+> Two parts: what she did with them, and how she grouped them.
+
+**3.** One is wooden and almost black, larger than a fifty-cent coin. One is bright red glass. One has a tiny silver anchor on it.  `[2m]`
+
+> Each one is described in a separate sentence.
+
+**4.** It came off her great-grandfather's coat, which he wore for twenty-two years, and it is the only part of that coat still left.  `[2m]`
+
+> Two facts: where it came from, and why it matters now.
+
+**5.** There were nine. Eight are still on the dress, which is in a box under the grandmother's bed.  `[2m]`
+
+> Both numbers are in the same paragraph.
+
+**6.** A sailor's jacket was left on a bus in 1971 and nobody claimed it, so the bus company gave it away. The grandmother cut the buttons off before using the cloth to make a cushion.  `[2m]`
+
+> There are three steps: left behind, given away, then cut off. All three are needed.
+
+**7.** 'Claimed'.  `[1m]`
+
+> Look in the paragraph about the jacket on the bus.
+
+**8.** Every button once belonged to a real piece of clothing that somebody wore, so each one has a story behind it — even though she can no longer remember most of them.  `[2m]`
+
+> Her next sentence explains the part of her meaning that matters most.
+
+**9.** When she was small the buttons were only shapes to be grouped. Now she knows they came off real clothes belonging to real people, so sorting them by shape would miss the thing that makes them worth keeping.  `[2m]`
+
+> Compare what she thought the buttons were then with what she knows now.
+
+**10.** She has said the writer may have the jar one day. She also put down her sewing to answer the question properly, rather than answering while she worked.  `[1m]`
+
+> One is enough, but look for actions rather than feelings.
+
+---
+
+## Why Cats' Eyes Shine in the Dark
+
+*Non-narrative · about 285 words · 10 questions · 16 marks · suggested for P3 and above*
+
+Point a torch at a cat at night and its eyes shine back at you, green or gold.
+
+Point the same torch at a person and nothing happens.
+
+The difference is a layer behind the cat's eye called the tapetum. It works like a tiny mirror.
+
+Light goes into the eye. Some of it is used straight away. The rest would be wasted, but the mirror bounces it back through the eye a second time, so the cat gets two chances to use the same light.
+
+This is why a cat can see on a night when we can see almost nothing. A cat needs only about one sixth as much light as a person does.
+
+The mirror is not perfect, and that is the price. The bounced light scatters a little, so a cat's picture of the world is slightly blurred. A cat cannot read the small print on a tin of its own food, and it would not be able to even if it wanted to.
+
+Cats also see fewer colours than we do. Red looks dull and greyish to them. What a cat is very good at is spotting something that moves.
+
+Many animals have this mirror: dogs, cows, horses, deer and crocodiles. Human beings do not, and neither do most birds that hunt by day.
+
+The colour you see in the shine depends on the animal. Most cats shine green. Dogs are often yellow or orange. A cat with blue eyes may shine red instead, because it has very little of the colouring that normally covers the mirror.
+
+There is one more thing worth knowing. The shine is not the cat looking at you. It is your own torchlight coming back.
+
+### Questions
+
+**1.** What is the layer behind a cat's eye called? *(1m)*
+
+**2.** In your own words, explain how the tapetum helps a cat. *(2m)*
+
+**3.** How much light does a cat need compared with a person? *(1m)*
+
+**4.** The passage says the mirror 'is not perfect'. Give one disadvantage of having it. *(2m)*
+
+**5.** Give two things a cat's eyesight is NOT good at. *(2m)*
+
+**6.** Give two animals, apart from cats, that have this mirror. *(2m)*
+
+**7.** Why might a cat with blue eyes shine red instead of green? *(2m)*
+
+**8.** Which word in the passage means 'spread out in different directions'? *(1m)*
+
+**9.** Why does the writer say that the shine 'is not the cat looking at you'? *(2m)*
+
+**10.** Why do you think the writer begins by telling the reader to point a torch at a cat and then at a person? *(1m)*
+
+### Model answers
+
+**1.** The tapetum.  `[1m]`
+
+> It is named in the third paragraph.
+
+**2.** It works like a mirror. Light that would have been wasted is bounced back through the eye a second time, so the cat can use the same light twice.  `[2m]`
+
+> Explain it without copying the paragraph word for word.
+
+**3.** About one sixth as much.  `[1m]`
+
+> One figure is given.
+
+**4.** The bounced light scatters a little, so the cat's picture of the world is slightly blurred and it cannot see fine detail such as small print.  `[2m]`
+
+> The paragraph calls this 'the price'. Say what is lost, not just that something is lost.
+
+**5.** Any two of: seeing fine detail or small print, because its picture is slightly blurred; seeing colours, especially red, which looks dull and greyish.  `[2m]`
+
+> Two weaknesses are described in two paragraphs. The thing cats ARE good at is in the same paragraph as the second one.
+
+**6.** Any two of: dogs; cows; horses; deer; crocodiles.  `[2m]`
+
+> Five are listed in one sentence.
+
+**7.** Because it has very little of the colouring that usually covers the mirror.  `[2m]`
+
+> The reason is given in the same sentence, after the word 'because'.
+
+**8.** 'Scatters'.  `[1m]`
+
+> Look in the paragraph about the price of having the mirror.
+
+**9.** People think the cat's eyes are producing the light. In fact the eyes are only reflecting the torchlight that was shone at them, so without a torch there would be no shine at all.  `[2m]`
+
+> The last sentence says where the light actually comes from.
+
+**10.** It asks the reader to picture something they can test for themselves, and the difference between the two is exactly what the rest of the passage explains.  `[1m]`
+
+> Think about what the two sentences set up for the paragraphs that follow.

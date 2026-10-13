@@ -23,6 +23,8 @@ v10oral = json.loads((SRC / "content_v10_oral.json").read_text(encoding="utf-8")
 v10wr = json.loads((SRC / "content_v10_writing.json").read_text(encoding="utf-8"))
 v11or = json.loads((SRC / "content_v11_p3_oral.json").read_text(encoding="utf-8"))
 v11voc = json.loads((SRC / "content_v11_p3_vocab.json").read_text(encoding="utf-8"))
+v11comp = json.loads((SRC / "content_v11_p3_comprehension.json").read_text(encoding="utf-8"))
+v11vis = json.loads((SRC / "content_v11_p3_visual.json").read_text(encoding="utf-8"))
 drills["sets"] += (v3drills["sets"] + v4young["sets"] + v4vocab["sets"]
                    + v6vocab["sets"] + v6gram["sets"]
                    + v7gram["sets"] + v7vocab["sets"]
@@ -63,7 +65,8 @@ for s in drills["sets"]:
 extra2 = json.loads((SRC / "content_extra2.json").read_text(encoding="utf-8"))
 v3comp = json.loads((SRC / "content_v3_comprehension.json").read_text(encoding="utf-8"))
 comp["passages"] += (extra2["passages"] + v3comp["passages"] + v4young["passages"]
-                     + v7comp["passages"] + v9comp["passages"] + v10comp["passages"])
+                     + v7comp["passages"] + v9comp["passages"] + v10comp["passages"]
+                     + v11comp["passages"])
 for ci, p in enumerate(comp["passages"], 1):
     bank.append({
         "id": p["id"], "letter": f"C{ci}", "title": f'Comprehension · {p["title"]}',
@@ -97,15 +100,20 @@ bank.append({"id": "listen1", "letter": "L1", "title": lis["title"], "level": "P
              "mode": "mcq", "listening": True, "instruction": lis["instructions"],
              "questions": lq})
 
-def build_listening(spec, sid, letter):
+def build_listening(spec, sid, letter, level="P6"):
+    # The level used to be hard-coded to P6, which filed the Primary 3-4 paper at P6:
+    # the one listening paper written for the younger children never showed up at their
+    # level and sat under "Coming later" instead.
     scripts, qs = {}, []
     for it in spec["items"]:
         if it.get("script"):
             scripts[it.get("passage") or it["n"]] = it["script"]
         qs.append({"n": it["n"], "q": it["q"], "options": it["options"], "correct": it["correct"],
                    "a": [it["options"][it["correct"]]], "m": it["options"][it["correct"]],
-                   "script": it.get("script") or scripts.get(it.get("passage"), ""), "tip": ""})
-    bank.append({"id": sid, "letter": letter, "title": spec["title"], "level": "P6",
+                   "script": it.get("script") or scripts.get(it.get("passage"), ""),
+                   "tip": it.get("tip", "")})
+    bank.append({"id": sid, "letter": letter, "title": spec["title"],
+                 "level": spec.get("level", level),
                  "mode": "mcq", "listening": True, "instruction": spec["instructions"],
                  "questions": qs})
 
@@ -118,6 +126,9 @@ lis4 = v7vl["listening4"]
 build_listening(lis4, "listen4", "L4")
 lis5 = v9vl["listening5"]
 build_listening(lis5, "listen5", "L5")
+lis6 = json.loads((SRC / "content_v11_p3_listening.json")
+                  .read_text(encoding="utf-8"))["listening6"]
+build_listening(lis6, "listen6", "L6")
 for vi, vv in enumerate(v9vl["visualTexts"], 12):
     for q in vv["questions"]:
         q["a"] = [q["options"][q["correct"]]]; q["m"] = q["a"][0]; q.setdefault("tip", "")
@@ -125,6 +136,12 @@ for vi, vv in enumerate(v9vl["visualTexts"], 12):
                  "level": vv["level"], "mode": "mcq", "visual": vv["html"],
                  "questions": vv["questions"]})
 for vi, vv in enumerate(v7vl["visualTexts"], 8):
+    for q in vv["questions"]:
+        q["a"] = [q["options"][q["correct"]]]; q["m"] = q["a"][0]; q.setdefault("tip", "")
+    bank.append({"id": vv["id"], "letter": f"V{vi}", "title": f'Visual text · {vv["title"]}',
+                 "level": vv["level"], "mode": "mcq", "visual": vv["html"],
+                 "questions": vv["questions"]})
+for vi, vv in enumerate(v11vis["visualTexts"], 18):
     for q in vv["questions"]:
         q["a"] = [q["options"][q["correct"]]]; q["m"] = q["a"][0]; q.setdefault("tip", "")
     bank.append({"id": vv["id"], "letter": f"V{vi}", "title": f'Visual text · {vv["title"]}',
@@ -700,7 +717,7 @@ GROUPS = {
     "Vocabulary": list("STX") + ["Z3", "Y8", "W1", "W2", "W3", "W4"]
                   + [f"VA{i}" for i in range(1, 35)],
     "Comprehension": ["R", "Y", "Z6", "Z7"] + [f"C{i}" for i in range(1, 41)],
-    "Visual text & listening": [f"V{i}" for i in range(1, 22)] + ["L1", "L2", "L3", "L4", "L5"],
+    "Visual text & listening": [f"V{i}" for i in range(1, 22)] + [f"L{i}" for i in range(1, 9)],
     "Writing": ["SW", "SW2", "SW4", "SW5", "CP", "CM", "CN", "CJ", "CJ2", "CJ3"],
     "Oral": [f"O{i}" for i in range(1, 26)] + ["RA"],
 }

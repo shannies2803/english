@@ -326,6 +326,20 @@ h1,h2,h3,h4{font-family:var(--sans);letter-spacing:-.018em}
 body[data-ts="l"]{font-size:17.5px}
 body[data-ts="xl"]{font-size:19.5px}
 .lvlbar{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 12px}
+.grpbar{position:sticky;top:var(--barstick,0px);z-index:12;padding:10px 0 2px;margin-bottom:6px;
+  background:var(--paper);border-bottom:1px solid var(--line)}
+/* On a phone the seven chips wrapped to four rows, and the sticky top bar plus those
+   rows took 44% of the screen. Below 760px they become one row you swipe sideways. */
+@media (max-width:760px){
+  .grpbar{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;
+    padding:9px 0 9px;margin-left:-4px;margin-right:-4px}
+  .grpbar::-webkit-scrollbar{display:none}
+  .lvlchip.grp{flex:0 0 auto;white-space:nowrap}
+  .grpbar>:first-child{margin-left:4px} .grpbar>:last-child{margin-right:4px}
+}
+.lvlchip.grp{font-size:13.5px;padding:9px 15px}
+.lvlchip.grp .n{font-family:var(--mono);font-size:10.5px;opacity:.75;margin-left:6px}
+.lvlchip.grp.empty{opacity:.45}
 .lvlchip{font:600 13px/1 var(--ui);padding:8px 14px;border-radius:999px;border:1.5px solid var(--line);
   background:var(--card);color:var(--muted);cursor:pointer}
 .lvlchip.on{background:var(--ink);color:var(--card);border-color:var(--ink)}
@@ -620,6 +634,15 @@ tr:last-child td{border-bottom:0}
   <section id="v-practice" class="hide">
     <h1 class="viewtitle">Practice</h1>
     <p class="viewsub" id="practiceSub">Type your answer, get it marked instantly.</p>
+    <div id="grpbar" class="lvlbar grpbar">
+      <button class="lvlchip grp on" data-grp="all">Everything</button>
+      <button class="lvlchip grp" data-grp="Oral">Oral</button>
+      <button class="lvlchip grp" data-grp="Writing">Composition &amp; writing</button>
+      <button class="lvlchip grp" data-grp="Comprehension">Comprehension</button>
+      <button class="lvlchip grp" data-grp="Visual text &amp; listening">Visual text &amp; listening</button>
+      <button class="lvlchip grp" data-grp="Grammar &amp; sentence work">Grammar</button>
+      <button class="lvlchip grp" data-grp="Vocabulary">Vocabulary</button>
+    </div>
     <div id="lvlbar" class="lvlbar">
       <button class="lvlchip on" data-lvl="all">All levels</button>
       <button class="lvlchip" data-lvl="P3">P3</button>
@@ -914,20 +937,26 @@ function matchSets(term){
   if(t.length<2) return null;
   return BANK.filter(s=>{
     if(LVLFILTER!=='all' && s.level!==LVLFILTER) return false;
+    if(GRPFILTER!=='all' && s.group!==GRPFILTER) return false;
     if((s.title+' '+s.letter+' '+s.group).toLowerCase().includes(t)) return true;
     return s.questions.some(q=>((q.q||'')+' '+(q.m||'')).toLowerCase().includes(t));
   });
 }
 let LVLFILTER='all';
+let GRPFILTER='all';
 function renderSecs(){
   const tq=BANK.reduce((a,s)=>a+s.questions.length,0);
   document.getElementById('practiceSub').textContent=
     `${tq} questions across ${BANK.length} sets. Type your answer, get it marked instantly.`;
-  const lvlOk = s => LVLFILTER==='all' || s.level===LVLFILTER;
+  const lvlOk = s => (LVLFILTER==='all' || s.level===LVLFILTER)
+                  && (GRPFILTER==='all' || s.group===GRPFILTER);
   const mine=BANK.filter(s=>forMe(s)&&lvlOk(s)), rest=BANK.filter(s=>!forMe(s)&&lvlOk(s));
   let html='';
-  if(LVLFILTER!=='all' && !mine.length && !rest.length)
-    html+=`<div class="grouphead"><h2>Nothing at ${LVLFILTER}</h2><p>Try another level.</p></div>`;
+  if(!mine.length && !rest.length)
+    html+=`<div class="grouphead"><h2>Nothing here yet</h2><p>${
+      GRPFILTER==='all' ? `No sets at ${LVLFILTER}. Try another level.`
+                        : `No ${GRPFILTER.toLowerCase()} sets at ${LVLFILTER==='all'?'this level':LVLFILTER}. Try another level, or another subject.`
+    }</p></div>`;
   for(const g of Object.keys(GROUPNOTE)){
     const inG=mine.filter(s=>s.group===g); if(!inG.length) continue;
     const qn=inG.reduce((a,s)=>a+s.questions.length,0);
@@ -1984,14 +2013,40 @@ search.addEventListener('input',()=>{
 
 /* ---------- boot ---------- */
 document.getElementById('setsearch').addEventListener('input',e=>renderSearch(e.target.value));
+function reRender(){
+  const box=document.getElementById('setsearch');
+  if(box.value.trim().length>1) renderSearch(box.value); else renderSecs();
+}
 document.getElementById('lvlbar').addEventListener('click',e=>{
   const b=e.target.closest('[data-lvl]'); if(!b) return;
   LVLFILTER=b.dataset.lvl;
-  document.querySelectorAll('.lvlchip').forEach(c=>c.classList.toggle('on',c===b));
-  const box=document.getElementById('setsearch');
-  if(box.value.trim().length>1) renderSearch(box.value); else renderSecs();
+  document.querySelectorAll('#lvlbar .lvlchip').forEach(c=>c.classList.toggle('on',c===b));
+  countGroups(); reRender();
 });
-function boot(){ S.profiles.forEach(migrate); renderHome(); renderSecs(); showDocInit(); go('home'); }
+document.getElementById('grpbar').addEventListener('click',e=>{
+  const b=e.target.closest('[data-grp]'); if(!b) return;
+  GRPFILTER=b.dataset.grp;
+  document.querySelectorAll('#grpbar .lvlchip').forEach(c=>c.classList.toggle('on',c===b));
+  reRender();
+  window.scrollTo({top:0,behavior:'smooth'});
+});
+// how many sets sit behind each subject chip, for the level currently chosen
+function stickOffset(){
+  const t=document.getElementById('topbar');
+  document.documentElement.style.setProperty('--barstick',(t?t.offsetHeight:0)+'px');
+}
+addEventListener('resize',stickOffset);
+function countGroups(){
+  for(const c of document.querySelectorAll('#grpbar [data-grp]')){
+    const g=c.dataset.grp;
+    const n=BANK.filter(s=>(LVLFILTER==='all'||s.level===LVLFILTER)&&(g==='all'||s.group===g)).length;
+    let tag=c.querySelector('.n');
+    if(!tag){ tag=document.createElement('span'); tag.className='n'; c.appendChild(tag); }
+    tag.textContent=n;
+    c.classList.toggle('empty',n===0);
+  }
+}
+function boot(){ S.profiles.forEach(migrate); renderHome(); countGroups(); stickOffset(); renderSecs(); showDocInit(); go('home'); }
 function showDocInit(){ docsEl.forEach((d,n)=>d.classList.toggle('active',n===0)); navBtns[0].classList.add('active'); buildSub(0); }
 if(S.cur===null || S.cur===undefined){ renderPick(); }
 else { document.getElementById('gate').classList.add('hide'); touchStreak(); save(); boot(); }

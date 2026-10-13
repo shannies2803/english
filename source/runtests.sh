@@ -9,7 +9,7 @@
 #   3. the output contains none of the failure patterns below.
 # Patterns are case-sensitive on purpose: "clipped tabs: none" must not match.
 fail=0
-for t in smoke smoke2 smoke3 smoke4 smoke6 smoke7 smoke8 marktest marktest2 marktest3 marktest4 datatest widths navcheck contrast; do
+for t in smoke smoke2 smoke3 smoke4 smoke6 smoke7 smoke8 marktest marktest2 marktest3 marktest4 datatest widths navcheck contrast subjects; do
   [ -f "$t.mjs" ] || continue
   out=$(node "$t.mjs" 2>&1); rc=$?
   if [ $rc -ne 0 ]; then

@@ -14,6 +14,12 @@ Both children share the page and pick a profile on opening. Each profile keeps
 its own progress, error log, XP, badges, text size and theme, so nothing is
 mixed up between them.
 
+On *Practice*, a row of subject chips — Oral, Composition & writing,
+Comprehension, Visual text & listening, Grammar, Vocabulary — filters the grid
+to one subject, with the number of sets shown on each chip. They combine with
+the level chips below them. Without that row the grid is a single 12,000px
+column, and reaching the oral sets meant scrolling past everything else.
+
 ## What is in it
 
 - **168 practice sets, 3,535 questions**, grouped the way the exam is: grammar
@@ -69,7 +75,7 @@ cd source
 python3 audit.py              # structural: keys, options, marks, duplicates,
                               # answer-position bias, missing explanations
 npm install                   # playwright, for the browser tests
-./runtests.sh                 # all fifteen browser suites (about three minutes)
+./runtests.sh                 # all sixteen browser suites (about four minutes)
 ```
 
 `audit.py` should report **0 errors**. The 21 remaining warnings are the mock

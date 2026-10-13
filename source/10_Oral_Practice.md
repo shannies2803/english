@@ -188,6 +188,54 @@ Reading Aloud is worth 10 marks and Stimulus-based Conversation 20. Both are pra
 - The two sentences beginning 'She says' should sound flat and innocent. That is where the humour is.
 - Land firmly on the last sentence, and pause a beat before 'and nobody says so'.
 
+### Passage 16  ·  *P5 and above*
+
+> The lift in my grandmother's block has a mirror on the back wall, and for about a year it was cracked right across the middle. Everybody complained. Somebody wrote to the town council twice. Then one Tuesday it was replaced, and within a week three different neighbours had told my grandmother that the lift felt bigger. It is exactly the same lift. Nothing about it changed except that you can now see the whole of yourself in it, which I find a strange and rather cheerful thing to know about people.
+
+**Listen for:**
+
+- 'grandmother's' — sound the possessive s; do not let it run into 'block'.
+- Pause at each full stop in the short middle sentences. They are short on purpose.
+- Final consonants: cracked, complained, replaced, changed.
+- Stress 'exactly the same lift' — the contrast is the whole point of the passage.
+- Slow down for the last clause and let 'cheerful' sound warm rather than clever.
+
+### Passage 17  ·  *P5 and above*
+
+> A hawker in Chinatown has sold the same three dishes for thirty-one years and has never put a photograph on his stall. When a food blogger asked him why, he said that a photograph tells you what a dish looks like, which is the least important thing about it. He then refused to be photographed himself. The queue that morning was eleven people long, and nobody in it was holding a phone up, which may have been the point he was making all along.
+
+**Listen for:**
+
+- 'thirty-one' — keep both parts clear.
+- The second sentence is long. Breathe after 'why', and again after 'looks like'.
+- Final consonants: sold, asked, refused, holding.
+- Stress 'least important' — it is the surprising part of what he says.
+- The last clause is dry. Do not over-emphasise it; let it sit.
+
+### Passage 18  ·  *P6 and above*
+
+> There is a kind of silence peculiar to a school hall in the minute before a performance begins. It is not quiet — four hundred people cannot be quiet — but it is attentive, which is a different thing altogether. Chairs stop scraping. Somebody's grandmother is still unwrapping a sweet and everybody can hear her doing it. Then the lights drop, and the sound that follows is the only applause of the evening that is given for nothing at all, before a single note has been played.
+
+**Listen for:**
+
+- 'peculiar' — pe-CUL-iar, three syllables, stress the second.
+- The dashes in the second sentence are pauses. Lift your voice slightly inside them.
+- Final consonants: begins, scraping, unwrapping, played.
+- 'the only applause of the evening that is given for nothing at all' — do not rush this; it is the idea the whole passage is built towards.
+- End quietly. The last five words should be almost spoken rather than read.
+
+### Passage 19  ·  *P3 and above*
+
+> My little brother collects bus tickets. He has a shoebox full of them under his bed, and he knows where every single one came from. Last week he found an old ticket on the pavement outside our block. It was wet and the printing had gone, so nobody could tell which bus it was from. He kept it anyway. He says it is the most interesting one, because it is the only one that is a mystery.
+
+**Listen for:**
+
+- Short, simple sentences. Pause fully at each full stop and do not run them together.
+- 'shoebox' — one word, two clear parts.
+- Final consonants: collects, knows, found, kept, says.
+- Stress 'anyway' — it is the surprise in the story.
+- Smile slightly on the last sentence. It is meant to be funny and fond.
+
 ---
 
 ## Part 2 — Stimulus-based Conversation
@@ -411,6 +459,78 @@ Three questions follow each stimulus. The child looks at the stimulus for a shor
 **Q3. Do you think children should have to help at home? Why?**
 
 > Yes, I think so, for two reasons. The first is fairness. Everybody in a family uses the plates and makes the mess, so it is not right for one or two people to do all the clearing up. The second reason is that these are things we will all need to do one day anyway, and it is much easier to learn them at nine than to learn them all at once when you are older. I would add one thing, though. I think it works better when a child is given one job to own rather than being asked to help with whatever is left, because this survey says exactly that.
+
+### Second-hand things  ·  *P5 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**   NATIONAL ENVIRONMENT AGENCY · HOUSEHOLD WASTE  What we throw away that still works    Still working  Needs a small repair  Beyond repair  Unsafe or recalled    41%   27%   22%   10%   A survey of items left at five housing estates found that  41%  of the discarded electrical goods were still in working order. The commonest reason given for replacing a working item was  wanting a newer model , not breakage.  
+
+**Q1. What do you make of the information in this survey?**
+
+> The figure that stands out is that 41% of the electrical goods thrown away were still working. If you add the 27% that needed only a small repair, then more than two thirds of what was discarded did not actually need to be discarded at all. What I find most telling is the reason given underneath. People were not replacing things because they had broken, but because a newer model had come out, which means this is a problem about how we think rather than a problem about how well things are made.
+
+**Q2. Tell me about something in your home that was passed on to you or repaired.**
+
+> My desk lamp was my cousin's before it was mine. The switch had stopped working, and my father and I opened it one Saturday and found that a wire had simply come loose from the base. It took about twenty minutes to fix. What I remember is how surprised I was that it was something that small, because when it stopped working we all assumed it was finished. I have had it for three years now and I would not swap it for a new one, partly because I know what is inside it.
+
+**Q3. How could a school encourage pupils to repair things rather than replace them?**
+
+> I think a school should make repairing visible, because at the moment it happens out of sight and replacing happens in front of everybody. One idea would be a repair corner at recess, once a month, where a teacher or a parent who is good with tools helps pupils mend bags, zips and water bottles. Secondly, I would ask the art and science departments to run a project where pupils take something broken apart to see how it works, because you cannot want to fix what you do not understand. Finally, and this matters most, I would stop the school rewarding new things. When everybody notices a new bag and nobody notices a mended one, no amount of encouragement will change what pupils actually do.
+
+### Learning from mistakes  ·  *P5 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**   SCHOOL COUNSELLING SERVICE · PUPIL SURVEY  What pupils do after getting something wrong    Looked at the mark only  Reread the questions alone  Went through it with somebody  Redid the paper    58%   24%   13%   5%   Of 520 pupils asked what they did after a poor test result,  58%  said they looked at the mark and put the paper away. Pupils who went through their wrong answers with somebody scored on average  nine marks higher  on the next test of the same topic.  
+
+**Q1. What does this survey tell you?**
+
+> It tells me that most pupils, well over half, treat a test as something that is finished once they know the mark. Only about one in eight goes through the wrong answers with another person, and yet that is the group whose next result was nine marks better. What makes the figure persuasive to me is that it compares the same topic, so it is not simply that the cleverer pupils talk about their work. It suggests the talking is what does the work.
+
+**Q2. Tell me about a mistake of your own that you learnt something from.**
+
+> In Primary 4 I lost nine marks in a Science paper because I answered the question I had expected rather than the one that was printed. It asked why the plant in the dark box survived for two weeks, and I wrote everything I knew about photosynthesis instead. My teacher made me read the question aloud, twice, and then asked me what the word 'survived' was doing in it. I have underlined the verb in every question since. I still lose marks, but not for that.
+
+**Q3. Should schools give pupils time in class to go over their mistakes?**
+
+> I strongly believe they should, for a reason this survey makes plain: pupils will not do it on their own. Only 13% went through their wrong answers with anybody, so leaving it to homework means it mostly does not happen. A lesson spent on the paper you have just sat is also more useful than a new lesson, because you already care about the answers. I would add one condition, though. It has to be done in a way that is not embarrassing. If going over mistakes means reading your score out, pupils will hide the paper, and the school will have made the problem worse rather than better.
+
+### Helping at a hawker centre  ·  *P4 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**   COMMUNITY CENTRE · YOUTH NOTICE  Tray Return Champions    Trays left on tables  Trays returned by diners    about 300   about 420   Our estate's hawker centre still has  about 300 trays  left on tables every lunchtime. Six cleaners clear them. Four of the six are over sixty-five years old.  
+
+**Q1. What can you tell me about this notice?**
+
+> The notice says that about 300 trays are still left on tables every lunchtime, while about 420 are returned, so a little under half of all diners are not returning theirs. The part that stays with me is the last line: four of the six cleaners are over sixty-five. That turns it from a tidiness problem into something about who ends up doing the carrying, and I think that is why the notice mentions their ages at all.
+
+**Q2. Do you return your tray when you eat out? Tell me about it.**
+
+> Yes, usually, although I did not always. My grandmother started making me do it when I was about seven, and at first I thought it was pointless because somebody was paid to clear the tables anyway. What changed my mind was watching an auntie at our hawker centre carry four trays at once with her wrists bent right back. Now I do it without thinking, and I feel uncomfortable when I see a table of people walk away from six trays.
+
+**Q3. What would make more people return their trays?**
+
+> I think the rules are already clear, so the problem is not that people do not know. What I would change is where the racks are. At our hawker centre the rack is at the back near the toilets, so returning a tray means walking away from the exit. If the racks were next to the doors, returning one would be on your way out instead of a detour. I would also get schools to bring classes to eat there once a term, because habits are easier to start at nine than to change at forty.
+
+### Homework and free time  ·  *P6 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**   STRAITS RESEARCH · PRIMARY 6 TIME DIARY  Where a Primary 6 day goes    School and travel  Homework and tuition  Meals and chores  Free time, unstructured    9h 06m   3h 24m   1h 36m   54m   Pupils kept a diary for one school week. The averages below exclude sleep. Of the pupils who reported under half an hour of unstructured free time a day,  71%  also reported finding it hard to think of something to do when they did have time.  
+
+**Q1. What is the most striking thing in this diary study?**
+
+> The bare numbers are striking enough: nine hours on school and travel against fifty-four minutes of unstructured time. But the sentence underneath is what I keep returning to. Among the pupils with the least free time, 71% said they found it hard to think of what to do when they finally had some. I would have assumed those pupils would be the most eager to use it. It suggests that deciding what to do with yourself is a skill, and that it gets rusty if every hour of your week has already been decided for you by somebody else.
+
+**Q2. How does your own week compare?**
+
+> Mine is close to this, though my homework is nearer two and a half hours because I do not have tuition on Wednesdays. The free time figure feels about right, and I recognise the problem in that last sentence. On the first Saturday of the June holidays I genuinely did not know what to do with myself and ended up scrolling for two hours, which I did not enjoy. What I have since found works is having one or two things I am slowly working at — at the moment it is learning to juggle — so that free time arrives with something already waiting in it.
+
+**Q3. Some people say children today have too little free time. What do you think?**
+
+> I agree, but I want to be careful about why, because the usual argument is that children are tired, and tiredness is only part of it. What this study points to is more interesting: free time is where you find out what you actually like, and that cannot be scheduled for you. A child whose whole week is arranged may do very well at school and still reach secondary school without knowing what they would choose to do with an afternoon. I would not argue for less work. I would argue for protecting one genuinely empty afternoon a week and resisting the temptation to fill it, which I think is harder for parents than it sounds.
 
 ---
 

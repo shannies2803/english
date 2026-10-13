@@ -16,9 +16,9 @@ mixed up between them.
 
 ## What is in it
 
-- **154 practice sets, 3,437 questions**, grouped the way the exam is: grammar
-  and sentence work (1,667), vocabulary (1,153), comprehension (323), visual
-  text and listening (193), writing (50) and oral (51).
+- **168 practice sets, 3,535 questions**, grouped the way the exam is: grammar
+  and sentence work (1,667), vocabulary (1,153), comprehension (359), visual
+  text and listening (225), writing (64) and oral (67).
 - **6 timed mock papers**, 357 questions: one at Primary 3, one at Primary 4,
   three PSLE-format Paper 2s and one PSLE-format Paper 1. The papers matching
   the child's level are listed first.
@@ -26,9 +26,10 @@ mixed up between them.
   printable as a worksheet with its own answer key.
 - **An error log** that collects every question got wrong, groups them by set
   and brings them back on a spaced schedule (1, 3, 7 then 21 days).
-- **Every question that can carry an explanation has one.** The 160 that do not
+- **Every question that can carry an explanation has one.** The 124 that do not
   are listening items, where the read-aloud script is the explanation, and
-  writing tasks, which carry a "why it scores" note and the examiner's bands.
+  reading-aloud and planning tasks, which carry the model and the examiner's
+  bands instead.
 
 ## Deploying
 
@@ -68,7 +69,7 @@ cd source
 python3 audit.py              # structural: keys, options, marks, duplicates,
                               # answer-position bias, missing explanations
 npm install                   # playwright, for the browser tests
-./runtests.sh                 # all fourteen browser suites
+./runtests.sh                 # all fifteen browser suites (about three minutes)
 ```
 
 `audit.py` should report **0 errors**. The 21 remaining warnings are the mock
@@ -76,7 +77,21 @@ papers deliberately reusing their visual-text sets, which is by design.
 `runtests.sh` should end with **all browser tests pass**; it checks, among other
 things, that every one of the 3,198 keyed answers is accepted by the app's own
 marking function, that exported progress survives a round trip with nothing
-dropped, and that no navigation is clipped between 390px and 1280px.
+dropped, that no navigation is clipped between 390px and 1280px, and —
+`contrast.mjs` — that no text on any of twelve screens falls below WCAG AA
+against the colour actually painted behind it, in **both** light and dark mode.
+
+Two things the runner learnt the hard way, both worth keeping:
+
+- A suite that crashes is not a pass. `runtests.sh` used to decide pass/fail by
+  grepping output for failure words, so when `node_modules` was missing every
+  suite died before opening a browser and the runner cheerfully reported *all
+  browser tests pass*. It now requires exit 0, no stack trace, and real output.
+- Structural audits cannot see colour. Dark mode was reported clean for several
+  rounds while the MCQ options, every comprehension passage, every writing task
+  box, the model-answer boxes, the search field and document tables were all
+  near-white text on a hard-coded near-white background — a contrast ratio of
+  1.16, which is invisible. Only measuring the rendered page found it.
 
 `source/AUDIT_REPORT.md` records eleven rounds of auditing, what each one found,
 and — importantly — what is still not covered. Nothing here has been seen by an

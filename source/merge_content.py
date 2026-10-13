@@ -17,6 +17,10 @@ v8gram = json.loads((SRC / "content_v8_grammar.json").read_text(encoding="utf-8"
 v8vocab = json.loads((SRC / "content_v8_vocab.json").read_text(encoding="utf-8"))
 v9comp = json.loads((SRC / "content_v9_comprehension.json").read_text(encoding="utf-8"))
 v9vl = json.loads((SRC / "content_v9_visual_listening.json").read_text(encoding="utf-8"))
+v10comp = json.loads((SRC / "content_v10_comprehension.json").read_text(encoding="utf-8"))
+v10vis = json.loads((SRC / "content_v10_visual.json").read_text(encoding="utf-8"))
+v10oral = json.loads((SRC / "content_v10_oral.json").read_text(encoding="utf-8"))
+v10wr = json.loads((SRC / "content_v10_writing.json").read_text(encoding="utf-8"))
 drills["sets"] += (v3drills["sets"] + v4young["sets"] + v4vocab["sets"]
                    + v6vocab["sets"] + v6gram["sets"]
                    + v7gram["sets"] + v7vocab["sets"]
@@ -55,7 +59,7 @@ for s in drills["sets"]:
 extra2 = json.loads((SRC / "content_extra2.json").read_text(encoding="utf-8"))
 v3comp = json.loads((SRC / "content_v3_comprehension.json").read_text(encoding="utf-8"))
 comp["passages"] += (extra2["passages"] + v3comp["passages"] + v4young["passages"]
-                     + v7comp["passages"] + v9comp["passages"])
+                     + v7comp["passages"] + v9comp["passages"] + v10comp["passages"])
 for ci, p in enumerate(comp["passages"], 1):
     bank.append({
         "id": p["id"], "letter": f"C{ci}", "title": f'Comprehension · {p["title"]}',
@@ -117,6 +121,12 @@ for vi, vv in enumerate(v9vl["visualTexts"], 12):
                  "level": vv["level"], "mode": "mcq", "visual": vv["html"],
                  "questions": vv["questions"]})
 for vi, vv in enumerate(v7vl["visualTexts"], 8):
+    for q in vv["questions"]:
+        q["a"] = [q["options"][q["correct"]]]; q["m"] = q["a"][0]; q.setdefault("tip", "")
+    bank.append({"id": vv["id"], "letter": f"V{vi}", "title": f'Visual text · {vv["title"]}',
+                 "level": vv["level"], "mode": "mcq", "visual": vv["html"],
+                 "questions": vv["questions"]})
+for vi, vv in enumerate(v10vis["visualTexts"], 14):
     for q in vv["questions"]:
         q["a"] = [q["options"][q["correct"]]]; q["m"] = q["a"][0]; q.setdefault("tip", "")
     bank.append({"id": vv["id"], "letter": f"V{vi}", "title": f'Visual text · {vv["title"]}',
@@ -223,12 +233,13 @@ v4wr = json.loads((SRC / "content_v4_writing.json").read_text(encoding="utf-8"))
 v7wo = json.loads((SRC / "content_v7_writing_oral.json").read_text(encoding="utf-8"))
 v8wo = json.loads((SRC / "content_v8_writing_oral.json").read_text(encoding="utf-8"))
 v8wr = json.loads((SRC / "content_v8_writing.json").read_text(encoding="utf-8"))
-oral["conversation"] += v3wo["oral"] + v7wo["oral2"] + v8wo["oral3"]
-oral["readAloud"] += v4wr["readAloud"] + v7wo["readAloud2"] + v8wo["readAloud3"]
+oral["conversation"] += v3wo["oral"] + v7wo["oral2"] + v8wo["oral3"] + v10oral["oral4"]
+oral["readAloud"] += (v4wr["readAloud"] + v7wo["readAloud2"] + v8wo["readAloud3"]
+                      + v10oral["readAloud4"])
 
 # reading aloud, practised in the app: say it, then mark yourself
 bank.append({
-    "id": "readaloud", "letter": "RA", "title": "Reading aloud · 15 passages", "level": "P3",
+    "id": "readaloud", "letter": "RA", "title": f'Reading aloud · {len(oral["readAloud"])} passages', "level": "P3",
     "mode": "compose", "oral": True,
     "instruction": "Read the passage out loud to an adult, then mark yourself against what the notes say to listen for.",
     "criteria": [
@@ -356,6 +367,15 @@ bank.append({
                   for t in sw4["tasks"]]
 })
 
+sw5 = v10wr["situational5"]
+bank.append({
+    "id": sw5["id"], "letter": sw5["letter"], "title": sw5["title"], "level": sw5["level"],
+    "mode": "compose", "criteria": sw5["criteria"], "instruction": sw5["instruction"],
+    "questions": [{"n": t["n"], "q": t["task"], "m": t["model"], "a": [t["model"]],
+                   "kind": t["kind"], "pac": t["pac"], "why": t["why"], "marks": 15}
+                  for t in sw5["tasks"]]
+})
+
 cm = v8wr["composition2"]
 bank.append({
     "id": cm["id"], "letter": cm["letter"], "title": cm["title"], "level": cm["level"],
@@ -368,6 +388,20 @@ bank.append({
                        "\n\n**A shorter Primary 5 version of the same story:**\n\n" + t["p5model"]
                        if t.get("p5model") else "")}
                   for t in cm["tasks"]]
+})
+
+cn = v10wr["composition3"]
+bank.append({
+    "id": cn["id"], "letter": cn["letter"], "title": cn["title"], "level": cn["level"],
+    "mode": "compose", "criteria": cn["criteria"], "instruction": cn["instruction"],
+    "questions": [{"n": t["n"], "q": f'Theme: {t["theme"]}\n\n{t["prompt"]}',
+                   "m": t["model"], "a": [t["model"]], "marks": 40,
+                   "kind": f'Full composition · {t["theme"]}',
+                   "pac": "Plan for six minutes, then write for forty. " + t["plan"],
+                   "why": t["why"] + (
+                       "\n\n**A shorter Primary 5 version of the same story:**\n\n" + t["p5model"]
+                       if t.get("p5model") else "")}
+                  for t in cn["tasks"]]
 })
 
 # ---------- printable situational writing document ----------
@@ -644,10 +678,10 @@ GROUPS = {
                                + [f"GA{i}" for i in range(1, 30)],
     "Vocabulary": list("STX") + ["Z3", "Y8", "W1", "W2", "W3", "W4"]
                   + [f"VA{i}" for i in range(1, 25)],
-    "Comprehension": ["R", "Y", "Z6", "Z7"] + [f"C{i}" for i in range(1, 31)],
-    "Visual text & listening": [f"V{i}" for i in range(1, 16)] + ["L1", "L2", "L3", "L4", "L5"],
-    "Writing": ["SW", "SW2", "SW4", "CP", "CM", "CJ", "CJ2"],
-    "Oral": [f"O{i}" for i in range(1, 13)] + ["RA"],
+    "Comprehension": ["R", "Y", "Z6", "Z7"] + [f"C{i}" for i in range(1, 41)],
+    "Visual text & listening": [f"V{i}" for i in range(1, 22)] + ["L1", "L2", "L3", "L4", "L5"],
+    "Writing": ["SW", "SW2", "SW4", "SW5", "CP", "CM", "CN", "CJ", "CJ2"],
+    "Oral": [f"O{i}" for i in range(1, 20)] + ["RA"],
 }
 for s in bank:
     for g, letters in GROUPS.items():

@@ -2256,3 +2256,361 @@ In March I auditioned for the next production and got a speaking part. Mrs Fong 
 **9.** It shows that the eleven weeks were not wasted after all. The thing that got him a speaking part was exactly the thing that had seemed pointless: turning up to every rehearsal when he had no chance of performing. It rewards the narrator without pretending he was talented, which is more honest and more satisfying.  `[3m]`
 
 > Connect her remark back to the weeks that seemed to be for nothing.
+
+---
+
+## The Borrowed Umbrella
+
+*Narrative · about 289 words · 9 questions · 14 marks · suggested for P3 and above*
+
+The rain began during the last lesson on Monday, and by the time the bell rang it was falling so hard that nobody wanted to step outside.
+
+I had forgotten my umbrella. Again.
+
+Mrs Devi was standing at the gate with a pile of umbrellas from the lost property cupboard. She lent me a small yellow one with a bent handle.
+
+"Bring it back tomorrow," she said. "It is not mine to give away."
+
+I promised that I would. Then I ran all the way to the bus stop, holding the yellow umbrella above my head with both hands.
+
+At home I shook the water off it and leaned it against the shoe rack so that I would see it in the morning.
+
+On Tuesday I did not see it. I was late, and I ran out of the house with one shoe half on.
+
+I remembered the umbrella at recess. My stomach went tight.
+
+I did not want to tell Mrs Devi, so for the whole afternoon I avoided walking past her desk. I took the long way to the water cooler. I even waited inside the classroom until she had left the corridor.
+
+At dismissal she found me anyway.
+
+"The umbrella?" she asked.
+
+"At home," I said. "Beside the shoe rack. I am sorry."
+
+Mrs Devi did not look cross. She looked relieved.
+
+"Thank you for telling me the truth," she said. "I thought it had been thrown away."
+
+I brought it back on Wednesday, dry and folded, and I put it into the cupboard myself. Then I bought a cheap blue umbrella of my own and left it in my bag, where it has stayed ever since.
+
+I have not forgotten an umbrella in two years.
+
+### Questions
+
+**1.** When did the rain begin? *(1m)*
+
+**2.** Why did Mrs Devi have a pile of umbrellas at the gate? *(1m)*
+
+**3.** Describe the umbrella Mrs Devi lent the writer. *(2m)*
+
+**4.** Why did Mrs Devi say, "It is not mine to give away"? *(2m)*
+
+**5.** Why did the writer forget the umbrella on Tuesday morning? *(1m)*
+
+**6.** Give two things the writer did that afternoon to avoid Mrs Devi. *(2m)*
+
+**7.** Why do you think Mrs Devi looked relieved rather than cross? *(2m)*
+
+**8.** Which word in the passage means 'kept away from'? *(1m)*
+
+**9.** How do you know the writer learnt something from what happened? *(2m)*
+
+### Model answers
+
+**1.** During the last lesson on Monday.  `[1m]`
+
+> Look at the very first sentence.
+
+**2.** They came from the school's lost property cupboard.  `[1m]`
+
+> The third paragraph says where the umbrellas came from.
+
+**3.** It was small and yellow, with a bent handle.  `[2m]`
+
+> Three details are given in one sentence. Two of them will do.
+
+**4.** The umbrella belonged to somebody else, because it had been lost and put into the lost property cupboard. She was only lending it.  `[2m]`
+
+> Think about whose umbrella it really was.
+
+**5.** The writer was late and ran out of the house in a hurry, with one shoe only half on.  `[1m]`
+
+> Look at what was happening that morning.
+
+**6.** Any two of: took the long way to the water cooler; did not walk past her desk; waited inside the classroom until she had left the corridor.  `[2m]`
+
+> Two actions are asked for. The paragraph lists three.
+
+**7.** She had thought the umbrella was lost for good or thrown away, so hearing that it was safe at home was good news.  `[2m]`
+
+> Her next line tells you what she had been expecting to hear.
+
+**8.** 'Avoided'.  `[1m]`
+
+> Look in the paragraph about the afternoon.
+
+**9.** The writer bought a cheap blue umbrella to keep in the school bag, and has not forgotten an umbrella in two years.  `[2m]`
+
+> The last two paragraphs show a change in behaviour, not just a feeling.
+
+---
+
+## How Bees Tell One Another Where to Go
+
+*Non-narrative · about 279 words · 9 questions · 13 marks · suggested for P3 and above*
+
+A bee that finds a good patch of flowers has a problem. The flowers may be half a kilometre away, and the bee cannot carry its sisters there one by one.
+
+So it tells them instead. It does this by dancing.
+
+Back inside the dark hive, the bee climbs onto the honeycomb and runs forward in a straight line, shaking its body from side to side. Then it loops round and runs the same line again. From above, the path looks like the number eight.
+
+The straight run carries the message.
+
+The direction of the run tells the other bees which way to fly. The longer the run lasts, the further away the flowers are. A run of one second means the patch is about a kilometre away.
+
+The dancing bee also carries the smell of the flowers on its body, and it shares a drop of the nectar it collected. The other bees crowd round to taste it. Now they know the direction, the distance and the scent.
+
+Scientists did not always know this. In the 1940s a man named Karl von Frisch watched bees through a glass wall for years. He marked single bees with tiny spots of paint so that he could follow one at a time.
+
+What he discovered surprised people. Until then, most adults believed that insects were too simple to pass on anything so exact.
+
+A bee's dance is not speech. It does not have words, and it cannot describe anything that is not food, water or a new home. But it does something that very few animals can do: it tells another animal about a place that neither of them can see.
+
+### Questions
+
+**1.** What problem does a bee have when it finds a good patch of flowers? *(2m)*
+
+**2.** Where does the bee dance? *(1m)*
+
+**3.** What shape does the dancing bee's path look like from above? *(1m)*
+
+**4.** How do the other bees know how far away the flowers are? *(2m)*
+
+**5.** Apart from dancing, give two ways the bee passes on information about the flowers. *(2m)*
+
+**6.** Why did Karl von Frisch mark bees with spots of paint? *(1m)*
+
+**7.** Why were people surprised by what von Frisch discovered? *(2m)*
+
+**8.** Which word in the passage means 'the sweet liquid bees collect from flowers'? *(1m)*
+
+**9.** The passage says a bee's dance 'is not speech'. Give one way it is different from speech. *(1m)*
+
+### Model answers
+
+**1.** The flowers may be far away, and the bee cannot carry the other bees there one by one.  `[2m]`
+
+> The first paragraph states the problem.
+
+**2.** Inside the dark hive, on the honeycomb.  `[1m]`
+
+> Look at the third paragraph.
+
+**3.** The number eight.  `[1m]`
+
+> The end of the third paragraph describes the shape.
+
+**4.** From how long the straight run lasts. A longer run means the flowers are further away.  `[2m]`
+
+> One part of the dance carries the distance.
+
+**5.** Any two of: it carries the smell of the flowers on its body; it shares a drop of the nectar it collected so the others can taste it.  `[2m]`
+
+> Two ways are asked for, and both are in the same paragraph.
+
+**6.** So that he could follow one particular bee at a time among all the others.  `[1m]`
+
+> Think about what a hive full of identical bees would look like.
+
+**7.** Until then most people believed that insects were too simple to pass on information as exact as a direction and a distance.  `[2m]`
+
+> The paragraph after the discovery explains what people had believed before it.
+
+**8.** 'Nectar'.  `[1m]`
+
+> Look in the paragraph about smell and taste.
+
+**9.** Any one of: it has no words; it can only describe food, water or a new home, and nothing else.  `[1m]`
+
+> The last paragraph names two limits. One is enough.
+
+---
+
+## The Fourth Leg
+
+*Narrative · about 371 words · 9 questions · 17 marks · suggested for P5 and above*
+
+There are four legs in a relay and everybody wants the last one.
+
+I had run the second leg for two years, which is the leg nobody watches. You take the baton on a bend, you give it away on a bend, and the photographs are all of somebody else.
+
+So when Coach Lim read out the order for the inter-school final and my name came fourth, I did not believe it. I made him say it again.
+
+"Fourth," he said, without looking up from his clipboard. "Hui Ling, second."
+
+Hui Ling had run the fourth leg since Primary Three. She was the fastest of us over a hundred metres and everybody knew it, including her.
+
+She did not complain. That was the difficult part. She said, "Okay, Coach," and went to do her stretches by the long jump pit, alone, and at training that week she handed me the baton perfectly every single time.
+
+I asked her about it on the Thursday. She said she had asked to be moved.
+
+"You drop it when you're nervous," she said. "You don't drop it on the second leg because nobody's shouting. On the fourth leg everybody's shouting." She tightened a shoelace. "Coach thinks you should learn it now and not next year."
+
+I was not sure whether I had been promoted or sent to do something unpleasant.
+
+On the Saturday the stadium was as loud as she had promised. I stood in my box with my arm back and the noise came at me in a wall, and I could not pick out a single word of it, which turned out to be a mercy.
+
+Hui Ling came round the bend in second place. She did not shout; she slapped the baton into my palm so hard that my fingers closed by themselves.
+
+I ran the fourth leg. We finished second, four tenths of a second behind Rulang, and I did not drop anything.
+
+Afterwards the photographer took a picture of me holding the baton, because that is the leg they photograph.
+
+It is on the noticeboard outside the general office. Hui Ling is in it too, slightly out of focus, on the edge of the frame, with her hand still out.
+
+### Questions
+
+**1.** Why does the narrator say the second leg is 'the leg nobody watches'? *(2m)*
+
+**2.** How do you know the narrator was surprised by Coach Lim's running order? *(1m)*
+
+**3.** Why would most people have expected Hui Ling to run the fourth leg? *(2m)*
+
+**4.** The narrator says Hui Ling not complaining 'was the difficult part'. Why was it difficult for the narrator? *(2m)*
+
+**5.** Give two things Hui Ling did that week which showed she was not sulking. *(2m)*
+
+**6.** In your own words, explain Hui Ling's reason for asking to be moved. *(2m)*
+
+**7.** Why does the narrator describe not being able to hear the words of the crowd as 'a mercy'? *(2m)*
+
+**8.** Which word in the passage means 'moved up to a more important position'? *(1m)*
+
+**9.** The last paragraph describes a photograph. What does the writer want the reader to notice about it? *(3m)*
+
+### Model answers
+
+**1.** It begins and ends on a bend, away from the finish, so the photographs are always of somebody else.  `[2m]`
+
+> The second paragraph gives two reasons in one sentence.
+
+**2.** The narrator did not believe it and made Coach Lim say it again.  `[1m]`
+
+> Look at what the narrator does immediately after hearing the order.
+
+**3.** She had run it since Primary 3 and was the fastest of them over a hundred metres.  `[2m]`
+
+> Two reasons are given in the same paragraph.
+
+**4.** If Hui Ling had complained, the narrator could have felt she was being unfair. Because she accepted it and then helped at training, the narrator had nothing to push against and had to face that she had given something up for him.  `[2m]`
+
+> Think about how an unfair reaction would have been easier to deal with than a generous one.
+
+**5.** Any two of: she said 'Okay, Coach' without arguing; she went to do her stretches; she handed the narrator the baton perfectly every time at training.  `[2m]`
+
+> Two actions are asked for. The paragraph offers three.
+
+**6.** The narrator drops the baton when nervous. The second leg is quiet, so the problem never shows there, while the fourth leg is noisy. She thought the narrator should learn to handle that pressure now rather than a year later.  `[2m]`
+
+> Her two short lines on the Thursday contain the whole reason. Do not copy them word for word.
+
+**7.** Because the noise was what the narrator was afraid of. Hearing it as one wall of sound rather than as separate voices made it easier to ignore and so easier to run.  `[2m]`
+
+> A mercy is something you are glad about. Ask what hearing the words clearly would have done.
+
+**8.** 'Promoted'.  `[1m]`
+
+> Look at the short paragraph just before the race.
+
+**9.** The narrator is the one photographed, but Hui Ling is in the picture too — out of focus, at the edge, with her hand still out. It is a way of saying that the narrator's moment was made possible by her, even though she is not the subject of it.  `[3m]`
+
+> Think about why the writer bothers to tell us where Hui Ling is in the frame and what her hand is doing.
+
+---
+
+## Stall 42
+
+*Narrative · about 374 words · 9 questions · 17 marks · suggested for P5 and above*
+
+My grandmother's stall is number 42, at the end of the row where the fan does not reach.
+
+She has sold the same three things for thirty-one years: mee rebus, lontong, and a tea so sweet that my father will not drink it. There is no signboard with photographs. There is a strip of red plastic with her name on it, and the paint has come off the second letter.
+
+I started helping on Saturdays when I was nine. My job was the drinks and the wiping. Her job was everything else, and she did it without hurrying and without ever once looking at the clock.
+
+In June the stall three doors down closed, and a bubble tea shop opened in its place. It had a machine that sealed the cups, a menu board that lit up, and a queue.
+
+For a few weeks my grandmother said nothing about it. Then one Saturday she asked me to write down what a bubble tea cost. I wrote it on the back of an order slip. She looked at the number for a long time and put the slip in her apron pocket.
+
+"One cup," she said, "is two plates of my lontong."
+
+I thought she was going to say it was ridiculous. Instead she said, "They are not selling drinks. They are selling somewhere to stand with your friends."
+
+The following Saturday she moved two of the plastic stools out from behind the stall and put them against the wall, in the shade, where the fan does reach. She told the secondary school boys who buy her tea that they could sit there.
+
+They sat there. They came back the next week with two more boys, and the week after that one of them took a photograph of the red plastic strip with her name on it and put it somewhere I do not fully understand.
+
+By August she was running out of lontong before one o'clock.
+
+She has still not put up a signboard. She says the stall has had the same number for thirty-one years and anybody who wants it can find it.
+
+But the stools are still against the wall, and on Saturdays I am now in charge of carrying them out.
+
+### Questions
+
+**1.** Give two details that show the grandmother's stall is old-fashioned. *(2m)*
+
+**2.** What was the narrator's job at the stall? *(1m)*
+
+**3.** Give two ways the new bubble tea shop was different from the grandmother's stall. *(2m)*
+
+**4.** Why do you think the grandmother asked the narrator to write down the price of a bubble tea? *(2m)*
+
+**5.** Explain what the grandmother means when she says, "They are not selling drinks. They are selling somewhere to stand with your friends." *(2m)*
+
+**6.** What did the grandmother do as a result of that thought, and why was the place she chose a good one? *(2m)*
+
+**7.** What does the writer mean by saying the photograph was put 'somewhere I do not fully understand'? *(2m)*
+
+**8.** How do we know the grandmother's stall became busier? *(1m)*
+
+**9.** The grandmother changed one thing and refused to change another. What does this tell you about her? *(3m)*
+
+### Model answers
+
+**1.** Any two of: it has sold the same three items for thirty-one years; it has no signboard with photographs, only a strip of red plastic; the paint has worn off a letter of her name.  `[2m]`
+
+> Two details are asked for. The second paragraph offers several.
+
+**2.** The drinks and the wiping.  `[1m]`
+
+> The third paragraph says it in one short sentence.
+
+**3.** Any two of: it had a machine that sealed the cups; it had a menu board that lit up; it had a queue.  `[2m]`
+
+> Three differences are listed in a single sentence.
+
+**4.** She wanted to understand what the new shop was charging and to compare it with her own prices, which she does out loud in the next paragraph.  `[2m]`
+
+> Look at what she says once she has the number.
+
+**5.** She means the shop's success does not come from the drink itself but from giving young people a place to gather, which is what they are really paying for.  `[2m]`
+
+> Her next action shows what she concluded from this, which is a clue to what she meant.
+
+**6.** She moved two plastic stools out and put them against the wall for the secondary school boys to sit on. The spot was good because it was in the shade and the fan reached it, unlike her own stall.  `[2m]`
+
+> Two parts: the action, and what was special about where she put the stools. The first paragraph tells you about the fan.
+
+**7.** The boy posted it online, on social media. The narrator knows roughly what happened but not how it works, and the grandmother would understand it even less.  `[2m]`
+
+> Think about what a secondary school boy does with a photograph he has just taken.
+
+**8.** By August she was running out of lontong before one o'clock.  `[1m]`
+
+> One short paragraph gives the evidence, without using the word 'busy'.
+
+**9.** She is willing to change how people use the space around her stall, because she listens to what customers actually want, but she will not change what she thinks makes the stall hers — the food, and being known by her number rather than by a signboard. She adapts without copying.  `[3m]`
+
+> Set the stools against the signboard. Ask what each one would have cost her.

@@ -25,9 +25,10 @@ column, and reaching the oral sets meant scrolling past everything else.
 - **168 practice sets, 3,535 questions**, grouped the way the exam is: grammar
   and sentence work (1,667), vocabulary (1,153), comprehension (359), visual
   text and listening (225), writing (64) and oral (67).
-- **6 timed mock papers**, 357 questions: one at Primary 3, one at Primary 4,
-  three PSLE-format Paper 2s and one PSLE-format Paper 1. The papers matching
-  the child's level are listed first.
+- **8 timed mock papers**, 462 questions: **three at Primary 3** (A, B and C —
+  same 60 marks and 75 minutes, meant to be sat a few days apart), one at
+  Primary 4, three PSLE-format Paper 2s and one PSLE-format Paper 1. The papers
+  matching the child's level are listed first.
 - **17 printable documents** inside the app under *Read & print*, each set also
   printable as a worksheet with its own answer key.
 - **An error log** that collects every question got wrong, groups them by set

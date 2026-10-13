@@ -221,7 +221,9 @@ prep(po["paper1"])
 
 p2d = json.loads((SRC / "content_paper2d.json").read_text(encoding="utf-8"))
 p2e = json.loads((SRC / "content_paper2e.json").read_text(encoding="utf-8"))
-for _p in (p2d["paper"], p2e["paper"]):
+p2f = json.loads((SRC / "content_paper2f.json").read_text(encoding="utf-8"))
+p2g = json.loads((SRC / "content_paper2g.json").read_text(encoding="utf-8"))
+for _p in (p2d["paper"], p2e["paper"], p2f["paper"], p2g["paper"]):
     prep(_p)
 # the three PSLE-format papers and the writing paper are upper primary
 for _p in (paper, p2b["paper"], p2c["paper"], po["paper1"]):
@@ -734,12 +736,14 @@ def _spread(sid, qs):
 
 for _s in bank:
     _spread(_s["id"], _s["questions"])
-for _p in (paper, p2b["paper"], p2c["paper"], po["paper1"], p2d["paper"], p2e["paper"]):
+for _p in (paper, p2b["paper"], p2c["paper"], po["paper1"],
+           p2d["paper"], p2e["paper"], p2f["paper"], p2g["paper"]):
     for _sec in _p["sections"]:
         if _sec["mode"] == "mcq":
             _spread(_p["id"] + _sec["id"], _sec["questions"])
 (SRC / "papers.json").write_text(
-    json.dumps([p2d["paper"], p2e["paper"], paper, p2b["paper"], p2c["paper"], po["paper1"]],
+    json.dumps([p2d["paper"], p2f["paper"], p2g["paper"], p2e["paper"],
+                paper, p2b["paper"], p2c["paper"], po["paper1"]],
                ensure_ascii=False), encoding="utf-8")
 
 # --- explanations written separately, applied to the assembled bank ---

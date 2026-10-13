@@ -220,6 +220,7 @@ h1,h2,h3,h4{font-family:var(--sans);letter-spacing:-.018em}
 .qcard{padding:30px 30px 26px;position:relative;overflow:hidden}
 .qcard::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--accent)}
 .qcard.right::before{background:var(--ok)} .qcard.wrong::before{background:var(--no)}
+.cz{margin:0 0 .85em}.cz:last-child{margin-bottom:0}
 .passage{background:var(--field);border:1px solid var(--line);border-radius:11px;padding:18px 20px;margin-bottom:20px;max-height:300px;overflow-y:auto;font-size:16px;line-height:1.72}
 .passage.open{max-height:none}
 .passage h4{margin:0 0 10px;font-size:15px}
@@ -844,7 +845,10 @@ function showBlanks(t,focus){
   out=out.replace(/\((\d+)\)_{3,}/g,(m,n)=>
     `<span class="blankmark ${+n===focus?'on':(focus?'dim':'')}">&nbsp;${n}&nbsp;</span>`);
   out=out.replace(/_{3,}/g,'<span class="blankmark">&nbsp;?&nbsp;</span>');
-  return out;
+  // Keep the paragraphing the passage was written with. Without this every cloze —
+  // the practice sets and the ones inside the mock papers — came out as a single
+  // block, with the passage title running into its first sentence.
+  return out.split(/\n{2,}/).map(p=>`<p class="cz">${p.replace(/\n/g,'<br>')}</p>`).join('');
 }
 
 /* ---------- profile gate ---------- */

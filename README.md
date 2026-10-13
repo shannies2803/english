@@ -22,8 +22,8 @@ column, and reaching the oral sets meant scrolling past everything else.
 
 ## What is in it
 
-- **173 practice sets, 3,553 questions**, grouped the way the exam is: grammar
-  and sentence work (1,667), vocabulary (1,153), comprehension (359), visual
+- **176 practice sets, 3,653 questions**, grouped the way the exam is: grammar
+  and sentence work (1,667), vocabulary (1,253), comprehension (359), visual
   text and listening (225), writing (70) and oral (79).
 - **8 timed mock papers**, 462 questions: **three at Primary 3** (A, B and C —
   same 60 marks and 75 minutes, meant to be sat a few days apart), one at

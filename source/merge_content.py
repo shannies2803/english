@@ -22,14 +22,17 @@ v10vis = json.loads((SRC / "content_v10_visual.json").read_text(encoding="utf-8"
 v10oral = json.loads((SRC / "content_v10_oral.json").read_text(encoding="utf-8"))
 v10wr = json.loads((SRC / "content_v10_writing.json").read_text(encoding="utf-8"))
 v11or = json.loads((SRC / "content_v11_p3_oral.json").read_text(encoding="utf-8"))
+v11voc = json.loads((SRC / "content_v11_p3_vocab.json").read_text(encoding="utf-8"))
 drills["sets"] += (v3drills["sets"] + v4young["sets"] + v4vocab["sets"]
                    + v6vocab["sets"] + v6gram["sets"]
                    + v7gram["sets"] + v7vocab["sets"]
-                   + v8gram["sets"] + v8vocab["sets"])
+                   + v8gram["sets"] + v8vocab["sets"]
+                   + v11voc["sets"])
 comp = json.loads((SRC / "content_comprehension.json").read_text(encoding="utf-8"))
 
 # multi-passage cloze sets carry their blanks in a separate answers list
-MULTI_PASSAGE = {"secY", "secZE", "secZF", "graGA11", "g7GA23", "v7VA17", "clzA"}
+MULTI_PASSAGE = {"secY", "secZE", "secZF", "graGA11", "g7GA23", "v7VA17", "clzA",
+                 "v11VA26"}
 
 drills["sets"] += v7comp["clozeSets"]
 
@@ -695,7 +698,7 @@ GROUPS = {
                                + ["Z1", "Z2", "Z4", "Z5", "Y1", "Y2", "Y3", "Y4", "Y5", "Y6", "Y7"]
                                + [f"GA{i}" for i in range(1, 30)],
     "Vocabulary": list("STX") + ["Z3", "Y8", "W1", "W2", "W3", "W4"]
-                  + [f"VA{i}" for i in range(1, 25)],
+                  + [f"VA{i}" for i in range(1, 35)],
     "Comprehension": ["R", "Y", "Z6", "Z7"] + [f"C{i}" for i in range(1, 41)],
     "Visual text & listening": [f"V{i}" for i in range(1, 22)] + ["L1", "L2", "L3", "L4", "L5"],
     "Writing": ["SW", "SW2", "SW4", "SW5", "CP", "CM", "CN", "CJ", "CJ2", "CJ3"],

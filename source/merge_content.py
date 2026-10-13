@@ -21,6 +21,7 @@ v10comp = json.loads((SRC / "content_v10_comprehension.json").read_text(encoding
 v10vis = json.loads((SRC / "content_v10_visual.json").read_text(encoding="utf-8"))
 v10oral = json.loads((SRC / "content_v10_oral.json").read_text(encoding="utf-8"))
 v10wr = json.loads((SRC / "content_v10_writing.json").read_text(encoding="utf-8"))
+v11or = json.loads((SRC / "content_v11_p3_oral.json").read_text(encoding="utf-8"))
 drills["sets"] += (v3drills["sets"] + v4young["sets"] + v4vocab["sets"]
                    + v6vocab["sets"] + v6gram["sets"]
                    + v7gram["sets"] + v7vocab["sets"]
@@ -235,7 +236,8 @@ v4wr = json.loads((SRC / "content_v4_writing.json").read_text(encoding="utf-8"))
 v7wo = json.loads((SRC / "content_v7_writing_oral.json").read_text(encoding="utf-8"))
 v8wo = json.loads((SRC / "content_v8_writing_oral.json").read_text(encoding="utf-8"))
 v8wr = json.loads((SRC / "content_v8_writing.json").read_text(encoding="utf-8"))
-oral["conversation"] += v3wo["oral"] + v7wo["oral2"] + v8wo["oral3"] + v10oral["oral4"]
+oral["conversation"] += (v3wo["oral"] + v7wo["oral2"] + v8wo["oral3"]
+                         + v10oral["oral4"] + v11or["oral5"])
 oral["readAloud"] += (v4wr["readAloud"] + v7wo["readAloud2"] + v8wo["readAloud3"]
                       + v10oral["readAloud4"])
 
@@ -338,7 +340,10 @@ for oi, c in enumerate(oral["conversation"], 1):
     bank.append({"id": c["id"], "letter": f"O{oi}", "title": f'Oral · {c["title"]}',
                  "level": c["level"], "mode": "read", "oral": True, "visual": c["stimulus"],
                  "questions": [{"n": q["n"], "q": q["q"], "a": [q["model"]], "m": q["model"],
-                                "tip": "Say your answer out loud before you type anything. Aim for four to six sentences using Point, Elaborate, Example, Link.",
+                                # left empty on purpose when the question has no tip of its own:
+                                # the page then prints its own upper-primary advice, and setting
+                                # it here as well printed the same instruction twice
+                                "tip": q.get("tip", ""),
                                 "marks": 5} for q in c["questions"]]})
 
 # ---------- situational writing practice set ----------
@@ -683,7 +688,7 @@ GROUPS = {
     "Comprehension": ["R", "Y", "Z6", "Z7"] + [f"C{i}" for i in range(1, 41)],
     "Visual text & listening": [f"V{i}" for i in range(1, 22)] + ["L1", "L2", "L3", "L4", "L5"],
     "Writing": ["SW", "SW2", "SW4", "SW5", "CP", "CM", "CN", "CJ", "CJ2"],
-    "Oral": [f"O{i}" for i in range(1, 20)] + ["RA"],
+    "Oral": [f"O{i}" for i in range(1, 26)] + ["RA"],
 }
 for s in bank:
     for g, letters in GROUPS.items():

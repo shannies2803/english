@@ -532,6 +532,78 @@ Three questions follow each stimulus. The child looks at the stimulus for a shor
 
 > I agree, but I want to be careful about why, because the usual argument is that children are tired, and tiredness is only part of it. What this study points to is more interesting: free time is where you find out what you actually like, and that cannot be scheduled for you. A child whose whole week is arranged may do very well at school and still reach secondary school without knowing what they would choose to do with an afternoon. I would not argue for less work. I would argue for protecting one genuinely empty afternoon a week and resisting the temptation to fill it, which I think is harder for parents than it sounds.
 
+### The class reading corner  ·  *P3 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**    PRIMARY 3 NOTICEBOARD  Our Reading Corner is open!          Borrow one book at a time        Read quietly after lunch           Keep the corner tidy    There are  60 books  on the shelf. Sign your name on the card before you take one, and bring it back within  one week .  New books arrive on the first Monday of every month.   
+
+**Q1. What can you see on this notice?**
+
+> I can see a notice about our class reading corner. There are three pictures. The first one shows a book, and it says we can borrow one book at a time. The second one is a clock, for reading quietly after lunch. The third one is a plant, and it tells us to keep the corner tidy. At the bottom it says there are sixty books on the shelf.
+
+**Q2. Do you like reading? Tell me about a book you have enjoyed.**
+
+> Yes, I like reading very much. My favourite book is about a boy who finds a dragon egg in his garden. I like it because the dragon is naughty and keeps eating his father's slippers. I have read it three times already. My sister gave it to me for my birthday last year.
+
+**Q3. Why do you think the notice asks everyone to keep the corner tidy?**
+
+> I think it is because the whole class shares the corner. If everybody leaves the books on the floor, the next person cannot find the one they want. It would also be hard to see which books are missing. Tidying up only takes a minute, and then everyone can enjoy it.
+
+### The new playground  ·  *P3 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**    TOWN COUNCIL NOTICE  The playground is open again            New swings and a slide         Ball games on the grass only         No bicycles inside the gate    Open every day from  7 a.m. to 8 p.m.  Children under six must come with an adult.  Please take your rubbish home with you. There are no bins inside the playground.   
+
+**Q1. Tell me what this notice is about.**
+
+> This notice is about a playground near our flats that has opened again. It says there are new swings and a slide. You can only play ball games on the grass, and you cannot bring a bicycle inside the gate. It is open from seven in the morning until eight at night.
+
+**Q2. Do you go to a playground near your home? What do you do there?**
+
+> Yes, there is a playground just behind my block. I usually go on Saturday morning with my younger brother. I like the climbing frame best because you can get right to the top and see the carpark. My brother only likes the slide, so we take turns.
+
+**Q3. The notice says to take your rubbish home. Why is that important?**
+
+> It is important because there are no bins in the playground, so rubbish would just stay on the ground. It would make the playground dirty and nobody would want to play there. Rubbish can also attract crows and ants. If everyone takes their own rubbish home, it stays clean for the next person.
+
+### Fruit and water at school  ·  *P3 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**    SCHOOL HEALTH WEEK  Fruit Break — every Wednesday          Bring one fruit on Wednesday       Fill your bottle at the cooler          Finish what is on your plate    Last term only  4 out of 10  pupils brought a fruit to school. This term we would like  every  pupil to try.  The water coolers outside the hall are free to use at any recess.   
+
+**Q1. What does this poster ask pupils to do?**
+
+> The poster asks pupils to bring one fruit to school every Wednesday. It also tells us to fill our water bottles at the cooler outside the hall, and to finish the food on our plates. It says that last term only four out of ten pupils brought a fruit, and this term the school wants everybody to try.
+
+**Q2. What do you usually bring for recess? Tell me about it.**
+
+> I usually bring a sandwich and a bottle of water. My mother makes the sandwich the night before and puts it in a green box. On Wednesdays I bring a banana as well because of fruit break. I like bananas because they are easy to eat quickly and I still have time to play.
+
+**Q3. Why do you think the school wants everyone to drink more water?**
+
+> I think it is because Singapore is very hot and we sweat a lot, especially after PE. If we do not drink enough, we get a headache and feel tired in class. Water is also better than sweet drinks because it is not bad for our teeth. The coolers are free, so there is no excuse.
+
+### Helping at home  ·  *P3 and above*
+
+*(The stimulus for this topic is shown in the app under Practice. A description is given below so the conversation can also be done from this document.)*
+
+**Stimulus summary:**    PRIMARY 3 RESILIENCE  Our Class Helping Chart           Sweeping the floor          Washing up        Making the bed           Watering plants    We asked all  30 pupils  what they help with at home. Making the bed was the most common. Only  3  pupils said they water plants.  Choose one new job to try this month and tell the class how it went.   
+
+**Q1. Tell me what this chart shows.**
+
+> This chart shows the jobs that our class does at home. There are four pictures: sweeping the floor, washing up, making the bed and watering plants. Thirty pupils were asked. Making the bed was the one that most people do, and only three pupils said they water plants.
+
+**Q2. What jobs do you help with at home?**
+
+> I help in two ways. Every morning I make my own bed before I leave for school, and after dinner I help to clear the table and wipe it. On Sunday I also help my father wash his bicycle, which is my favourite one because I am allowed to use the hose.
+
+**Q3. Why is it good for children to help at home?**
+
+> I think it is good because our parents work the whole day and they are tired when they come home. If everybody helps, the work is finished much faster and we can all watch television together. We also learn how to do things ourselves, so when we are older we will know how.
+
 ---
 
 ## Marking Reading Aloud at home

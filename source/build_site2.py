@@ -1137,7 +1137,7 @@ function renderQ(){
     ${q.pac?`<div class="pacbox"><strong>Before you write:</strong> ${esc(q.pac)}</div>`:''}
     ${input}
     ${mode==='self'?'<p class="hintline" style="margin-top:9px">Write it out, then check it against the model answer.</p>':''}
-    ${mode==='read'&&Q.set.oral?`<p class="hintline" style="margin-top:9px">Say it out loud first, then type roughly what you said. Aim for four to six sentences: Point, Elaborate, Example, Link.</p>`:''}
+    ${mode==='read'&&Q.set.oral?`<p class="hintline" style="margin-top:9px">Say it out loud first, then type roughly what you said. ${q.tip ? esc(q.tip) : 'Aim for four to six sentences: Point, Elaborate, Example, Link.'}</p>`:''}
     ${mode==='read'&&!Q.set.oral?`<p class="hintline" style="margin-top:9px">Answer in full sentences. ${q.marks>1?q.marks+' marks means '+q.marks+' separate points.':'One mark — keep it short.'}</p>`:''}
     ${/…/.test(q.m||'')?'<p class="hintline" style="margin-top:9px">Two blanks here — separate your answers with a comma.</p>':''}
     <div class="feedback" id="fb"></div>

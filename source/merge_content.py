@@ -289,6 +289,17 @@ bank.append({
                   for t in p3c["tasks"]]
 })
 
+p3e = json.loads((SRC / "content_v11_p3_composition.json").read_text(encoding="utf-8"))["set"]
+bank.append({
+    "id": p3e["id"], "letter": p3e["letter"], "title": p3e["title"], "level": p3e["level"],
+    "mode": "compose", "criteria": p3c["criteria"], "instruction": p3e["instruction"],
+    "questions": [{"n": t["n"], "q": t["title"], "m": t["model"], "a": [t["model"]],
+                   "marks": 20, "kind": f'Picture composition · {t["theme"]}',
+                   "pac": p3e["helper"], "why": t["why"],
+                   "pictures": t["pictures"]}
+                  for t in p3e["tasks"]]
+})
+
 p3d = v7wo["compositionP3b"]
 bank.append({
     "id": p3d["id"], "letter": p3d["letter"], "title": p3d["title"], "level": p3d["level"],
@@ -687,7 +698,7 @@ GROUPS = {
                   + [f"VA{i}" for i in range(1, 25)],
     "Comprehension": ["R", "Y", "Z6", "Z7"] + [f"C{i}" for i in range(1, 41)],
     "Visual text & listening": [f"V{i}" for i in range(1, 22)] + ["L1", "L2", "L3", "L4", "L5"],
-    "Writing": ["SW", "SW2", "SW4", "SW5", "CP", "CM", "CN", "CJ", "CJ2"],
+    "Writing": ["SW", "SW2", "SW4", "SW5", "CP", "CM", "CN", "CJ", "CJ2", "CJ3"],
     "Oral": [f"O{i}" for i in range(1, 26)] + ["RA"],
 }
 for s in bank:

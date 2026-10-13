@@ -22,9 +22,9 @@ column, and reaching the oral sets meant scrolling past everything else.
 
 ## What is in it
 
-- **168 practice sets, 3,535 questions**, grouped the way the exam is: grammar
+- **173 practice sets, 3,553 questions**, grouped the way the exam is: grammar
   and sentence work (1,667), vocabulary (1,153), comprehension (359), visual
-  text and listening (225), writing (64) and oral (67).
+  text and listening (225), writing (70) and oral (79).
 - **8 timed mock papers**, 462 questions: **three at Primary 3** (A, B and C —
   same 60 marks and 75 minutes, meant to be sat a few days apart), one at
   Primary 4, three PSLE-format Paper 2s and one PSLE-format Paper 1. The papers
@@ -63,6 +63,9 @@ A clean rebuild reproduces the published file byte for byte.
 - `source/*.md` — the hand-written documents; the rest are generated
 - `source/tips/ALL.txt` — every written explanation, one per line as
   `SET|NUMBER|explanation`, applied to the bank at build time
+- `source/lib/p3pics.py` — the drawing vocabulary for the Primary 3 composition
+  pictures: figures, poses and props in one fixed flat style, so a panel is two
+  or three lines and all three sets look like the same book
 - `source/history/` — the one-off scripts behind each past correction, kept
   because together they are the record of what was fixed and why
 
@@ -74,7 +77,8 @@ and are not needed to deploy it.
 ```bash
 cd source
 python3 audit.py              # structural: keys, options, marks, duplicates,
-                              # answer-position bias, missing explanations
+                              # answer-position bias, missing explanations, and
+                              # (via piccheck.py) composition-panel geometry
 npm install                   # playwright, for the browser tests
 ./runtests.sh                 # all sixteen browser suites (about four minutes)
 ```

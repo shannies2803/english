@@ -178,3 +178,23 @@ for label, items in (("ERRORS", ERR), ("WARNINGS", WARN), ("NOTES", NOTE)):
     if len(items) > 60:
         print(f"  … and {len(items)-60} more")
     print()
+
+# ---------- picture panels ----------
+# Composition pictures are drawings, so most of what matters about them can only be
+# judged by looking. piccheck.py finds the part a machine can: figures that merge,
+# shapes off the panel, and figures standing on nothing.
+try:
+    import piccheck, glob as _glob
+    _files = sorted(f for f in _glob.glob(str(SRC / "content_*.json"))
+                    if "composition" in f or "writing_oral" in f)
+    _tot, _probs = 0, []
+    for _f in _files:
+        _n, _p = piccheck.check(_f)
+        _tot += _n; _probs += _p
+    print(f"\n--- PICTURE PANELS ({_tot} checked) ---")
+    for _b in _probs:
+        print("  [picture] " + _b)
+    if not _probs:
+        print("  no geometry problems")
+except Exception as _e:
+    print(f"\n--- PICTURE PANELS --- could not run piccheck: {_e}")
